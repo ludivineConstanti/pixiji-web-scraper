@@ -1,1 +1,2427 @@
-[{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}]
+[
+  {
+    "kanjiId": 1,
+    "kanji": "一",
+    "en": "one",
+    "kana": "いち",
+    "kanaEn": "ichi",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 2,
+    "kanji": "二",
+    "en": "two",
+    "kana": "に",
+    "kanaEn": "ni",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 3,
+    "kanji": "三",
+    "en": "three",
+    "kana": "さん",
+    "kanaEn": "san",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 4,
+    "kanji": "四",
+    "en": "four",
+    "kana": "よん",
+    "kanaEn": "yon",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 5,
+    "kanji": "五",
+    "en": "five",
+    "kana": "ご",
+    "kanaEn": "go",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 6,
+    "kanji": "六",
+    "en": "six",
+    "kana": "ろく",
+    "kanaEn": "roku",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 7,
+    "kanji": "七",
+    "en": "seven",
+    "kana": "なな",
+    "kanaEn": "nana",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 8,
+    "kanji": "八",
+    "en": "eight",
+    "kana": "はち",
+    "kanaEn": "hachi",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 9,
+    "kanji": "九",
+    "en": "nine",
+    "kana": "く",
+    "kanaEn": "ku",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 10,
+    "kanji": "十",
+    "en": "ten",
+    "kana": "じゅう",
+    "kanaEn": "jū",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 11,
+    "kanji": "百",
+    "en": "hundred",
+    "kana": "せん",
+    "kanaEn": "sen",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 12,
+    "kanji": "千",
+    "en": "thousand",
+    "kana": "せん",
+    "kanaEn": "sen",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 13,
+    "kanji": "上",
+    "en": "above",
+    "kana": "うえ",
+    "kanaEn": "ue",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 14,
+    "kanji": "下",
+    "en": "below",
+    "kana": "した",
+    "kanaEn": "shita",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 15,
+    "kanji": "左",
+    "en": "left",
+    "kana": "ひだり",
+    "kanaEn": "hidari",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 16,
+    "kanji": "右",
+    "en": "right",
+    "kana": "みぎ",
+    "kanaEn": "migi",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 17,
+    "kanji": "中",
+    "en": "middle",
+    "kana": "なか",
+    "kanaEn": "naka",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 18,
+    "kanji": "大",
+    "en": "large",
+    "kana": "だい",
+    "kanaEn": "dai",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 19,
+    "kanji": "小",
+    "en": "small",
+    "kana": "しょう",
+    "kanaEn": "shō",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 20,
+    "kanji": "月",
+    "en": "moon",
+    "kana": "つき",
+    "kanaEn": "tsuki",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 21,
+    "kanji": "日",
+    "en": "day",
+    "kana": "ひ",
+    "kanaEn": "hi",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 22,
+    "kanji": "年",
+    "en": "year",
+    "kana": "とし",
+    "kanaEn": "toshi",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 23,
+    "kanji": "早",
+    "en": "early",
+    "kana": "はや",
+    "kanaEn": "haya",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 24,
+    "kanji": "木",
+    "en": "tree",
+    "kana": "き",
+    "kanaEn": "ki",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 25,
+    "kanji": "林",
+    "en": "woods",
+    "kana": "はやし",
+    "kanaEn": "hayashi",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 一 ",
+        "kana": "イチ",
+        "kanaEn": "ichi",
+        "en": [
+          "one",
+          "1",
+          "best",
+          "first",
+          "foremost",
+          "beginning",
+          "start",
+          "a (single)",
+          "one (of many)",
+          "ace (playing card)",
+          "bottom string (on a shamisen, etc.)"
+        ]
+      },
+      {
+        "kanji": " 一応目を通す ",
+        "kana": "イチオウメヲトオス",
+        "kanaEn": "ichioumewotoosu",
+        "en": [
+          "to run one's eye over (e.g. to check if it's OK)",
+          "to glance over",
+          "to skim through"
+        ]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " １対１ ",
+        "kana": "イチタイイチ",
+        "kanaEn": "ichitaiichi",
+        "en": ["one-to-one", "one-on-one"]
+      },
+      {
+        "kanji": " 一 ",
+        "kana": "イツ",
+        "kanaEn": "itsu",
+        "en": ["one", "same (mind, path, etc.)"]
+      },
+      {
+        "kanji": " 一に ",
+        "kana": "イツニ",
+        "kanaEn": "itsuni",
+        "en": ["solely", "entirely", "only", "or"]
+      },
+      {
+        "kanji": " 均一 ",
+        "kana": "キンイツ",
+        "kanaEn": "kinitsu",
+        "en": ["uniformity", "equality"]
+      },
+      {
+        "kanji": " 画一 ",
+        "kana": "カクイツ",
+        "kanaEn": "kakuitsu",
+        "en": ["uniformity", "standardization", "standardisation"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 一つ ",
+        "kana": "ひとつ",
+        "kanaEn": "hitotsu",
+        "en": [
+          "one",
+          "for one thing",
+          "only",
+          "(not)",
+          "even",
+          "just (e.g. \"just try it\")",
+          "some kind of",
+          "one type of"
+        ]
+      },
+      {
+        "kanji": " 一つ一つ ",
+        "kana": "ひとつひとつ",
+        "kanaEn": "hitotsuhitotsu",
+        "en": ["one-by-one", "separately", "in detail"]
+      }
+    ]
+  }
+]
