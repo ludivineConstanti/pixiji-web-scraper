@@ -198,5 +198,205 @@
     "kana": "はやし",
     "kanaEn": "hayashi",
     "quizId": 1
+  },
+  {
+    "kanjiId": 26,
+    "kanji": "山",
+    "en": "mountain",
+    "kana": "やま",
+    "kanaEn": "yama",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 27,
+    "kanji": "川",
+    "en": "river",
+    "kana": "かわ",
+    "kanaEn": "kawa",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 28,
+    "kanji": "土",
+    "en": "ground",
+    "kana": "つち",
+    "kanaEn": "tsuchi",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 29,
+    "kanji": "空",
+    "en": "sky",
+    "kana": "そら",
+    "kanaEn": "sora",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 30,
+    "kanji": "田",
+    "en": "rice field",
+    "kana": "た",
+    "kanaEn": "ta",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 31,
+    "kanji": "天",
+    "en": "heaven",
+    "kana": "てん",
+    "kanaEn": "ten",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 32,
+    "kanji": "生",
+    "en": "a living",
+    "kana": "せい",
+    "kanaEn": "sei",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 33,
+    "kanji": "花",
+    "en": "flower",
+    "kana": "はな",
+    "kanaEn": "hana",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 34,
+    "kanji": "草",
+    "en": "grass",
+    "kana": "くさ",
+    "kanaEn": "kusa",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 35,
+    "kanji": "虫",
+    "en": "insect",
+    "kana": "むし",
+    "kanaEn": "mushi",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 36,
+    "kanji": "犬",
+    "en": "dog",
+    "kana": "いぬ",
+    "kanaEn": "inu",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 37,
+    "kanji": "人",
+    "en": "person",
+    "kana": "ひと",
+    "kanaEn": "hito",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 38,
+    "kanji": "名",
+    "en": "name",
+    "kana": "な",
+    "kanaEn": "na",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 39,
+    "kanji": "女",
+    "en": "woman",
+    "kana": "おんな",
+    "kanaEn": "onna",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 40,
+    "kanji": "男",
+    "en": "man",
+    "kana": "おとこ",
+    "kanaEn": "otoko",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 41,
+    "kanji": "子",
+    "en": "child",
+    "kana": "こ",
+    "kanaEn": "ko",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 42,
+    "kanji": "目",
+    "en": "eye",
+    "kana": "め",
+    "kanaEn": "me",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 43,
+    "kanji": "耳",
+    "en": "ear",
+    "kana": "みみ",
+    "kanaEn": "mimi",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 44,
+    "kanji": "口",
+    "en": "mouth",
+    "kana": "くつ",
+    "kanaEn": "kutsu",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 45,
+    "kanji": "手",
+    "en": "hand",
+    "kana": "て",
+    "kanaEn": "te",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 46,
+    "kanji": "足",
+    "en": "foot",
+    "kana": "あし",
+    "kanaEn": "ashi",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 47,
+    "kanji": "見",
+    "en": "see",
+    "kana": "み",
+    "kanaEn": "mi",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 48,
+    "kanji": "音",
+    "en": "sound",
+    "kana": "おん",
+    "kanaEn": "on",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 49,
+    "kanji": "力",
+    "en": "strength",
+    "kana": "ちから",
+    "kanaEn": "chikara",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 50,
+    "kanji": "気",
+    "en": "spirit",
+    "kana": "き",
+    "kanaEn": "ki",
+    "quizId": 1
   }
 ]

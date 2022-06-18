@@ -104,92 +104,94 @@
     "kanaEn": "ni",
     "quizId": 1,
     "onyomiCompounds": [
+      { "kanji": " 二 ", "kana": "ニ", "kanaEn": "ni", "en": ["two", "2"] },
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 二院 ",
+        "kana": "ニイン",
+        "kanaEn": "niin",
+        "en": ["the two houses of legislature"]
+      },
+      {
+        "kanji": " 一二 ",
+        "kana": "イチニ",
+        "kanaEn": "ichini",
+        "en": ["the first and second", "a few"]
+      },
+      {
+        "kanji": " 十二 ",
+        "kana": "ジュウニ",
+        "kanaEn": "juni",
+        "en": ["twelve", "12", "queen (playing card)"]
+      },
+      {
+        "kanji": " 次男 ",
+        "kana": "ジナン",
+        "kanaEn": "jinan",
+        "en": ["second son"]
+      },
+      {
+        "kanji": " 二黒 ",
+        "kana": "ジコク",
+        "kanaEn": "jikoku",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "second of nine traditional astrological signs (corresponding to Saturn and southwest)"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
+        "kanji": " 不二 ",
+        "kana": "フジ",
+        "kanaEn": "fuji",
         "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
+          "being two sides of the same coin",
+          "being the same (while appearing different)",
+          "Very sincerely yours",
+          "peerless",
+          "unparalleled",
+          "unparallelled"
         ]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 唯一不二 ",
+        "kana": "ユイイツフジ",
+        "kanaEn": "yuiitsufuji",
+        "en": ["one and only", "unique"]
       }
     ],
     "kunyomiCompounds": [
+      { "kanji": " 二 ", "kana": "に", "kanaEn": "ni", "en": ["two", "2"] },
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 二重 ",
+        "kana": "にじゅう",
+        "kanaEn": "niju",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "double",
+          "two-fold",
+          "two layers",
+          "duplex",
+          "diplo-",
+          "dipl-",
+          "double-edged eyelid",
+          "double eyelid",
+          "creased eyelid"
         ]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 二つ ",
+        "kana": "ふたつ",
+        "kanaEn": "futatsu",
+        "en": ["two"]
+      },
+      {
+        "kanji": " 二つ目 ",
+        "kana": "ふたつめ",
+        "kanaEn": "futatsume",
+        "en": ["one after next", "second"]
+      },
+      {
+        "kanji": " 再び ",
+        "kana": "ふたたび",
+        "kanaEn": "futatabi",
+        "en": ["again", "once more", "a second time"]
       }
     ]
   },
@@ -202,91 +204,73 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 三 ",
+        "kana": "サン",
+        "kanaEn": "san",
+        "en": ["three", "3"]
+      },
+      { "kanji": " 三 ", "kana": "サン", "kanaEn": "san", "en": ["three"] },
+      {
+        "kanji": " 十三 ",
+        "kana": "ジュウサン",
+        "kanaEn": "jusan",
+        "en": ["thirteen", "13", "king (playing card)"]
+      },
+      {
+        "kanji": " 七三 ",
+        "kana": "シチサン",
+        "kanaEn": "shichisan",
+        "en": ["7 or 3 ratio", "hair parted on one side"]
+      },
+      {
+        "kanji": " 四三 ",
+        "kana": "シソウ",
+        "kanaEn": "shisou",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "one four-of-a-kind and one three-of-a-kind in a dealt hand",
+          "three and a four (in dice games)"
         ]
-      },
-      {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
-        "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
-        ]
+        "kanji": " 三 ",
+        "kana": "さん",
+        "kanaEn": "san",
+        "en": ["three", "3"]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 三十日 ",
+        "kana": "みそか",
+        "kanaEn": "misoka",
+        "en": ["last day of the month"]
+      },
+      {
+        "kanji": " 三つ ",
+        "kana": "みっつ",
+        "kanaEn": "mittsu",
+        "en": ["three", "three years of age"]
+      },
+      {
+        "kanji": " 三つ折り ",
+        "kana": "みつおり",
+        "kanaEn": "mitsuori",
+        "en": ["threefold", "folded in three"]
+      },
+      {
+        "kanji": " 三つ ",
+        "kana": "みっつ",
+        "kanaEn": "mittsu",
+        "en": ["three", "three years of age"]
+      },
+      {
+        "kanji": " ３つの密 ",
+        "kana": "みっつのみつ",
+        "kanaEn": "mittsunomitsu",
+        "en": [
+          "three Cs",
+          "three conditions that facilitate the transmission of infectious diseases (closed spaces, crowds, and close contact)"
+        ]
       }
     ]
   },
@@ -298,92 +282,101 @@
     "kanaEn": "yon",
     "quizId": 1,
     "onyomiCompounds": [
+      { "kanji": " 四 ", "kana": "シ", "kanaEn": "shi", "en": ["four", "4"] },
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
-        "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
-        ]
+        "kanji": " ４月 ",
+        "kana": "シガツ",
+        "kanaEn": "shigatsu",
+        "en": ["April", "fourth month in the lunar calendar"]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
+        "kanji": " 十四 ",
+        "kana": "ジュウシ",
+        "kanaEn": "jushi",
+        "en": ["14", "fourteen"]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 炭素１４ ",
+        "kana": "タンソジュウシ",
+        "kanaEn": "tansojushi",
+        "en": ["carbon-14"]
       }
     ],
     "kunyomiCompounds": [
+      { "kanji": " 四 ", "kana": "し", "kanaEn": "shi", "en": ["four", "4"] },
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 四畳半 ",
+        "kana": "よじょうはん",
+        "kanaEn": "yojouhan",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "four and a half tatami mats",
+          "four-and-a-half-mat room",
+          "small room esp. for assignations"
         ]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 四つ ",
+        "kana": "よっつ",
+        "kanaEn": "yottsu",
+        "en": [
+          "four",
+          "4",
+          "four years of age",
+          "ten o'clock (in the old time system)",
+          "burakumin",
+          "cross grips"
+        ]
+      },
+      {
+        "kanji": " 四つ角 ",
+        "kana": "よつかど",
+        "kanaEn": "yotsukado",
+        "en": [
+          "four corners",
+          "crossroads",
+          "intersecting street",
+          "street corner"
+        ]
+      },
+      {
+        "kanji": " 四つ ",
+        "kana": "よっつ",
+        "kanaEn": "yottsu",
+        "en": [
+          "four",
+          "4",
+          "four years of age",
+          "ten o'clock (in the old time system)",
+          "burakumin",
+          "cross grips"
+        ]
+      },
+      {
+        "kanji": " 四つの自由 ",
+        "kana": "よっつのじゆう",
+        "kanaEn": "yottsunojiu",
+        "en": [
+          "the Four Freedoms (as defined by Franklin D. Roosevelt: freedom of speech, freedom of worship, freedom from want, freedom from fear)"
+        ]
+      },
+      { "kanji": " 四 ", "kana": "し", "kanaEn": "shi", "en": ["four", "4"] },
+      {
+        "kanji": " ４０ ",
+        "kana": "よんじゅう",
+        "kanaEn": "yonju",
+        "en": ["forty", "40"]
+      },
+      {
+        "kanji": " 十四 ",
+        "kana": "じゅうし",
+        "kanaEn": "jushi",
+        "en": ["14", "fourteen"]
+      },
+      {
+        "kanji": " 軽四 ",
+        "kana": "けいよん",
+        "kanaEn": "keiyon",
+        "en": ["four-wheeled light vehicle"]
       }
     ]
   },
@@ -395,92 +388,45 @@
     "kanaEn": "go",
     "quizId": 1,
     "onyomiCompounds": [
+      { "kanji": " 五 ", "kana": "ゴ", "kanaEn": "go", "en": ["five", "5"] },
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
-        "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
-        ]
+        "kanji": " ５月 ",
+        "kana": "ゴガツ",
+        "kanaEn": "gogatsu",
+        "en": ["May", "fifth month of the lunar calendar"]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
+        "kanji": " 端午 ",
+        "kana": "タンゴ",
+        "kanaEn": "tango",
+        "en": ["Boy's Day celebration (May 5)"]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 第五 ",
+        "kana": "ダイゴ",
+        "kanaEn": "daigo",
+        "en": ["the fifth"]
       }
     ],
     "kunyomiCompounds": [
+      { "kanji": " 五 ", "kana": "ご", "kanaEn": "go", "en": ["five", "5"] },
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
-        "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
-        ]
+        "kanji": " 五つ ",
+        "kana": "いつつ",
+        "kanaEn": "itsutsu",
+        "en": ["five", "five years of age", "eight o'clock (old time system)"]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 五つ ",
+        "kana": "いつつ",
+        "kanaEn": "itsutsu",
+        "en": ["five", "five years of age", "eight o'clock (old time system)"]
+      },
+      {
+        "kanji": " 五つ子 ",
+        "kana": "いつつご",
+        "kanaEn": "itsutsugo",
+        "en": ["quintuplets"]
       }
     ]
   },
@@ -492,92 +438,139 @@
     "kanaEn": "roku",
     "quizId": 1,
     "onyomiCompounds": [
+      { "kanji": " 六 ", "kana": "ロク", "kanaEn": "roku", "en": ["six", "6"] },
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " ６月 ",
+        "kana": "ロクガツ",
+        "kanaEn": "rokugatsu",
+        "en": ["June", "sixth month of the lunar calendar"]
+      },
+      {
+        "kanji": " 十六 ",
+        "kana": "ジュウロク",
+        "kanaEn": "juroku",
+        "en": ["16", "sixteen"]
+      },
+      {
+        "kanji": " 才六 ",
+        "kana": "サイロク",
+        "kanaEn": "sairoku",
+        "en": ["kid", "brat", "person from Kansai"]
+      },
+      {
+        "kanji": " 六官 ",
+        "kana": "リクカン",
+        "kanaEn": "rikukan",
+        "en": ["six ministries (of Zhou-dynasty China)"]
+      },
+      {
+        "kanji": " 六気 ",
+        "kana": "ロッキ",
+        "kanaEn": "rokki",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "yin",
+          "yang",
+          "wind",
+          "rain",
+          "darkness",
+          "light",
+          "cold",
+          "heat",
+          "dryness",
+          "dampness",
+          "wind",
+          "fire",
+          "six emotions (joy, anger, sorrow, pleasure, love, hate)"
         ]
-      },
-      {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
       }
     ],
     "kunyomiCompounds": [
+      { "kanji": " 六 ", "kana": "ろく", "kanaEn": "roku", "en": ["six", "6"] },
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 難しい ",
+        "kana": "むずかしい",
+        "kanaEn": "muzukashī",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "difficult",
+          "hard",
+          "troublesome",
+          "complicated",
+          "serious (disease, problem, etc.)",
+          "impossible",
+          "unfeasible",
+          "fussy",
+          "particular",
+          "fastidious",
+          "hard to please",
+          "displeased",
+          "gloomy",
+          "glum",
+          "sullen",
+          "serious (look)",
+          "dirty",
+          "unclean",
+          "filthy",
+          "detestable",
+          "unpleasant",
+          "uncomfortable",
+          "creepy",
+          "spooky"
         ]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 六つ ",
+        "kana": "むっつ",
+        "kanaEn": "muttsu",
+        "en": ["six", "six years of age", "six o'clock (old time system)"]
+      },
+      {
+        "kanji": " 難しい ",
+        "kana": "むずかしい",
+        "kanaEn": "muzukashī",
+        "en": [
+          "difficult",
+          "hard",
+          "troublesome",
+          "complicated",
+          "serious (disease, problem, etc.)",
+          "impossible",
+          "unfeasible",
+          "fussy",
+          "particular",
+          "fastidious",
+          "hard to please",
+          "displeased",
+          "gloomy",
+          "glum",
+          "sullen",
+          "serious (look)",
+          "dirty",
+          "unclean",
+          "filthy",
+          "detestable",
+          "unpleasant",
+          "uncomfortable",
+          "creepy",
+          "spooky"
+        ]
+      },
+      {
+        "kanji": " 六つ ",
+        "kana": "むっつ",
+        "kanaEn": "muttsu",
+        "en": ["six", "six years of age", "six o'clock (old time system)"]
+      },
+      {
+        "kanji": " ６日 ",
+        "kana": "むいか",
+        "kanaEn": "muika",
+        "en": ["6th day of the month", "six days"]
+      },
+      {
+        "kanji": " 六日間戦争 ",
+        "kana": "むいかかんせんそう",
+        "kanaEn": "muikakansensou",
+        "en": ["Six-Day War (June 5-10, 1967)", "Third Arab-Israeli War"]
       }
     ]
   },
@@ -589,92 +582,51 @@
     "kanaEn": "nana",
     "quizId": 1,
     "onyomiCompounds": [
+      { "kanji": " 七 ", "kana": "シチ", "kanaEn": "shichi", "en": ["seven"] },
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
-        "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
-        ]
+        "kanji": " ７月 ",
+        "kana": "シチガツ",
+        "kanaEn": "shichigatsu",
+        "en": ["July", "seventh month of the lunar calendar"]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
+        "kanji": " セシウム１３７ ",
+        "kana": "セシウムヒャクサンジュウシチ",
+        "kanaEn": "seshiumuhyakusanjushichi",
+        "en": ["cesium-137", "caesium-137"]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 属七 ",
+        "kana": "ゾクシチ",
+        "kanaEn": "zokushichi",
+        "en": ["dominant seventh (chord)"]
       }
     ],
     "kunyomiCompounds": [
+      { "kanji": " 七 ", "kana": "しち", "kanaEn": "shichi", "en": ["seven"] },
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
-        "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
-        ]
+        "kanji": " ７月 ",
+        "kana": "しちがつ",
+        "kanaEn": "shichigatsu",
+        "en": ["July", "seventh month of the lunar calendar"]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 七つ ",
+        "kana": "ななつ",
+        "kanaEn": "nanatsu",
+        "en": ["seven", "seven years of age", "four o'clock (old time system)"]
+      },
+      {
+        "kanji": " 七帯アルマジロ ",
+        "kana": "ななつおびアルマジロ",
+        "kanaEn": "nanatsuobiarumajiro",
+        "en": ["seven-banded armadillo (Dasypus septemcinctus)"]
+      },
+      {
+        "kanji": " ７日 ",
+        "kana": "なのか",
+        "kanaEn": "nanoka",
+        "en": ["7th day of the month", "seven days"]
       }
     ]
   },
@@ -687,91 +639,80 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 八 ",
+        "kana": "ハチ",
+        "kanaEn": "hachi",
+        "en": ["eight", "8"]
+      },
+      {
+        "kanji": " ８月 ",
+        "kana": "ハチガツ",
+        "kanaEn": "hachigatsu",
+        "en": ["August", "eighth month of the lunar calendar"]
+      },
+      {
+        "kanji": " 十八 ",
+        "kana": "ジュウハチ",
+        "kanaEn": "juhachi",
+        "en": ["18", "eighteen"]
+      },
+      {
+        "kanji": " 尺八 ",
+        "kana": "シャクハチ",
+        "kanaEn": "shakuhachi",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "shakuhachi",
+          "end-blown fippleless bamboo flute",
+          "blow job",
+          "fellatio"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 鳶尾 ",
+        "kana": "イチハツ",
+        "kanaEn": "ichihatsu",
+        "en": ["wall iris", "roof iris", "Iris tectorum", "fleur-de-lis"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 八 ",
+        "kana": "はち",
+        "kanaEn": "hachi",
+        "en": ["eight", "8"]
+      },
+      {
+        "kanji": " 八重 ",
+        "kana": "やえ",
+        "kanaEn": "yae",
+        "en": ["multilayered", "doubled"]
+      },
+      {
+        "kanji": " 八つ ",
+        "kana": "やっつ",
+        "kanaEn": "yattsu",
+        "en": ["eight", "eight years of age", "two o'clock (old time system)"]
+      },
+      {
+        "kanji": " 八つ当たり ",
+        "kana": "やつあたり",
+        "kanaEn": "yatsuatari",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "venting one's anger (on someone or something)",
+          "taking out one's anger on"
         ]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 八つ ",
+        "kana": "やっつ",
+        "kanaEn": "yattsu",
+        "en": ["eight", "eight years of age", "two o'clock (old time system)"]
+      },
+      {
+        "kanji": " ８日 ",
+        "kana": "ようか",
+        "kanaEn": "youka",
+        "en": ["8th day of the month", "eight days"]
       }
     ]
   },
@@ -784,91 +725,86 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 九 ",
+        "kana": "キュウ",
+        "kanaEn": "kyū",
+        "en": ["nine", "9"]
+      },
+      {
+        "kanji": " 九州 ",
+        "kana": "キュウシュウ",
+        "kanaEn": "kyūshu",
+        "en": ["Kyūshū (southernmost of the four main islands of Japan)"]
+      },
+      {
+        "kanji": " 十九 ",
+        "kana": "ジュウキュウ",
+        "kanaEn": "jukyū",
+        "en": ["19", "nineteen"]
+      },
+      {
+        "kanji": " 重九 ",
+        "kana": "チョウキュウ",
+        "kanaEn": "choukyū",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "Chrysanthemum Festival (the 9th day of the 9th lunar month)",
+          "Double Ninth Festival"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
+        "kanji": " 九 ",
+        "kana": "キュウ",
+        "kanaEn": "kyū",
+        "en": ["nine", "9"]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " ９月 ",
+        "kana": "クガツ",
+        "kanaEn": "kugatsu",
+        "en": ["September", "ninth month of the lunar calendar"]
       },
       {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
+        "kanji": " 九九 ",
+        "kana": "クク",
+        "kanaEn": "kuku",
+        "en": ["multiplication table", "times table"]
       },
       {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 第九 ",
+        "kana": "ダイク",
+        "kanaEn": "daiku",
+        "en": ["the ninth", "Beethoven's Ninth Symphony"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
-        "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
-        ]
+        "kanji": " 九 ",
+        "kana": "きゅう",
+        "kanaEn": "kyū",
+        "en": ["nine", "9"]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 九重 ",
+        "kana": "ここのえ",
+        "kanaEn": "kokonoe",
+        "en": ["ninefold", "imperial palace", "the Court"]
+      },
+      {
+        "kanji": " 九つ ",
+        "kana": "ここのつ",
+        "kanaEn": "kokonotsu",
+        "en": ["nine", "nine years of age", "twelve o'clock (old time system)"]
+      },
+      {
+        "kanji": " 九つ時 ",
+        "kana": "ここのつどき",
+        "kanaEn": "kokonotsudoki",
+        "en": [
+          "(approx.)",
+          "twelve o'clock (am or pm, old time system)",
+          "noon",
+          "midnight"
+        ]
       }
     ]
   },
@@ -881,91 +817,116 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 十 ",
+        "kana": "ジュウ",
+        "kanaEn": "ju",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "ten",
+          "10",
+          "ten years of age",
+          "book containing a collection of poems"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
+        "kanji": " 十一 ",
+        "kana": "ジュウイチ",
+        "kanaEn": "juichi",
         "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
+          "eleven",
+          "11",
+          "jack (playing card)",
+          "Hodgson's hawk-cuckoo (Cuculus fugax)",
+          "Horsfield's hawk cuckoo"
         ]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " ９０ ",
+        "kana": "キュウジュウ",
+        "kanaEn": "kyūju",
+        "en": ["ninety", "90"]
       },
       {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
+        "kanji": " 釈迦十 ",
+        "kana": "シャカジュウ",
+        "kanaEn": "shakaju",
+        "en": ["10 of batons (in mekuri karuta)"]
       },
       {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
+        "kanji": " 十種競技 ",
+        "kana": "ジッシュキョウギ",
+        "kanaEn": "jisshukyougi",
+        "en": ["decathlon"]
       },
       {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
+        "kanji": " 十指 ",
+        "kana": "ジッシ",
+        "kanaEn": "jisshi",
+        "en": ["the ten fingers"]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " 十指 ",
+        "kana": "ジッシ",
+        "kanaEn": "jisshi",
+        "en": ["the ten fingers"]
       },
       {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 十回 ",
+        "kana": "ジッカイ",
+        "kanaEn": "jikkai",
+        "en": ["ten times"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 十 ",
+        "kana": "じゅう",
+        "kanaEn": "ju",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "ten",
+          "10",
+          "ten years of age",
+          "book containing a collection of poems"
         ]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " １０日 ",
+        "kana": "とおか",
+        "kanaEn": "tooka",
+        "en": ["10th day of the month", "ten days"]
+      },
+      {
+        "kanji": " 釈迦十 ",
+        "kana": "しゃかじゅう",
+        "kanaEn": "shakaju",
+        "en": ["10 of batons (in mekuri karuta)"]
+      },
+      {
+        "kanji": " 十 ",
+        "kana": "じゅう",
+        "kanaEn": "ju",
+        "en": [
+          "ten",
+          "10",
+          "ten years of age",
+          "book containing a collection of poems"
+        ]
+      },
+      {
+        "kanji": " １０日 ",
+        "kana": "とおか",
+        "kanaEn": "tooka",
+        "en": ["10th day of the month", "ten days"]
+      },
+      {
+        "kanji": " 算盤 ",
+        "kana": "そろばん",
+        "kanaEn": "soroban",
+        "en": [
+          "abacus",
+          "soroban",
+          "calculation (esp. of profit and loss)",
+          "reckoning"
+        ]
       }
     ]
   },
@@ -978,91 +939,42 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
-        "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
-        ]
+        "kanji": " 百 ",
+        "kana": "ヒャク",
+        "kanaEn": "hyaku",
+        "en": ["hundred", "100"]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
+        "kanji": " １００億 ",
+        "kana": "ヒャクオク",
+        "kanaEn": "hyakuoku",
+        "en": ["10", "000", "000", "000", "ten billion"]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " ９００ ",
+        "kana": "キュウヒャク",
+        "kanaEn": "kyūhyaku",
+        "en": ["900", "nine hundred", "fool", "idiot"]
       },
       {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " ５００ ",
+        "kana": "ゴヒャク",
+        "kanaEn": "gohyaku",
+        "en": ["500", "five hundred", "many"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
-        "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
-        ]
+        "kanji": " 百 ",
+        "kana": "もも",
+        "kanaEn": "momo",
+        "en": ["hundred", "100", "(a great)", "many"]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 百重 ",
+        "kana": "ももえ",
+        "kanaEn": "momoe",
+        "en": ["piling up highly", "becoming a large pile"]
       }
     ]
   },
@@ -1075,91 +987,57 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 千 ",
+        "kana": "セン",
+        "kanaEn": "sen",
+        "en": ["1", "000", "thousand"]
+      },
+      {
+        "kanji": " 千九百年代 ",
+        "kana": "センキュウヒャクネンダイ",
+        "kanaEn": "senkyūhyakunendai",
+        "en": ["the 1900s"]
+      },
+      {
+        "kanji": " 一騎当千 ",
+        "kana": "イッキトウセン",
+        "kanaEn": "ikkitousen",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "being a match for a thousand",
+          "being a mighty warrior (combatant, player)"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 一人当千 ",
+        "kana": "イチニントウセン",
+        "kanaEn": "ichinintousen",
+        "en": ["being a match for a thousand"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
-        "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
-        ]
+        "kanji": " 千 ",
+        "kana": "せん",
+        "kanaEn": "sen",
+        "en": ["1", "000", "thousand"]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 千島 ",
+        "kana": "ちしま",
+        "kanaEn": "chishima",
+        "en": ["Kurile Islands"]
+      },
+      {
+        "kanji": " 百千 ",
+        "kana": "ひゃくせん",
+        "kanaEn": "hakusen",
+        "en": ["a large number", "all sorts", "hundreds and thousands"]
+      },
+      {
+        "kanji": " ８０００ ",
+        "kana": "はっせん",
+        "kanaEn": "hassen",
+        "en": ["8000", "eight thousand", "many"]
       }
     ]
   },
@@ -1172,91 +1050,440 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 上 ",
+        "kana": "ジョウ",
+        "kanaEn": "jou",
         "en": [
-          "one",
-          "1",
+          "from the standpoint of",
+          "as a matter of (e.g. fact)",
+          "in the field of",
+          "being of the type of",
+          "aboard (a ship or vehicle)",
+          "on top of",
+          "on",
+          "above",
+          "first volume (e.g. book)",
+          "superior quality",
           "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "top",
+          "high class",
+          "going up",
+          "governmental",
+          "imperial",
+          "presenting",
+          "showing",
+          "ana-"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
+        "kanji": " 上位 ",
+        "kana": "ジョウイ",
+        "kanaEn": "joui",
         "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
+          "superior (in rank)",
+          "top",
+          "ranking",
+          "higher order (e.g. byte)",
+          "host computer (of connected device)"
         ]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " 口上 ",
+        "kana": "コウジョウ",
+        "kanaEn": "koujou",
+        "en": [
+          "vocal message",
+          "speech",
+          "statement",
+          "prologue at the start of a kabuki performance"
+        ]
       },
       {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
+        "kanji": " 水上 ",
+        "kana": "スイジョウ",
+        "kanaEn": "suijou",
+        "en": ["aquatic", "on the water"]
       },
       {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
+        "kanji": " 上人 ",
+        "kana": "ショウニン",
+        "kanaEn": "shounin",
+        "en": ["holy priest", "saint"]
       },
       {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
+        "kanji": " 上下 ",
+        "kana": "ショウカ",
+        "kanaEn": "shouka",
+        "en": [
+          "top and bottom",
+          "up and down",
+          "high and low",
+          "above and below",
+          "upper and lower ends",
+          "upper and lower classes",
+          "ruler and ruled",
+          "the government and the people"
+        ]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " 呈上 ",
+        "kana": "テイジョウ",
+        "kanaEn": "teijou",
+        "en": ["giving", "gifting", "presenting"]
       },
       {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 主上 ",
+        "kana": "シュジョウ",
+        "kanaEn": "shujou",
+        "en": ["emperor"]
+      },
+      {
+        "kanji": " 上海 ",
+        "kana": "シャンハイ",
+        "kanaEn": "shanhai",
+        "en": ["Shanghai (China)"]
+      },
+      {
+        "kanji": " 上湯 ",
+        "kana": "シャンタン",
+        "kanaEn": "shantan",
+        "en": ["top-grade Chinese soup stock"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 上 ",
+        "kana": "うえ",
+        "kanaEn": "ue",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "above",
+          "up",
+          "over",
+          "elder (e.g. daughter)",
+          "top",
+          "summit",
+          "head (e.g. of a staircase)",
+          "surface",
+          "before",
+          "previous",
+          "superiority",
+          "one's superior",
+          "one's elder",
+          "on top of that",
+          "besides",
+          "what's more",
+          "not only ... but",
+          "upon (further inspection, etc.)",
+          "based on (and occurring after)",
+          "matters concerning ...",
+          "as concerns ...",
+          "since (i.e. \"for that reason\")",
+          "honorable",
+          "venerable",
+          "place of one's superior (e.g. the throne)",
+          "emperor",
+          "sovereign",
+          "shogun",
+          "daimyo",
+          "noblewoman (esp. the wife of a nobleman)"
         ]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 上向き ",
+        "kana": "うわむき",
+        "kanaEn": "uwamuki",
+        "en": [
+          "pointing up",
+          "pointing upward",
+          "upturn",
+          "uptrend",
+          "upward tendency"
+        ]
+      },
+      {
+        "kanji": " 床上 ",
+        "kana": "ゆかうえ",
+        "kanaEn": "yukaue",
+        "en": ["on a floor", "above floor level"]
+      },
+      {
+        "kanji": " 一枚上 ",
+        "kana": "いちまいうえ",
+        "kanaEn": "ichimaiue",
+        "en": ["one step higher", "one better", "cut above", "one up"]
+      },
+      {
+        "kanji": " 上 ",
+        "kana": "かみ",
+        "kanaEn": "kami",
+        "en": [
+          "upper reaches (of a river)",
+          "upper stream",
+          "top",
+          "upper part",
+          "upper half (of the body)",
+          "long ago",
+          "beginning",
+          "first",
+          "person of high rank (e.g. the emperor)",
+          "government",
+          "imperial court",
+          "imperial capital (i.e. Kyoto)",
+          "capital region (i.e. Kansai)",
+          "region (or direction of)",
+          "the imperial palace",
+          "head (of a table)",
+          "wife",
+          "mistress (of a restaurant)"
+        ]
+      },
+      {
+        "kanji": " 上期 ",
+        "kana": "かみき",
+        "kanaEn": "kamiki",
+        "en": ["first half of the (fiscal)", "year"]
+      },
+      {
+        "kanji": " 風上 ",
+        "kana": "かざかみ",
+        "kanaEn": "kazakami",
+        "en": ["windward", "upwind"]
+      },
+      {
+        "kanji": " 御上 ",
+        "kana": "おかみ",
+        "kanaEn": "okami",
+        "en": [
+          "the Emperor",
+          "His Majesty",
+          "the government",
+          "the authorities",
+          "proprietress",
+          "hostess",
+          "landlady",
+          "mistress",
+          "your wife",
+          "his wife",
+          "(one's)",
+          "master",
+          "lord"
+        ]
+      },
+      {
+        "kanji": " 上げる ",
+        "kana": "あげる",
+        "kanaEn": "ageru",
+        "en": [
+          "to raise",
+          "to elevate",
+          "to do up (one's hair)",
+          "to fly (a kite, etc.)",
+          "to launch (fireworks, etc.)",
+          "to surface (a submarine, etc.)",
+          "to land (a boat)",
+          "to deep-fry",
+          "to show someone (into a room)",
+          "to give",
+          "to send someone (away)",
+          "to enrol (one's child in school)",
+          "to enroll",
+          "to increase (price, quality, status, etc.)",
+          "to develop (talent, skill)",
+          "to improve",
+          "to make (a loud sound)",
+          "to raise (one's voice)",
+          "to earn (something desirable)",
+          "to praise",
+          "to give (an example, etc.)",
+          "to cite",
+          "to summon up (all of one's energy, etc.)",
+          "to arrest",
+          "to nominate",
+          "to summon (for geishas, etc.)",
+          "to offer up (incense, a prayer, etc.)",
+          "to the gods (or Buddha, etc.)",
+          "to bear (a child)",
+          "to conduct (a ceremony, esp. a wedding)",
+          "(of the tide)",
+          "to come in",
+          "to vomit",
+          "to do for (the sake of someone else)",
+          "to complete ...",
+          "to humbly do ..."
+        ]
+      },
+      {
+        "kanji": " 上がる ",
+        "kana": "あがる",
+        "kanaEn": "agaru",
+        "en": [
+          "to rise",
+          "to go up",
+          "to come up",
+          "to ascend",
+          "to be raised",
+          "to enter (esp. from outdoors)",
+          "to come in",
+          "to go in",
+          "to enter (a school)",
+          "to advance to the next grade",
+          "to get out (of water)",
+          "to come ashore",
+          "to increase",
+          "to improve",
+          "to make progress",
+          "to be promoted",
+          "to advance",
+          "to be made (of profit, etc.)",
+          "to occur (esp. of a favourable result)",
+          "to be adequate (to cover expenses, etc.)",
+          "to be finished",
+          "to be done",
+          "to be over",
+          "(of rain)",
+          "to stop",
+          "to lift",
+          "to stop (working properly)",
+          "to cut out",
+          "to give out",
+          "to die",
+          "to win (in a card game, etc.)",
+          "to be arrested",
+          "to turn up (of evidence, etc.)",
+          "to be deep fried",
+          "to be spoken loudly",
+          "to get nervous",
+          "to get stage fright",
+          "to be offered (to the gods, etc.)",
+          "to go",
+          "to visit",
+          "to eat",
+          "to drink",
+          "to be listed (as a candidate)",
+          "to serve (in one's master's home)",
+          "to go north",
+          "to be complete",
+          "to finish"
+        ]
+      },
+      {
+        "kanji": " 上がり ",
+        "kana": "あがり",
+        "kanaEn": "agari",
+        "en": [
+          "rise",
+          "increase",
+          "ascent",
+          "income",
+          "takings",
+          "earnings",
+          "proceeds",
+          "(crop)",
+          "yield",
+          "return",
+          "profit",
+          "completion",
+          "end",
+          "finish",
+          "end result (e.g. of crafts)",
+          "how something comes out",
+          "finish",
+          "finishing (in a board or card game, etc.)",
+          "green tea (esp. in a sushi restaurant)",
+          "after (rain, illness, etc.)",
+          "ex- (e.g. ex-bureaucrat)",
+          "former"
+        ]
+      },
+      {
+        "kanji": " 上がり下り ",
+        "kana": "あがりおり",
+        "kanaEn": "agariori",
+        "en": ["going up and down", "ascent and descent"]
+      },
+      {
+        "kanji": " 芸者上がり ",
+        "kana": "げいしゃあがり",
+        "kanaEn": "geishaagari",
+        "en": ["ex-geisha", "former geisha"]
+      },
+      {
+        "kanji": " 上る ",
+        "kana": "のぼる",
+        "kanaEn": "noboru",
+        "en": [
+          "to ascend",
+          "to go up",
+          "to climb",
+          "to ascend (as a natural process, e.g. the Sun)",
+          "to rise",
+          "to go to (the capital)",
+          "to be promoted",
+          "to add up to",
+          "to advance (in price)",
+          "to swim up (a river)",
+          "to sail up",
+          "to come up (on the agenda)"
+        ]
+      },
+      {
+        "kanji": " 上り ",
+        "kana": "のぼり",
+        "kanaEn": "nobori",
+        "en": [
+          "ascent",
+          "climbing",
+          "ascending (path)",
+          "climb",
+          "up-train",
+          "train heading toward the starting point of its route",
+          "upbound (esp. toward Tokyo)",
+          "upstream",
+          "uphill"
+        ]
+      },
+      {
+        "kanji": " 上り下り ",
+        "kana": "のぼりくだり",
+        "kanaEn": "noborikudari",
+        "en": ["going up and down", "ascent and descent", "climb and descent"]
+      },
+      {
+        "kanji": " 逆上せる ",
+        "kana": "のぼせる",
+        "kanaEn": "noboseru",
+        "en": [
+          "to feel dizzy",
+          "to have blood rush to one's head",
+          "to lose one's cool",
+          "to be obsessed",
+          "to be infatuated",
+          "to become conceited"
+        ]
+      },
+      {
+        "kanji": " 上せる ",
+        "kana": "のぼせる",
+        "kanaEn": "noboseru",
+        "en": [
+          "to raise",
+          "to record",
+          "to bring up (a matter)",
+          "to serve (food)",
+          "to send some on out"
+        ]
+      },
+      {
+        "kanji": " 上す ",
+        "kana": "のぼす",
+        "kanaEn": "nobosu",
+        "en": [
+          "to raise",
+          "to record",
+          "to bring up (a matter)",
+          "to serve (food)",
+          "to send someone out"
+        ]
       }
     ]
   },
@@ -1269,91 +1496,411 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 下 ",
+        "kana": "カ",
+        "kanaEn": "ka",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "under (influence, control, conditions, etc. of)",
+          "during (war, occupation, etc.)"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
+        "kanji": " 下位 ",
+        "kana": "カイ",
+        "kanaEn": "kai",
         "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
+          "low rank",
+          "lower position",
+          "subordinate position",
+          "lower order (e.g. byte)"
         ]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " 陛下 ",
+        "kana": "ヘイカ",
+        "kanaEn": "heika",
+        "en": ["Your Majesty", "His Majesty", "Her Majesty"]
       },
       {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
+        "kanji": " 最下 ",
+        "kana": "サイカ",
+        "kanaEn": "saika",
+        "en": ["the lowest", "the worst"]
       },
       {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
+        "kanji": " 下 ",
+        "kana": "ゲ",
+        "kanaEn": "ge",
+        "en": [
+          "lowness (of degree, value, etc.)",
+          "inferiority",
+          "second volume (of two)",
+          "third volume (of three)"
+        ]
       },
       {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
+        "kanji": " 下山 ",
+        "kana": "ゲザン",
+        "kanaEn": "gezan",
+        "en": ["descending a mountain", "descent"]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " 高下 ",
+        "kana": "コウゲ",
+        "kanaEn": "kouge",
+        "en": [
+          "rise and fall (e.g. prices)",
+          "fluctuation",
+          "difference (rank, grade, quality, etc.)",
+          "variation"
+        ]
       },
       {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 帯下 ",
+        "kana": "タイゲ",
+        "kanaEn": "taige",
+        "en": [
+          "leukorrhoea",
+          "leucorrhoea",
+          "leukorrhea",
+          "leucorrhea",
+          "mucous discharge from female genitals"
+        ]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 下 ",
+        "kana": "した",
+        "kanaEn": "shita",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "below",
+          "down",
+          "under",
+          "younger (e.g. daughter)",
+          "bottom",
+          "beneath",
+          "underneath",
+          "just after",
+          "right after",
+          "inferiority",
+          "one's inferior (i.e. one's junior)",
+          "trade-in",
+          "preliminary",
+          "preparatory"
         ]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 下請け ",
+        "kana": "したうけ",
+        "kanaEn": "shitauke",
+        "en": ["subcontract", "subcontractor (person or company)"]
+      },
+      {
+        "kanji": " 幕下 ",
+        "kana": "まくした",
+        "kanaEn": "makushita",
+        "en": [
+          "third highest division",
+          "wrestlers of the third highest division"
+        ]
+      },
+      {
+        "kanji": " 上下 ",
+        "kana": "うえした",
+        "kanaEn": "ueshita",
+        "en": [
+          "top and bottom",
+          "up and down",
+          "high and low",
+          "above and below",
+          "upper and lower ends",
+          "upside-down"
+        ]
+      },
+      {
+        "kanji": " 下 ",
+        "kana": "しも",
+        "kanaEn": "shimo",
+        "en": [
+          "lower reaches (of a river)",
+          "bottom",
+          "lower part",
+          "lower half (of the body, esp. the privates)",
+          "feces (faeces)",
+          "urine",
+          "menses",
+          "end",
+          "far from the imperial palace (i.e. far from Kyoto, esp. of western Japan)",
+          "dirty (e.g. dirty jokes, etc.)"
+        ]
+      },
+      {
+        "kanji": " 下期 ",
+        "kana": "しもき",
+        "kanaEn": "shimoki",
+        "en": ["second half of the (fiscal)", "year"]
+      },
+      {
+        "kanji": " 風下 ",
+        "kana": "かざしも",
+        "kanaEn": "kazashimo",
+        "en": ["leeward", "lee", "downwind"]
+      },
+      {
+        "kanji": " 裃 ",
+        "kana": "かみしも",
+        "kanaEn": "kamishimo",
+        "en": [
+          "samurai costume",
+          "old ceremonial costume",
+          "top and bottom",
+          "up and down",
+          "high and low",
+          "above and below",
+          "upper and lower ends"
+        ]
+      },
+      {
+        "kanji": " 下 ",
+        "kana": "もと",
+        "kanaEn": "moto",
+        "en": [
+          "under (guidance, supervision, rules, the law, etc.)",
+          "under (a flag, the sun, etc.)",
+          "beneath",
+          "with (e.g. one blow)",
+          "on (the promise, condition, assumption, etc. that ...)",
+          "in (e.g. the name of)",
+          "(someone's)",
+          "side",
+          "(someone's)",
+          "location"
+        ]
+      },
+      {
+        "kanji": " 山元 ",
+        "kana": "やまもと",
+        "kanaEn": "yamamoto",
+        "en": [
+          "foot of a mountain",
+          "base of a mountain",
+          "mine",
+          "colliery",
+          "owner of a mountain",
+          "operator of a mine"
+        ]
+      },
+      {
+        "kanji": " お膝元 ",
+        "kana": "おひざもと",
+        "kanaEn": "ohizamoto",
+        "en": [
+          "beside a nobleman",
+          "close aid (of a nobleman, etc.)",
+          "place where a high ranking person resides",
+          "one's own city (of a shogun, lord, etc.)",
+          "Imperial capital",
+          "Imperial court",
+          "(shogun's)",
+          "headquarters",
+          "place under one's direct control",
+          "one's own turf",
+          "one's own backyard"
+        ]
+      },
+      {
+        "kanji": " 下げる ",
+        "kana": "さげる",
+        "kanaEn": "sageru",
+        "en": [
+          "to hang",
+          "to suspend",
+          "to wear (e.g. decoration)",
+          "to lower",
+          "to reduce",
+          "to bring down",
+          "to demote",
+          "to move back",
+          "to pull back",
+          "to clear (plates)",
+          "to remove (food, etc. from table or altar)",
+          "to keep on playing after one has formed a scoring combination with captured cards"
+        ]
+      },
+      {
+        "kanji": " 下がる ",
+        "kana": "さがる",
+        "kanaEn": "sagaru",
+        "en": [
+          "to come down",
+          "to go down",
+          "to fall",
+          "to drop",
+          "to sink",
+          "to get lower",
+          "to hang",
+          "to dangle",
+          "to move back",
+          "to step back",
+          "to withdraw",
+          "to retire",
+          "to deteriorate",
+          "to fall off",
+          "to be downgraded",
+          "to get closer to the present day",
+          "to go south"
+        ]
+      },
+      {
+        "kanji": " 下る ",
+        "kana": "くだる",
+        "kanaEn": "kudaru",
+        "en": [
+          "to descend",
+          "to go down",
+          "to come down",
+          "to be handed down (of an order, judgment, etc.)",
+          "to pass (of time)",
+          "to surrender",
+          "to capitulate",
+          "to be less than",
+          "to be inferior to",
+          "to have the runs",
+          "to have diarrhea",
+          "to pass (in stool)",
+          "to be discharged from the body",
+          "to depreciate oneself",
+          "to be humble"
+        ]
+      },
+      {
+        "kanji": " 下り ",
+        "kana": "くだり",
+        "kanaEn": "kudari",
+        "en": [
+          "down-train",
+          "train heading toward the ending point of its route",
+          "down-slope",
+          "downward going",
+          "downbound (esp. away from Tokyo)",
+          "downstream",
+          "downhill"
+        ]
+      },
+      {
+        "kanji": " 下り坂 ",
+        "kana": "くだりざか",
+        "kanaEn": "kudarizaka",
+        "en": [
+          "downhill",
+          "downward slope",
+          "descent",
+          "decline",
+          "waning",
+          "ebb",
+          "(going)",
+          "downhill"
+        ]
+      },
+      {
+        "kanji": " 下す ",
+        "kana": "くだす",
+        "kanaEn": "kudasu",
+        "en": [
+          "to make a decision",
+          "to draw a conclusion",
+          "to give a judgement",
+          "to hand down a verdict",
+          "to pass a sentence",
+          "to give an order",
+          "to let go down",
+          "to lower",
+          "to do oneself",
+          "to do by oneself",
+          "to beat",
+          "to defeat",
+          "to have loose bowels",
+          "to have diarrhea",
+          "to pass (in stool)",
+          "to discharge from the body",
+          "to do in one go",
+          "to do to the end without stopping"
+        ]
+      },
+      {
+        "kanji": " 下さる ",
+        "kana": "くださる",
+        "kanaEn": "kudasaru",
+        "en": [
+          "to give",
+          "to confer",
+          "to bestow",
+          "to kindly do for one",
+          "to oblige",
+          "to favour",
+          "to favor"
+        ]
+      },
+      {
+        "kanji": " 下ろす ",
+        "kana": "おろす",
+        "kanaEn": "orosu",
+        "en": [
+          "to take down",
+          "to bring down",
+          "to lower (a hand, flag, shutter, etc.)",
+          "to drop (an anchor, curtain, etc.)",
+          "to let down (hair)",
+          "to launch (a boat)",
+          "to drop off (a passenger)",
+          "to let off",
+          "to unload (goods, a truck, etc.)",
+          "to offload",
+          "to discharge",
+          "to withdraw (money)",
+          "to use for the first time",
+          "to wear for the first time",
+          "to cut off",
+          "to fillet (fish)",
+          "to grate (e.g. radish)",
+          "to prune (branches)",
+          "to remove (someone from a position)",
+          "to oust",
+          "to drop",
+          "to clear (the table)",
+          "to remove (offerings from an altar)",
+          "to pass down (e.g. old clothes)",
+          "to hand down",
+          "to expel from the body (e.g. worms)",
+          "to abort (a fetus)",
+          "to invoke (a spirit)",
+          "to call down"
+        ]
+      },
+      {
+        "kanji": " 降りる ",
+        "kana": "おりる",
+        "kanaEn": "oriru",
+        "en": [
+          "to descend (e.g. a mountain)",
+          "to go down",
+          "to come down",
+          "to alight (e.g. from bus)",
+          "to get off",
+          "to disembark",
+          "to dismount",
+          "to step down",
+          "to retire",
+          "to give up",
+          "to quit",
+          "to fold",
+          "to be granted",
+          "to be issued",
+          "to be given",
+          "to form (of frost, dew, mist, etc.)",
+          "to be passed (from the body; e.g. of a roundworm)"
+        ]
       }
     ]
   },
@@ -1366,91 +1913,72 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 左 ",
+        "kana": "サ",
+        "kanaEn": "sa",
+        "en": ["left (esp. in vertical Japanese writing)", "the following"]
+      },
+      {
+        "kanji": " 左右 ",
+        "kana": "サユウ",
+        "kanaEn": "sayū",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "left and right",
+          "right and left",
+          "(asserting)",
+          "control",
+          "influence",
+          "domination",
+          "one's attendants",
+          "people accompanying one",
+          "(serving at someone's)",
+          "side",
+          "equivocation"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
+        "kanji": " 極左 ",
+        "kana": "キョクサ",
+        "kanaEn": "kyokusa",
+        "en": ["extreme left", "ultraleft"]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " 最左 ",
+        "kana": "サイサ",
+        "kanaEn": "saisa",
+        "en": ["left-most"]
       },
       {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 左官 ",
+        "kana": "サカン",
+        "kanaEn": "sakan",
+        "en": ["plasterer"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
-        "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
-        ]
+        "kanji": " 左 ",
+        "kana": "ひだり",
+        "kanaEn": "hidari",
+        "en": ["left", "left hand side"]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 左腕 ",
+        "kana": "さわん",
+        "kanaEn": "sawan",
+        "en": ["left arm", "left-handed (baseball pitcher)"]
+      },
+      {
+        "kanji": " 向かって左 ",
+        "kana": "むかってひだり",
+        "kanaEn": "mukattehidari",
+        "en": ["on the left as one faces (it)"]
+      },
+      {
+        "kanji": " 同左 ",
+        "kana": "どうひだり",
+        "kanaEn": "douhidari",
+        "en": ["same as on the left", "(in vertical writing)", "same as below"]
       }
     ]
   },
@@ -1463,91 +1991,90 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 右中間 ",
+        "kana": "ウチュウカン",
+        "kanaEn": "uchukan",
+        "en": ["between right and center fielders (centre)"]
+      },
+      {
+        "kanji": " 右側 ",
+        "kana": "ミギガワ",
+        "kanaEn": "migigawa",
+        "en": ["right side", "right-hand side"]
+      },
+      {
+        "kanji": " 極右 ",
+        "kana": "キョクウ",
+        "kanaEn": "kyokuu",
+        "en": ["far right (in politics)", "extreme right", "ultraconservative"]
+      },
+      {
+        "kanji": " 最右 ",
+        "kana": "サイウ",
+        "kanaEn": "saiu",
+        "en": ["right-most", "rightmost"]
+      },
+      {
+        "kanji": " 右筆 ",
+        "kana": "ユウヒツ",
+        "kanaEn": "yūhitsu",
+        "en": ["private secretary", "amanuensis"]
+      },
+      {
+        "kanji": " 右文 ",
+        "kana": "ユウブン",
+        "kanaEn": "yūbun",
+        "en": ["respect for literary culture"]
+      },
+      {
+        "kanji": " 上下左右 ",
+        "kana": "ジョウゲサユウ",
+        "kanaEn": "jougesayū",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "up and down",
+          "left and right",
+          "top and bottom",
+          "left and right"
         ]
-      },
-      {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 右 ",
+        "kana": "みぎ",
+        "kanaEn": "migi",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "right",
+          "right-hand side",
+          "afore-mentioned (esp. in vertical Japanese writing)",
+          "foregoing",
+          "forgoing",
+          "above"
         ]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 右腕 ",
+        "kana": "みぎうで",
+        "kanaEn": "migiude",
+        "en": [
+          "right arm",
+          "right-hand man",
+          "right hand",
+          "right-hand person",
+          "right-handed pitcher"
+        ]
+      },
+      {
+        "kanji": " 上右 ",
+        "kana": "うえみぎ",
+        "kanaEn": "uemigi",
+        "en": ["upper right (corner)"]
+      },
+      {
+        "kanji": " 下右 ",
+        "kana": "したみぎ",
+        "kanaEn": "shitamigi",
+        "en": ["lower right (corner)"]
       }
     ]
   },
@@ -1560,91 +2087,188 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 中 ",
+        "kana": "チュウ",
+        "kanaEn": "chu",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "medium",
+          "average",
+          "middle",
+          "moderation",
+          "middle school",
+          "China",
+          "volume two (of three)",
+          "during (a certain time when one did or is doing something)",
+          "under (construction, etc.)",
+          "while",
+          "in",
+          "out of",
+          "of the"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
+        "kanji": " 中尉 ",
+        "kana": "チュウイ",
+        "kanaEn": "chui",
+        "en": ["first lieutenant", "lieutenant junior grade"]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " 宮中 ",
+        "kana": "キュウチュウ",
+        "kanaEn": "kyūchu",
+        "en": ["imperial court"]
       },
       {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 訪中 ",
+        "kana": "ホウチュウ",
+        "kanaEn": "houchu",
+        "en": ["visit to China"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 中 ",
+        "kana": "なか",
+        "kanaEn": "naka",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "inside",
+          "interior",
+          "among",
+          "within",
+          "middle",
+          "center",
+          "centre",
+          "during",
+          "while",
+          "middle",
+          "midst",
+          "amid",
+          "interval",
+          "gap",
+          "mean",
+          "average",
+          "second (of three, e.g. sons, volumes)",
+          "middle",
+          "medium grade",
+          "medium quality",
+          "red-light district"
         ]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 中島 ",
+        "kana": "なかじま",
+        "kanaEn": "nakajima",
+        "en": ["island in a pond or river"]
+      },
+      {
+        "kanji": " 野中 ",
+        "kana": "のなか",
+        "kanaEn": "nonaka",
+        "en": ["in the middle of a field"]
+      },
+      {
+        "kanji": " そんな中 ",
+        "kana": "そんななか",
+        "kanaEn": "sonnanaka",
+        "en": ["wherein", "therein", "thereinto"]
+      },
+      {
+        "kanji": " 内 ",
+        "kana": "うち",
+        "kanaEn": "uchi",
+        "en": [
+          "inside",
+          "within",
+          "while (e.g. one is young)",
+          "during",
+          "within (e.g. a day)",
+          "in the course of",
+          "among",
+          "amongst",
+          "(out)",
+          "of",
+          "between",
+          "in (secret, chaos, poverty, etc.)",
+          "amidst",
+          "with (e.g. success)",
+          "within oneself",
+          "one's feelings",
+          "inner thoughts",
+          "we",
+          "our company",
+          "our organization",
+          "one's home",
+          "one's family",
+          "my spouse",
+          "my husband",
+          "my wife",
+          "signed on behalf of (husband's name)",
+          "by his wife",
+          "I",
+          "me",
+          "imperial palace grounds",
+          "emperor"
+        ]
+      },
+      {
+        "kanji": " 碁打ち鳥飼い馬鹿の中 ",
+        "kana": "ごうちとりかいばかのうち",
+        "kanaEn": "gouchitorikaibakanouchi",
+        "en": [
+          "go players and bird keepers are idiots (both activities demand a lot of time)"
+        ]
+      },
+      {
+        "kanji": " 此の内 ",
+        "kana": "このうち",
+        "kanaEn": "konouchi",
+        "en": ["meanwhile", "the other day", "recently"]
+      },
+      {
+        "kanji": " 当たる ",
+        "kana": "あたる",
+        "kanaEn": "ataru",
+        "en": [
+          "to be hit",
+          "to strike",
+          "to touch",
+          "to be in contact",
+          "to be affixed",
+          "to be equivalent to",
+          "to be applicable",
+          "to apply to",
+          "to be right on the money (of a prediction, criticism, etc.)",
+          "to be selected (in a lottery, etc.)",
+          "to win",
+          "to be successful",
+          "to go well",
+          "to be a hit",
+          "to face",
+          "to confront",
+          "to lie (in the direction of)",
+          "to undertake",
+          "to be assigned",
+          "to be stricken (by food poisoning, heat, etc.)",
+          "to be afflicted",
+          "to be called on (e.g. by a teacher)",
+          "to treat (esp. harshly)",
+          "to lash out at",
+          "to be unnecessary",
+          "to be hitting well",
+          "to be on a hitting streak",
+          "to feel a bite (in fishing)",
+          "(of fruit, etc.)",
+          "to be bruised",
+          "to spoil",
+          "to feel (something)",
+          "out",
+          "to probe into",
+          "to check (i.e. by comparison)",
+          "to shave",
+          "to be a relative of a person",
+          "to be a ... in relation to ...",
+          "to stand in a relationship"
+        ]
       }
     ]
   },
@@ -1657,91 +2281,101 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 大 ",
+        "kana": "ダイ",
+        "kanaEn": "dai",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "large",
+          "big",
+          "great",
+          "huge",
+          "vast",
+          "major",
+          "important",
+          "serious",
+          "severe",
+          "great",
+          "prominent",
+          "eminent",
+          "distinguished",
+          "-sized",
+          "as big as",
+          "the size of",
+          "university",
+          "large (e.g. serving size)",
+          "large option",
+          "long month (i.e. having 31 days)"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
+        "kanji": " 大尉 ",
+        "kana": "タイイ",
+        "kanaEn": "taii",
         "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
+          "captain (Army, US Marine Corps, USAF)",
+          "lieutenant (Navy)",
+          "flight lieutenant (RAF, RAAF, RNZAF, etc.)"
         ]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " 国大 ",
+        "kana": "コクダイ",
+        "kanaEn": "kokudai",
+        "en": ["national university"]
       },
       {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
+        "kanji": " 電通大 ",
+        "kana": "デンツウダイ",
+        "kanaEn": "dentsuudai",
+        "en": ["University of Electro-Communications"]
       },
       {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
+        "kanji": " 大 ",
+        "kana": "タイ",
+        "kanaEn": "tai",
+        "en": ["nth year in the Taishō era (1912.7.30-1926.12.25)"]
       },
       {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
+        "kanji": " 大尉 ",
+        "kana": "タイイ",
+        "kanaEn": "taii",
+        "en": [
+          "captain (Army, US Marine Corps, USAF)",
+          "lieutenant (Navy)",
+          "flight lieutenant (RAF, RAAF, RNZAF, etc.)"
+        ]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " 負荷増大 ",
+        "kana": "フカゾウタイ",
+        "kanaEn": "fukazoutai",
+        "en": ["load increase"]
       },
       {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 御大 ",
+        "kana": "オンタイ",
+        "kanaEn": "ontai",
+        "en": ["boss", "governor", "headman"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 大きい ",
+        "kana": "おおきい",
+        "kanaEn": "ookii",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "big",
+          "large",
+          "great",
+          "loud",
+          "extensive",
+          "spacious",
+          "important",
+          "decisive",
+          "valuable",
+          "older",
+          "grown up"
         ]
-      },
-      {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
       }
     ]
   },
@@ -1754,91 +2388,69 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 小 ",
+        "kana": "ショウ",
+        "kanaEn": "shou",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "smallness",
+          "small item",
+          "short month (i.e. having fewer than 31 days)",
+          "elementary school",
+          "smaller (of two things, places, etc. with the same name)",
+          "inferior",
+          "younger (of two people with the same name)",
+          "junior",
+          "unit of field area (approx. 400 sq m)"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
+        "kanji": " 小雨 ",
+        "kana": "コサメ",
+        "kanaEn": "kosame",
+        "en": ["light rain", "drizzle"]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " 微小 ",
+        "kana": "ビショウ",
+        "kanaEn": "bishou",
+        "en": ["microscopic"]
       },
       {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 中小 ",
+        "kana": "チュウショウ",
+        "kanaEn": "chushou",
+        "en": ["small and medium"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 小さい ",
+        "kana": "ちいさい",
+        "kanaEn": "chiisai",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "small",
+          "little",
+          "tiny",
+          "slight",
+          "below average (in degree, amount, etc.)",
+          "minor",
+          "small",
+          "low (e.g. sound)",
+          "soft (e.g. voice)",
+          "unimportant",
+          "petty",
+          "insignificant",
+          "trifling",
+          "trivial",
+          "young",
+          "juvenile"
         ]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 小さい頃 ",
+        "kana": "ちいさいころ",
+        "kanaEn": "chiisaikoro",
+        "en": ["as a child", "when one was a child"]
       }
     ]
   },
@@ -1850,92 +2462,82 @@
     "kanaEn": "tsuki",
     "quizId": 1,
     "onyomiCompounds": [
+      { "kanji": " 月 ", "kana": "ゲツ", "kanaEn": "getsu", "en": ["Monday"] },
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 月額 ",
+        "kana": "ゲツガク",
+        "kanaEn": "getsugaku",
+        "en": ["monthly amount (sum)"]
+      },
+      {
+        "kanji": " 隔月 ",
+        "kana": "カクゲツ",
+        "kanaEn": "kakugetsu",
+        "en": ["every second month", "every other month"]
+      },
+      {
+        "kanji": " 望月 ",
+        "kana": "モチヅキ",
+        "kanaEn": "mochidzuki",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "full moon",
+          "moon on the 15th day of the month (by the lunar calendar)",
+          "full moon of the eighth lunar month"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
+        "kanji": " 月中 ",
+        "kana": "ゲツチュウ",
+        "kanaEn": "getsuchu",
+        "en": ["(for the)", "whole month"]
+      },
+      {
+        "kanji": " 月輪 ",
+        "kana": "ゲツリン",
+        "kanaEn": "getsurin",
+        "en": ["(full)", "moon", "moon when it's round"]
+      },
+      {
+        "kanji": " 旧正月 ",
+        "kana": "キュウショウガツ",
+        "kanaEn": "kyūshougatsu",
+        "en": ["lunar New Year (esp. the Chinese New Year)"]
+      },
+      {
+        "kanji": " お正月 ",
+        "kana": "オショウガツ",
+        "kanaEn": "oshougatsu",
         "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
+          "New Year (esp. first three days)",
+          "first month of the year",
+          "January"
         ]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
-        "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
-        ]
+        "kanji": " 月 ",
+        "kana": "つき",
+        "kanaEn": "tsuki",
+        "en": ["Moon", "month", "moonlight", "(a)", "moon", "natural satellite"]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 月末 ",
+        "kana": "げつまつ",
+        "kanaEn": "getsumatsu",
+        "en": ["end of the month"]
+      },
+      {
+        "kanji": " 卯月 ",
+        "kana": "うづき",
+        "kanaEn": "udzuki",
+        "en": ["fourth month of the lunar calendar"]
+      },
+      {
+        "kanji": " 祥月 ",
+        "kana": "しょうつき",
+        "kanaEn": "shoutsuki",
+        "en": ["month of a person's death"]
       }
     ]
   },
@@ -1948,91 +2550,117 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 日 ",
+        "kana": "ニチ",
+        "kanaEn": "nichi",
+        "en": ["Sunday", "day (of the month)", "counter for days", "Japan"]
+      },
+      {
+        "kanji": " 日時 ",
+        "kana": "ニチジ",
+        "kanaEn": "nichiji",
+        "en": ["date and time"]
+      },
+      {
+        "kanji": " 抗日 ",
+        "kana": "コウニチ",
+        "kanaEn": "kounichi",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "resistance against Japanese aggression",
+          "anti-Japanese (campaign, movement, etc.)"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
+        "kanji": " 在日 ",
+        "kana": "ザイニチ",
+        "kanaEn": "zainichi",
         "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
+          "resident in Japan (of a foreigner)",
+          "situated in Japan (e.g. of an embassy)",
+          "Zainichi",
+          "Zainichi Korean",
+          "Korean national who has lived in Japan since before the end of WWII (or is a descendant of such a person)"
         ]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " 日月 ",
+        "kana": "ジツゲツ",
+        "kanaEn": "jitsugetsu",
+        "en": [
+          "sun and moon",
+          "time",
+          "days and months",
+          "years",
+          "Sunday and Monday"
+        ]
       },
       {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
+        "kanji": " 日外 ",
+        "kana": "ジツガイ",
+        "kanaEn": "jitsugai",
+        "en": ["at one time", "some time ago", "once"]
       },
       {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
+        "kanji": " 両日 ",
+        "kana": "リョウジツ",
+        "kanaEn": "ryoujitsu",
+        "en": ["both days", "two days"]
       },
       {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 三十日 ",
+        "kana": "ミソカ",
+        "kanaEn": "misoka",
+        "en": ["last day of the month"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 日 ",
+        "kana": "ひ",
+        "kanaEn": "hi",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "day",
+          "days",
+          "sun",
+          "sunshine",
+          "sunlight",
+          "(the)",
+          "day",
+          "daytime",
+          "daylight",
+          "date",
+          "deadline",
+          "(past)",
+          "days",
+          "time (e.g. of one's childhood)",
+          "case (esp. unfortunate)",
+          "event"
         ]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 日陰 ",
+        "kana": "ひかげ",
+        "kanaEn": "hikage",
+        "en": ["shade", "shadow", "sunshine"]
+      },
+      {
+        "kanji": " 在りし日 ",
+        "kana": "ありしひ",
+        "kanaEn": "arishihi",
+        "en": [
+          "past days",
+          "bygone days",
+          "days of yore",
+          "the olden days",
+          "while still alive",
+          "during one's lifetime"
+        ]
+      },
+      {
+        "kanji": " あくる日 ",
+        "kana": "あくるひ",
+        "kanaEn": "akuruhi",
+        "en": ["next day", "following day"]
       }
     ]
   },
@@ -2045,91 +2673,70 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 年 ",
+        "kana": "ネン",
+        "kanaEn": "nen",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "year",
+          "counter for years (e.g. of an era)",
+          "grades (e.g. school)",
+          "period of an apprentice's contract (usu. ten years)"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
+        "kanji": " 年会 ",
+        "kana": "ネンカイ",
+        "kanaEn": "nenkai",
+        "en": ["conference", "annual convention"]
+      },
+      {
+        "kanji": " 平年 ",
+        "kana": "ヘイネン",
+        "kanaEn": "heinen",
         "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
+          "non-leap year",
+          "normal year (esp. as pertains to weather patterns, vegetative growth, harvest yields, etc.)"
         ]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 定年 ",
+        "kana": "テイネン",
+        "kanaEn": "teinen",
+        "en": [
+          "retirement age",
+          "years of service in a military rank before eligibility for promotion"
+        ]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 年 ",
+        "kana": "とし",
+        "kanaEn": "toshi",
+        "en": ["year", "age", "years", "past one's prime", "old age"]
+      },
+      {
+        "kanji": " 年明け ",
+        "kana": "としあけ",
+        "kanaEn": "toshiake",
+        "en": ["beginning of the year", "early in the New Year"]
+      },
+      {
+        "kanji": " いい年 ",
+        "kana": "いいとし",
+        "kanaEn": "iitoshi",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "mature age",
+          "advanced age",
+          "maturity",
+          "age when one is old enough to know better"
         ]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 御年 ",
+        "kana": "おんとし",
+        "kanaEn": "ontoshi",
+        "en": ["age (esp. advanced)"]
       }
     ]
   },
@@ -2142,91 +2749,139 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
-        "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
-        ]
+        "kanji": " 早急 ",
+        "kana": "ソウキュウ",
+        "kanaEn": "soukyū",
+        "en": ["immediate", "prompt", "quick", "rapid", "urgent", "pressing"]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
+        "kanji": " 早期 ",
+        "kana": "ソウキ",
+        "kanaEn": "souki",
+        "en": ["early stage"]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " 時期早々 ",
+        "kana": "ジキソウソウ",
+        "kanaEn": "jikisousou",
+        "en": ["premature"]
       },
       {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
+        "kanji": " 尚早 ",
+        "kana": "ショウソウ",
+        "kanaEn": "shousou",
+        "en": ["prematurity"]
       },
       {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
+        "kanji": " 早急 ",
+        "kana": "ソウキュウ",
+        "kanaEn": "soukyū",
+        "en": ["immediate", "prompt", "quick", "rapid", "urgent", "pressing"]
       },
       {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 早速 ",
+        "kana": "サッソク",
+        "kanaEn": "sassoku",
+        "en": ["at once", "immediately", "without delay", "promptly"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 早い ",
+        "kana": "はやい",
+        "kanaEn": "hayai",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "fast",
+          "quick",
+          "rapid",
+          "swift",
+          "speedy",
+          "brisk",
+          "prompt",
+          "early",
+          "soon",
+          "earlier than usual",
+          "premature",
+          "too soon",
+          "too early",
+          "easy",
+          "simple",
+          "quick",
+          "fast",
+          "as soon as ...",
+          "the moment ...",
+          "the instant ..."
         ]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 早いこと ",
+        "kana": "はやいこと",
+        "kanaEn": "hayaikoto",
+        "en": ["quickly"]
+      },
+      {
+        "kanji": " 早 ",
+        "kana": "はや",
+        "kanaEn": "haya",
+        "en": [
+          "already",
+          "now",
+          "by this time",
+          "quick",
+          "early",
+          "fast",
+          "rapid"
+        ]
+      },
+      {
+        "kanji": " 甲矢 ",
+        "kana": "はや",
+        "kanaEn": "haya",
+        "en": [
+          "arrow with feathers that curve to the left (the first of two arrows to be fired)"
+        ]
+      },
+      {
+        "kanji": " 早々 ",
+        "kana": "はやはや",
+        "kanaEn": "hayahaya",
+        "en": ["quickly"]
+      },
+      {
+        "kanji": " なる早 ",
+        "kana": "なるはや",
+        "kanaEn": "naruhaya",
+        "en": ["as soon as possible", "ASAP"]
+      },
+      {
+        "kanji": " 早まる ",
+        "kana": "はやまる",
+        "kanaEn": "hayamaru",
+        "en": [
+          "to be brought forward (e.g. by three hours)",
+          "to be moved up",
+          "to be advanced",
+          "to be hasty",
+          "to be rash",
+          "to quicken",
+          "to speed up",
+          "to gather speed"
+        ]
+      },
+      {
+        "kanji": " 早める ",
+        "kana": "はやめる",
+        "kanaEn": "hayameru",
+        "en": [
+          "to bring forward (e.g. by 3 hours)",
+          "to advance",
+          "to hasten (e.g. one's death)",
+          "to expedite",
+          "to precipitate",
+          "to quicken (e.g. one's step)",
+          "to speed up",
+          "to accelerate"
+        ]
       }
     ]
   },
@@ -2239,91 +2894,95 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
+        "kanji": " 木刀 ",
+        "kana": "ボクトウ",
+        "kanaEn": "bokutou",
+        "en": ["wooden sword"]
+      },
+      {
+        "kanji": " 木偶 ",
+        "kana": "デク",
+        "kanaEn": "deku",
         "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
+          "wooden doll",
+          "wooden figure",
+          "puppet",
+          "blockhead",
+          "good-for-nothing",
+          "fool"
         ]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
+        "kanji": " 土木 ",
+        "kana": "ドボク",
+        "kanaEn": "doboku",
+        "en": ["engineering works", "civil engineering", "public works"]
+      },
+      {
+        "kanji": " 名木 ",
+        "kana": "メイボク",
+        "kanaEn": "meiboku",
         "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
+          "old tree of historical interest",
+          "excellent wood",
+          "precious woods",
+          "choice wood"
         ]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " 木 ",
+        "kana": "モク",
+        "kanaEn": "moku",
+        "en": ["Thursday", "wood (first of the five elements)"]
       },
       {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
+        "kanji": " 木材 ",
+        "kana": "モクザイ",
+        "kanaEn": "mokuzai",
+        "en": ["lumber", "timber", "wood"]
       },
       {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
+        "kanji": " 水木 ",
+        "kana": "スイモク",
+        "kanaEn": "suimoku",
+        "en": ["Wednesday and Thursday"]
       },
       {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 火水木 ",
+        "kana": "カスイモク",
+        "kanaEn": "kasuimoku",
+        "en": ["Tuesday", "Wednesday and Thursday"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
-        "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
-        ]
+        "kanji": " 木 ",
+        "kana": "き",
+        "kanaEn": "ki",
+        "en": ["tree", "shrub", "bush", "wood", "timber"]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 木々 ",
+        "kana": "きぎ",
+        "kanaEn": "kigi",
+        "en": ["(many)", "trees", "every tree", "all kinds of trees"]
+      },
+      {
+        "kanji": " 本木 ",
+        "kana": "もとき",
+        "kanaEn": "motoki",
+        "en": ["original stock"]
+      },
+      {
+        "kanji": " 青木 ",
+        "kana": "あおき",
+        "kanaEn": "aoki",
+        "en": [
+          "Japanese laurel",
+          "spotted laurel",
+          "Aucuba japonica",
+          "live tree"
+        ]
       }
     ]
   },
@@ -2336,91 +2995,3395 @@
     "quizId": 1,
     "onyomiCompounds": [
       {
-        "kanji": " 一 ",
-        "kana": "イチ",
-        "kanaEn": "ichi",
-        "en": [
-          "one",
-          "1",
-          "best",
-          "first",
-          "foremost",
-          "beginning",
-          "start",
-          "a (single)",
-          "one (of many)",
-          "ace (playing card)",
-          "bottom string (on a shamisen, etc.)"
-        ]
+        "kanji": " 林道 ",
+        "kana": "リンドウ",
+        "kanaEn": "rindou",
+        "en": ["path through forest", "woodland path", "logging road"]
       },
       {
-        "kanji": " 一応目を通す ",
-        "kana": "イチオウメヲトオス",
-        "kanaEn": "ichioumewotoosu",
-        "en": [
-          "to run one's eye over (e.g. to check if it's OK)",
-          "to glance over",
-          "to skim through"
-        ]
+        "kanji": " 林業 ",
+        "kana": "リンギョウ",
+        "kanaEn": "ringyou",
+        "en": ["forestry"]
       },
       {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
+        "kanji": " 雑木林 ",
+        "kana": "ゾウキバヤシ",
+        "kanaEn": "zoukibayashi",
+        "en": ["grove of miscellaneous trees", "copse", "coppice", "thicket"]
       },
       {
-        "kanji": " １対１ ",
-        "kana": "イチタイイチ",
-        "kanaEn": "ichitaiichi",
-        "en": ["one-to-one", "one-on-one"]
-      },
-      {
-        "kanji": " 一 ",
-        "kana": "イツ",
-        "kanaEn": "itsu",
-        "en": ["one", "same (mind, path, etc.)"]
-      },
-      {
-        "kanji": " 一に ",
-        "kana": "イツニ",
-        "kanaEn": "itsuni",
-        "en": ["solely", "entirely", "only", "or"]
-      },
-      {
-        "kanji": " 均一 ",
-        "kana": "キンイツ",
-        "kanaEn": "kinitsu",
-        "en": ["uniformity", "equality"]
-      },
-      {
-        "kanji": " 画一 ",
-        "kana": "カクイツ",
-        "kanaEn": "kakuitsu",
-        "en": ["uniformity", "standardization", "standardisation"]
+        "kanji": " 農林 ",
+        "kana": "ノウリン",
+        "kanaEn": "nourin",
+        "en": ["agriculture and forestry"]
       }
     ],
     "kunyomiCompounds": [
       {
-        "kanji": " 一つ ",
-        "kana": "ひとつ",
-        "kanaEn": "hitotsu",
+        "kanji": " 林 ",
+        "kana": "はやし",
+        "kanaEn": "hayashi",
         "en": [
-          "one",
-          "for one thing",
-          "only",
-          "(not)",
-          "even",
-          "just (e.g. \"just try it\")",
-          "some kind of",
-          "one type of"
+          "wood",
+          "woods",
+          "forest",
+          "grove",
+          "copse",
+          "thicket",
+          "bunch (of something)",
+          "cluster",
+          "line",
+          "collection"
+        ]
+      }
+    ]
+  },
+  {
+    "kanjiId": 26,
+    "kanji": "山",
+    "en": "mountain",
+    "kana": "やま",
+    "kanaEn": "yama",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 山 ",
+        "kana": "サン",
+        "kanaEn": "san",
+        "en": ["Mt.", "Mount", "Mt.", "Mount"]
+      },
+      {
+        "kanji": " 山陰 ",
+        "kana": "ヤマカゲ",
+        "kanaEn": "yamakage",
+        "en": [
+          "place in the shade of a mountain",
+          "shelter of the mountains",
+          "mountain recess"
         ]
       },
       {
-        "kanji": " 一つ一つ ",
-        "kana": "ひとつひとつ",
-        "kanaEn": "hitotsuhitotsu",
-        "en": ["one-by-one", "separately", "in detail"]
+        "kanji": " 治山 ",
+        "kana": "チサン",
+        "kanaEn": "chisan",
+        "en": ["forest conservation", "afforestation"]
+      },
+      {
+        "kanji": " 開山 ",
+        "kana": "カイサン",
+        "kanaEn": "kaisan",
+        "en": ["founding a temple (on a hill-top)"]
+      },
+      {
+        "kanji": " 山道 ",
+        "kana": "ヤマミチ",
+        "kanaEn": "yamamichi",
+        "en": ["mountain road", "mountain trail"]
+      },
+      {
+        "kanji": " 雪山 ",
+        "kana": "セツザン",
+        "kanaEn": "setsuzan",
+        "en": [
+          "snowy mountain",
+          "permanently snow-covered mountain",
+          "Himalayas"
+        ]
+      },
+      {
+        "kanji": " 須弥山 ",
+        "kana": "シュミセン",
+        "kanaEn": "shumisen",
+        "en": ["Mount Sumeru (believed to be the centre of the Buddhist world)"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 山 ",
+        "kana": "やま",
+        "kanaEn": "yama",
+        "en": [
+          "mountain",
+          "hill",
+          "mine (e.g. coal mine)",
+          "heap",
+          "pile",
+          "crown (of a hat)",
+          "thread (of a screw)",
+          "tread (of a tire)",
+          "protruding part of an object",
+          "high part",
+          "climax",
+          "peak",
+          "critical point",
+          "guess",
+          "speculation",
+          "gamble",
+          "criminal case",
+          "crime",
+          "mountain climbing",
+          "mountaineering",
+          "festival float (esp. one mounted with a decorative halberd)",
+          "deck (of playing cards on table, face down, from which cards are drawn)",
+          "stack",
+          "wall",
+          "wall tile",
+          "temple",
+          "temple grounds",
+          "wild"
+        ]
+      },
+      {
+        "kanji": " 山陰 ",
+        "kana": "やまかげ",
+        "kanaEn": "yamakage",
+        "en": [
+          "place in the shade of a mountain",
+          "shelter of the mountains",
+          "mountain recess"
+        ]
+      },
+      {
+        "kanji": " 奥山 ",
+        "kana": "おくやま",
+        "kanaEn": "okuyama",
+        "en": ["remote mountain", "mountain recesses"]
+      },
+      {
+        "kanji": " 青山 ",
+        "kana": "せいざん",
+        "kanaEn": "seizan",
+        "en": ["lush mountain", "green mountain", "grave", "burial place"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 27,
+    "kanji": "川",
+    "en": "river",
+    "kana": "かわ",
+    "kanaEn": "kawa",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 川柳 ",
+        "kana": "センリュウ",
+        "kanaEn": "senryū",
+        "en": ["senryū", "comic haiku", "humorous seventeen-mora poem"]
+      },
+      {
+        "kanji": " 川きゅう ",
+        "kana": "センキュウ",
+        "kanaEn": "senkyū",
+        "en": ["cnidium rhizome (Cnidium officinale)"]
+      },
+      {
+        "kanji": " 山川 ",
+        "kana": "サンセン",
+        "kanaEn": "sansen",
+        "en": ["mountains and rivers"]
+      },
+      {
+        "kanji": " 四川 ",
+        "kana": "シセン",
+        "kanaEn": "shisen",
+        "en": ["Sichuan (China)", "Szechuan", "Szechwan"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 川 ",
+        "kana": "かわ",
+        "kanaEn": "kawa",
+        "en": ["river", "stream", "River", "the ... river"]
+      },
+      {
+        "kanji": " 川上 ",
+        "kana": "かわかみ",
+        "kanaEn": "kawakami",
+        "en": ["upper reaches of a river", "upstream"]
+      },
+      {
+        "kanji": " 堀川 ",
+        "kana": "ほりかわ",
+        "kanaEn": "horikawa",
+        "en": ["canal"]
+      },
+      {
+        "kanji": " 山川 ",
+        "kana": "さんせん",
+        "kanaEn": "sansen",
+        "en": ["mountains and rivers"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 28,
+    "kanji": "土",
+    "en": "ground",
+    "kana": "つち",
+    "kanaEn": "tsuchi",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 土 ",
+        "kana": "ド",
+        "kanaEn": "do",
+        "en": [
+          "Saturday",
+          "earth",
+          "dirt",
+          "soil",
+          "land",
+          "lands",
+          "ground",
+          "earth (third of the five elements)"
+        ]
+      },
+      {
+        "kanji": " 土地 ",
+        "kana": "トチ",
+        "kanaEn": "tochi",
+        "en": ["plot of land", "lot", "soil", "locality", "region", "place"]
+      },
+      {
+        "kanji": " 浄土 ",
+        "kana": "ジョウド",
+        "kanaEn": "joudo",
+        "en": [
+          "pure land (esp. the Western Pure Land paradise of Amitabha)",
+          "(Buddhist)",
+          "paradise",
+          "Pure Land Buddhism"
+        ]
+      },
+      {
+        "kanji": " 郷土 ",
+        "kana": "キョウド",
+        "kanaEn": "kyoudo",
+        "en": [
+          "native place",
+          "birth-place",
+          "one's old home",
+          "province",
+          "region",
+          "locality"
+        ]
+      },
+      { "kanji": " 土 ", "kana": "ト", "kanaEn": "to", "en": ["Turkey"] },
+      {
+        "kanji": " 時計 ",
+        "kana": "トケイ",
+        "kanaEn": "tokei",
+        "en": ["clock", "watch", "timepiece"]
+      },
+      {
+        "kanji": " 下土 ",
+        "kana": "カド",
+        "kanaEn": "kado",
+        "en": ["lower world", "this world", "the earth"]
+      },
+      {
+        "kanji": " 率土 ",
+        "kana": "ソット",
+        "kanaEn": "sotto",
+        "en": ["face of the earth"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 土 ",
+        "kana": "つち",
+        "kanaEn": "tsuchi",
+        "en": [
+          "earth",
+          "soil",
+          "dirt",
+          "clay",
+          "mud",
+          "the earth (historically, esp. as opposed to the heavens)",
+          "the ground",
+          "the land",
+          "low-quality torinoko-gami (containing mud)",
+          "(period of)",
+          "refraining from construction in the direction of the god of the earth (in Onmyōdō)"
+        ]
+      },
+      {
+        "kanji": " 土方 ",
+        "kana": "どかた",
+        "kanaEn": "dokata",
+        "en": ["construction worker", "laborer (labourer)", "navvy"]
+      },
+      {
+        "kanji": " 盛り土 ",
+        "kana": "もりど",
+        "kanaEn": "morido",
+        "en": [
+          "embankment (for road, railway, etc.)",
+          "raising the ground level",
+          "fill"
+        ]
+      },
+      {
+        "kanji": " 赤土 ",
+        "kana": "あかつち",
+        "kanaEn": "akatsuchi",
+        "en": ["red clay", "red earth", "laterite", "dark-red paint"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 29,
+    "kanji": "空",
+    "en": "sky",
+    "kana": "そら",
+    "kanaEn": "sora",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 空 ",
+        "kana": "クウ",
+        "kanaEn": "kuu",
+        "en": [
+          "empty air",
+          "sky",
+          "shunyata (the lack of an immutable intrinsic nature within any phenomenon)",
+          "emptiness",
+          "air force",
+          "fruitlessness",
+          "meaninglessness",
+          "void (one of the five elements)",
+          "empty (e.g. set)"
+        ]
+      },
+      {
+        "kanji": " 空域 ",
+        "kana": "クウイキ",
+        "kanaEn": "kuuiki",
+        "en": ["airspace"]
+      },
+      {
+        "kanji": " 領空 ",
+        "kana": "リョウクウ",
+        "kanaEn": "ryoukuu",
+        "en": ["territorial airspace"]
+      },
+      {
+        "kanji": " 防空 ",
+        "kana": "ボウクウ",
+        "kanaEn": "boukuu",
+        "en": ["air defense", "air defence"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 空 ",
+        "kana": "そら",
+        "kanaEn": "sora",
+        "en": [
+          "sky",
+          "the air",
+          "the heavens",
+          "weather",
+          "far-off place",
+          "distant place",
+          "state of mind",
+          "feeling",
+          "(from)",
+          "memory",
+          "(by)",
+          "heart",
+          "falsehood",
+          "lie",
+          "somehow",
+          "vaguely",
+          "fake"
+        ]
+      },
+      {
+        "kanji": " 空模様 ",
+        "kana": "そらもよう",
+        "kanaEn": "soramoyou",
+        "en": ["look of the sky", "weather"]
+      },
+      {
+        "kanji": " 定めなき空 ",
+        "kana": "さだめなきそら",
+        "kanaEn": "sadamenakisora",
+        "en": ["changeable weather"]
+      },
+      {
+        "kanji": " 晴れた空 ",
+        "kana": "はれたそら",
+        "kanaEn": "haretasora",
+        "en": ["clear sky", "cloudless sky"]
+      },
+      {
+        "kanji": " 開く ",
+        "kana": "あく",
+        "kanaEn": "aku",
+        "en": [
+          "to open (e.g. doors)",
+          "to open (e.g. business, etc.)",
+          "to be empty",
+          "to be vacant",
+          "to be available",
+          "to be free",
+          "to be open (e.g. neckline, etc.)",
+          "to have been opened (of one's eyes, mouth, etc.)",
+          "to come to an end",
+          "to open (one's eyes, mouth, etc.)",
+          "to have a hole",
+          "to form a gap",
+          "to have an interval (between events)"
+        ]
+      },
+      {
+        "kanji": " 空き ",
+        "kana": "あき",
+        "kanaEn": "aki",
+        "en": [
+          "space",
+          "room",
+          "gap",
+          "emptiness",
+          "vacancy",
+          "opening",
+          "empty seat",
+          "free time",
+          "time to spare",
+          "disuse",
+          "unused thing"
+        ]
+      },
+      {
+        "kanji": " 空き缶 ",
+        "kana": "あきかん",
+        "kanaEn": "akikan",
+        "en": ["empty can"]
+      },
+      {
+        "kanji": " 開ける ",
+        "kana": "あける",
+        "kanaEn": "akeru",
+        "en": [
+          "to open (a door, etc.)",
+          "to unwrap (e.g. parcel, package)",
+          "to unlock",
+          "to open (for business, etc.)",
+          "to empty",
+          "to remove",
+          "to make space",
+          "to make room",
+          "to move out",
+          "to clear out",
+          "to be away from (e.g. one's house)",
+          "to leave (temporarily)",
+          "to dawn",
+          "to grow light",
+          "to end (of a period, season)",
+          "to begin (of the New Year)",
+          "to leave (one's schedule)",
+          "open",
+          "to make time (for)",
+          "to make (a hole)",
+          "to open up (a hole)"
+        ]
+      },
+      {
+        "kanji": " 空 ",
+        "kana": "から",
+        "kanaEn": "kara",
+        "en": ["emptiness", "vacuum", "blank"]
+      },
+      {
+        "kanji": " 空手 ",
+        "kana": "からて",
+        "kanaEn": "karate",
+        "en": ["karate", "empty handed"]
+      },
+      {
+        "kanji": " もぬけの殻 ",
+        "kana": "もぬけのから",
+        "kanaEn": "monukenokara",
+        "en": [
+          "completely empty (of a residence, etc.)",
+          "vacant",
+          "deserted",
+          "body from which the soul has left",
+          "corpse",
+          "shed skin (of a snake, insect, etc.)"
+        ]
+      },
+      {
+        "kanji": " 空く ",
+        "kana": "すく",
+        "kanaEn": "suku",
+        "en": [
+          "to become less crowded",
+          "to thin out",
+          "to get empty",
+          "to be hungry"
+        ]
+      },
+      {
+        "kanji": " 空かす ",
+        "kana": "すかす",
+        "kanaEn": "sukasu",
+        "en": ["to feel hungry", "to get hungry"]
+      },
+      {
+        "kanji": " 虚しい ",
+        "kana": "むなしい",
+        "kanaEn": "munashī",
+        "en": [
+          "empty",
+          "void",
+          "vacant",
+          "vain",
+          "fruitless",
+          "futile",
+          "ineffective",
+          "lifeless"
+        ]
+      }
+    ]
+  },
+  {
+    "kanjiId": 30,
+    "kanji": "田",
+    "en": "rice field",
+    "kana": "た",
+    "kanaEn": "ta",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 田畑 ",
+        "kana": "タハタ",
+        "kanaEn": "tahata",
+        "en": ["fields (of rice and other crops)"]
+      },
+      {
+        "kanji": " 田園 ",
+        "kana": "デンエン",
+        "kanaEn": "denen",
+        "en": [
+          "the country",
+          "countryside",
+          "rural districts",
+          "cultivated land",
+          "fields"
+        ]
+      },
+      {
+        "kanji": " 桑田 ",
+        "kana": "ソウデン",
+        "kanaEn": "souden",
+        "en": ["mulberry plantation"]
+      },
+      {
+        "kanji": " 水田 ",
+        "kana": "スイデン",
+        "kanaEn": "suiden",
+        "en": ["(water-filled)", "paddy field"]
+      }
+    ],
+    "kunyomiCompounds": [
+      { "kanji": " 田 ", "kana": "た", "kanaEn": "ta", "en": ["rice field"] },
+      {
+        "kanji": " 田植え ",
+        "kana": "たうえ",
+        "kanaEn": "taue",
+        "en": ["rice planting"]
+      },
+      {
+        "kanji": " 新田 ",
+        "kana": "しんでん",
+        "kanaEn": "shinden",
+        "en": [
+          "new rice field",
+          "newly developed rice field",
+          "wasteland or marshland newly reclaimed as a rice field (Edo period)"
+        ]
+      },
+      {
+        "kanji": " 沼田 ",
+        "kana": "ぬまた",
+        "kanaEn": "numata",
+        "en": ["marshy rice field or paddy"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 31,
+    "kanji": "天",
+    "en": "heaven",
+    "kana": "てん",
+    "kanaEn": "ten",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 天 ",
+        "kana": "テン",
+        "kanaEn": "ten",
+        "en": [
+          "sky",
+          "heaven",
+          "God",
+          "svarga (heaven-like realm visited as a stage of death and rebirth)",
+          "deva (divine being of Buddhism)",
+          "top (of a book)",
+          "sole (of a Japanese sandal)",
+          "beginning",
+          "start",
+          "tempura",
+          "India"
+        ]
+      },
+      {
+        "kanji": " 天下 ",
+        "kana": "テンカ",
+        "kanaEn": "tenka",
+        "en": [
+          "the whole world",
+          "the whole country",
+          "society",
+          "the public",
+          "supremacy over a nation",
+          "government of a country",
+          "the ruling power",
+          "having one's own way",
+          "doing as one pleases",
+          "peerless",
+          "incomparable",
+          "superlative",
+          "world-famous",
+          "shogun (Edo period)"
+        ]
+      },
+      {
+        "kanji": " 炎天 ",
+        "kana": "エンテン",
+        "kanaEn": "enten",
+        "en": ["blazing heat", "scorching sun"]
+      },
+      {
+        "kanji": " 楽天 ",
+        "kana": "ラクテン",
+        "kanaEn": "rakuten",
+        "en": ["optimism"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 天津 ",
+        "kana": "あまつ",
+        "kanaEn": "amatsu",
+        "en": ["heavenly", "imperial"]
+      },
+      {
+        "kanji": " 天津乙女 ",
+        "kana": "あまつおとめ",
+        "kanaEn": "amatsuotome",
+        "en": ["celestial maiden"]
+      },
+      { "kanji": " 天 ", "kana": "あめ", "kanaEn": "ame", "en": ["sky"] },
+      {
+        "kanji": " 天地 ",
+        "kana": "てんち",
+        "kanaEn": "tenchi",
+        "en": [
+          "heaven and earth",
+          "the universe",
+          "the world",
+          "nature",
+          "land",
+          "world",
+          "realm",
+          "sphere",
+          "top and bottom",
+          "gods of heaven and earth"
+        ]
+      }
+    ]
+  },
+  {
+    "kanjiId": 32,
+    "kanji": "生",
+    "en": "a living",
+    "kana": "せい",
+    "kanaEn": "sei",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 生 ",
+        "kana": "セイ",
+        "kanaEn": "sei",
+        "en": ["life", "living", "I", "me", "myself", "student"]
+      },
+      {
+        "kanji": " 生育 ",
+        "kana": "セイイク",
+        "kanaEn": "seiiku",
+        "en": [
+          "birth and growth",
+          "giving birth and raising",
+          "development",
+          "breeding"
+        ]
+      },
+      {
+        "kanji": " 回生 ",
+        "kana": "カイセイ",
+        "kanaEn": "kaisei",
+        "en": [
+          "resurrection",
+          "resuscitation",
+          "coming back to life",
+          "regeneration",
+          "nth-year university student"
+        ]
+      },
+      {
+        "kanji": " 公衆衛生 ",
+        "kana": "コウシュウエイセイ",
+        "kanaEn": "koushueisei",
+        "en": ["public health", "public hygiene", "sanitation"]
+      },
+      {
+        "kanji": " 生 ",
+        "kana": "セイ",
+        "kanaEn": "sei",
+        "en": ["life", "living", "I", "me", "myself", "student"]
+      },
+      {
+        "kanji": " 生家 ",
+        "kana": "セイカ",
+        "kanaEn": "seika",
+        "en": ["house where one was born", "one's parents' house"]
+      },
+      {
+        "kanji": " 殺生 ",
+        "kana": "セッショウ",
+        "kanaEn": "sesshou",
+        "en": [
+          "killing",
+          "destruction of life",
+          "cruel",
+          "heartless",
+          "callous",
+          "brutal"
+        ]
+      },
+      {
+        "kanji": " 死生 ",
+        "kana": "シセイ",
+        "kanaEn": "shisei",
+        "en": ["life and death"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 生きる ",
+        "kana": "いきる",
+        "kanaEn": "ikiru",
+        "en": [
+          "to live",
+          "to exist",
+          "to make a living",
+          "to subsist",
+          "to be in effect",
+          "to be in use",
+          "to function",
+          "to come to life",
+          "to be enlivened",
+          "to be safe (in baseball, go, etc.)"
+        ]
+      },
+      {
+        "kanji": " 生きる力 ",
+        "kana": "いきるちから",
+        "kanaEn": "ikiruchikara",
+        "en": ["zest for living", "energy to live"]
+      },
+      {
+        "kanji": " 生かす ",
+        "kana": "いかす",
+        "kanaEn": "ikasu",
+        "en": [
+          "to make (the best)",
+          "use of",
+          "to put to good use",
+          "to leverage (skills, attributes, experience, etc.)",
+          "to capitalise on (experience, etc.)",
+          "to let live",
+          "to keep alive",
+          "to revive",
+          "to resuscitate",
+          "to bring back to life",
+          "to restore (a deleted passage; in proofreading)"
+        ]
+      },
+      {
+        "kanji": " 生ける ",
+        "kana": "いける",
+        "kanaEn": "ikeru",
+        "en": ["to arrange (flowers)", "to plant", "living", "live"]
+      },
+      {
+        "kanji": " 生ける屍 ",
+        "kana": "いけるしかばね",
+        "kanaEn": "ikerushikabane",
+        "en": ["living corpse"]
+      },
+      {
+        "kanji": " 生まれる ",
+        "kana": "うまれる",
+        "kanaEn": "umareru",
+        "en": ["to be born"]
+      },
+      {
+        "kanji": " 生まれる ",
+        "kana": "うまれる",
+        "kanaEn": "umareru",
+        "en": ["to be born"]
+      },
+      {
+        "kanji": " 生まれ ",
+        "kana": "うまれ",
+        "kanaEn": "umare",
+        "en": [
+          "birth",
+          "birthplace",
+          "born in (country, month, imperial era, zodiac year, etc.)"
+        ]
+      },
+      {
+        "kanji": " 生まれつき ",
+        "kana": "うまれつき",
+        "kanaEn": "umaretsuki",
+        "en": ["by nature", "by birth", "naturally", "natural", "innate"]
+      },
+      {
+        "kanji": " 生まれ ",
+        "kana": "うまれ",
+        "kanaEn": "umare",
+        "en": [
+          "birth",
+          "birthplace",
+          "born in (country, month, imperial era, zodiac year, etc.)"
+        ]
+      },
+      {
+        "kanji": " 生まれつき ",
+        "kana": "うまれつき",
+        "kanaEn": "umaretsuki",
+        "en": ["by nature", "by birth", "naturally", "natural", "innate"]
+      },
+      {
+        "kanji": " 生む ",
+        "kana": "うむ",
+        "kanaEn": "umu",
+        "en": [
+          "to give birth",
+          "to bear (child)",
+          "to lay (eggs)",
+          "to produce",
+          "to yield",
+          "to give rise to",
+          "to deliver"
+        ]
+      },
+      {
+        "kanji": " 生う ",
+        "kana": "おう",
+        "kanaEn": "ou",
+        "en": ["to grow", "to spring up", "to cut (teeth)"]
+      },
+      {
+        "kanji": " 生える ",
+        "kana": "はえる",
+        "kanaEn": "haeru",
+        "en": ["to grow", "to spring up", "to sprout", "to cut (teeth)"]
+      },
+      {
+        "kanji": " 生やす ",
+        "kana": "はやす",
+        "kanaEn": "hayasu",
+        "en": ["to grow", "to cultivate", "to wear a beard"]
+      },
+      {
+        "kanji": " 生 ",
+        "kana": "き",
+        "kanaEn": "ki",
+        "en": ["pure", "undiluted", "raw", "crude"]
+      },
+      {
+        "kanji": " 生地 ",
+        "kana": "きじ",
+        "kanaEn": "kiji",
+        "en": [
+          "cloth",
+          "fabric",
+          "material",
+          "texture",
+          "dough",
+          "batter",
+          "inherent quality",
+          "one's true character",
+          "one's true colours",
+          "unglazed pottery",
+          "skin with no make-up",
+          "uncoated metal"
+        ]
+      },
+      {
+        "kanji": " 死に生き ",
+        "kana": "しにいき",
+        "kanaEn": "shiniiki",
+        "en": ["death and life", "death or life", "death"]
+      },
+      {
+        "kanji": " 生 ",
+        "kana": "なま",
+        "kanaEn": "nama",
+        "en": [
+          "raw",
+          "uncooked",
+          "fresh",
+          "natural",
+          "as it is",
+          "unedited",
+          "unprocessed",
+          "unprotected (sex)",
+          "live (i.e. not recorded)",
+          "inexperienced",
+          "unpolished",
+          "green",
+          "crude",
+          "impudence",
+          "sauciness",
+          "unpasteurized beer",
+          "draft beer",
+          "draught beer",
+          "blank (e.g. disk)",
+          "unused",
+          "just a little",
+          "somehow",
+          "vaguely",
+          "partially",
+          "somewhat",
+          "half-",
+          "semi-",
+          "insufficient",
+          "incomplete",
+          "half-baked",
+          "half-hearted",
+          "perfunctory",
+          "cash",
+          "tipsiness"
+        ]
+      },
+      {
+        "kanji": " 生り ",
+        "kana": "なまり",
+        "kanaEn": "namari",
+        "en": ["boiled and half-dried bonito"]
+      },
+      {
+        "kanji": " お生 ",
+        "kana": "おなま",
+        "kanaEn": "onama",
+        "en": ["impudence", "sauciness"]
+      },
+      {
+        "kanji": " 現ナマ ",
+        "kana": "げんナマ",
+        "kanaEn": "gennama",
+        "en": ["cold cash", "hard cash"]
+      },
+      {
+        "kanji": " 生る ",
+        "kana": "なる",
+        "kanaEn": "naru",
+        "en": ["to bear fruit"]
+      },
+      {
+        "kanji": " 生す ",
+        "kana": "なす",
+        "kanaEn": "nasu",
+        "en": ["to have a child"]
+      },
+      {
+        "kanji": " 生す ",
+        "kana": "むす",
+        "kanaEn": "musu",
+        "en": ["to grow (of moss, etc.)"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 33,
+    "kanji": "花",
+    "en": "flower",
+    "kana": "はな",
+    "kanaEn": "hana",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 花形 ",
+        "kana": "ハナガタ",
+        "kanaEn": "hanagata",
+        "en": [
+          "floral pattern",
+          "flourish",
+          "ornament",
+          "star (actor, player, etc.)"
+        ]
+      },
+      {
+        "kanji": " 花園 ",
+        "kana": "ハナゾノ",
+        "kanaEn": "hanazono",
+        "en": ["flower garden"]
+      },
+      {
+        "kanji": " 献花 ",
+        "kana": "ケンカ",
+        "kanaEn": "kenka",
+        "en": ["flower offering", "floral tribute", "laying flowers"]
+      },
+      {
+        "kanji": " 紅花 ",
+        "kana": "ベニバナ",
+        "kanaEn": "benibana",
+        "en": ["safflower (Carthamus tinctorius)", "dyer's safflower"]
+      },
+      {
+        "kanji": " 花かご ",
+        "kana": "ハナカゴ",
+        "kanaEn": "hanakago",
+        "en": [
+          "flower basket",
+          "flower basket (or plate)",
+          "used for flower-scattering rituals"
+        ]
+      },
+      {
+        "kanji": " 花瓶 ",
+        "kana": "ケビョウ",
+        "kanaEn": "kebyou",
+        "en": [
+          "vase used to hold flower offerings (often made of gilded copper)"
+        ]
+      },
+      {
+        "kanji": " 天花 ",
+        "kana": "テンゲ",
+        "kanaEn": "tenge",
+        "en": [
+          "flowers that bloom in the heavens",
+          "paper flowers scattered before the Buddha's image"
+        ]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 花 ",
+        "kana": "はな",
+        "kanaEn": "hana",
+        "en": [
+          "flower",
+          "blossom",
+          "bloom",
+          "petal",
+          "cherry blossom",
+          "beauty",
+          "blooming (esp. of cherry blossoms)",
+          "ikebana",
+          "hanafuda",
+          "(the)",
+          "best",
+          "glorious",
+          "lovely"
+        ]
+      },
+      {
+        "kanji": " 花形 ",
+        "kana": "はながた",
+        "kanaEn": "hanagata",
+        "en": [
+          "floral pattern",
+          "flourish",
+          "ornament",
+          "star (actor, player, etc.)"
+        ]
+      },
+      {
+        "kanji": " 菜の花 ",
+        "kana": "なのはな",
+        "kanaEn": "nanohana",
+        "en": ["rape blossoms", "rapeseed flowers"]
+      },
+      {
+        "kanji": " 紅花 ",
+        "kana": "べにばな",
+        "kanaEn": "benibana",
+        "en": ["safflower (Carthamus tinctorius)", "dyer's safflower"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 34,
+    "kanji": "草",
+    "en": "grass",
+    "kana": "くさ",
+    "kanaEn": "kusa",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 草 ",
+        "kana": "ソウ",
+        "kanaEn": "sou",
+        "en": [
+          "draft",
+          "rough copy",
+          "highly cursive style (of writing Chinese characters)",
+          "grass style"
+        ]
+      },
+      {
+        "kanji": " 草案 ",
+        "kana": "ソウアン",
+        "kanaEn": "souan",
+        "en": ["draft (for a speech, bill, etc.)"]
+      },
+      {
+        "kanji": " 除草 ",
+        "kana": "ジョソウ",
+        "kanaEn": "josou",
+        "en": ["weeding"]
+      },
+      {
+        "kanji": " 起草 ",
+        "kana": "キソウ",
+        "kanaEn": "kisou",
+        "en": ["drafting (e.g. a bill)", "drawing up"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 草 ",
+        "kana": "くさ",
+        "kanaEn": "kusa",
+        "en": [
+          "grass",
+          "weed",
+          "herb",
+          "thatch",
+          "ninja",
+          "not genuine",
+          "substandard",
+          "LOL",
+          "haha"
+        ]
+      },
+      {
+        "kanji": " 草刈り ",
+        "kana": "くさかり",
+        "kanaEn": "kusakari",
+        "en": ["mowing", "mower"]
+      },
+      {
+        "kanji": " 水草 ",
+        "kana": "みずくさ",
+        "kanaEn": "mizukusa",
+        "en": ["water plant", "aquatic plant", "waterweed", "hydrophyte"]
+      },
+      {
+        "kanji": " 若草 ",
+        "kana": "わかくさ",
+        "kanaEn": "wakakusa",
+        "en": ["green grass", "young (fresh)", "grass"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 35,
+    "kanji": "虫",
+    "en": "insect",
+    "kana": "むし",
+    "kanaEn": "mushi",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 虫垂炎 ",
+        "kana": "チュウスイエン",
+        "kanaEn": "chusuien",
+        "en": ["appendicitis"]
+      },
+      {
+        "kanji": " 虫えい ",
+        "kana": "チュウエイ",
+        "kanaEn": "chuei",
+        "en": ["gall (abnormal plant growth formed by insects)"]
+      },
+      {
+        "kanji": " 幼虫 ",
+        "kana": "ヨウチュウ",
+        "kanaEn": "youchu",
+        "en": ["larva", "grub", "maggot"]
+      },
+      {
+        "kanji": " 寄生虫 ",
+        "kana": "キセイチュウ",
+        "kanaEn": "kiseichu",
+        "en": ["parasite"]
+      },
+      {
+        "kanji": " 虫部 ",
+        "kana": "キブ",
+        "kanaEn": "kibu",
+        "en": ["insect radical", "worm radical"]
+      },
+      {
+        "kanji": " 蟻巻 ",
+        "kana": "アリマキ",
+        "kanaEn": "arimaki",
+        "en": ["aphid", "plant louse", "plant lice"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 虫 ",
+        "kana": "むし",
+        "kanaEn": "mushi",
+        "en": [
+          "insect",
+          "bug",
+          "cricket",
+          "moth",
+          "worm",
+          "roundworm",
+          "(one's)",
+          "unconscious",
+          "thing inside one's body that stirs one's feelings and thoughts",
+          "nervousness",
+          "fretfulness",
+          "person devoted to one thing",
+          "single-minded person",
+          "valve core",
+          "mushi (type of game played with a stripped deck)"
+        ]
+      },
+      {
+        "kanji": " 虫歯 ",
+        "kana": "むしば",
+        "kanaEn": "mushiba",
+        "en": ["cavity", "tooth decay", "decayed tooth", "dental caries"]
+      },
+      {
+        "kanji": " 苦虫 ",
+        "kana": "にがむし",
+        "kanaEn": "nigamushi",
+        "en": ["bitter-tasting bug"]
+      },
+      {
+        "kanji": " 馬追虫 ",
+        "kana": "うまおいむし",
+        "kanaEn": "umaoimushi",
+        "en": [
+          "Hexacentrus japonicus (species of katydid)",
+          "Hexacentrus unicolor (species of katydid)"
+        ]
+      }
+    ]
+  },
+  {
+    "kanjiId": 36,
+    "kanji": "犬",
+    "en": "dog",
+    "kana": "いぬ",
+    "kanaEn": "inu",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 犬猿の仲 ",
+        "kana": "ケンエンノナカ",
+        "kanaEn": "kenennonaka",
+        "en": [
+          "like cats and dogs",
+          "(on)",
+          "very bad terms",
+          "relationship of dogs and monkeys"
+        ]
+      },
+      {
+        "kanji": " 犬猿 ",
+        "kana": "ケンエン",
+        "kanaEn": "kenen",
+        "en": [
+          "cats and dogs (as an example of a bad relationship)",
+          "dogs and monkeys"
+        ]
+      },
+      {
+        "kanji": " 柴犬 ",
+        "kana": "シバイヌ",
+        "kanaEn": "shibainu",
+        "en": ["shiba inu (dog breed)", "shiba", "brushwood dog"]
+      },
+      {
+        "kanji": " ポメラニア犬 ",
+        "kana": "ポメラニアケン",
+        "kanaEn": "pomeraniaken",
+        "en": ["Pomeranian (dog)"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 犬 ",
+        "kana": "いぬ",
+        "kanaEn": "inu",
+        "en": [
+          "dog (Canis )",
+          "lupus( familiaris)",
+          "squealer",
+          "rat",
+          "snitch",
+          "informer",
+          "informant",
+          "spy",
+          "loser",
+          "asshole",
+          "counterfeit",
+          "inferior",
+          "useless",
+          "wasteful"
+        ]
+      },
+      {
+        "kanji": " 犬合わせ ",
+        "kana": "いぬあわせ",
+        "kanaEn": "inuawase",
+        "en": ["dog fighting", "dog fight"]
+      },
+      {
+        "kanji": " 野良犬 ",
+        "kana": "のらいぬ",
+        "kanaEn": "norainu",
+        "en": ["stray dog"]
+      },
+      {
+        "kanji": " 柴犬 ",
+        "kana": "しばいぬ",
+        "kanaEn": "shibainu",
+        "en": ["shiba inu (dog breed)", "shiba", "brushwood dog"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 37,
+    "kanji": "人",
+    "en": "person",
+    "kana": "ひと",
+    "kanaEn": "hito",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 人 ",
+        "kana": "ジン",
+        "kanaEn": "jin",
+        "en": [
+          "-ian (e.g. Italian)",
+          "-ite (e.g. Tokyoite)",
+          "-er (e.g. performer, etc.)",
+          "person working with ...",
+          "man",
+          "person",
+          "people"
+        ]
+      },
+      {
+        "kanji": " 人為 ",
+        "kana": "ジンイ",
+        "kanaEn": "jini",
+        "en": ["human work", "human agency", "art", "artificiality"]
+      },
+      {
+        "kanji": " 米人 ",
+        "kana": "ベイジン",
+        "kanaEn": "beijin",
+        "en": ["American person"]
+      },
+      {
+        "kanji": " 俳人 ",
+        "kana": "ハイジン",
+        "kanaEn": "haijin",
+        "en": ["haiku poet"]
+      },
+      {
+        "kanji": " 人 ",
+        "kana": "ニン",
+        "kanaEn": "nin",
+        "en": ["counter for people"]
+      },
+      {
+        "kanji": " 人気 ",
+        "kana": "ニンキ",
+        "kanaEn": "ninki",
+        "en": [
+          "popularity",
+          "public favor",
+          "condition (e.g. market)",
+          "tone",
+          "character",
+          "nature"
+        ]
+      },
+      {
+        "kanji": " 同人 ",
+        "kana": "ドウジン",
+        "kanaEn": "doujin",
+        "en": [
+          "same person",
+          "said person",
+          "the person in question",
+          "coterie",
+          "clique",
+          "fraternity",
+          "kindred spirits",
+          "comrade",
+          "colleague",
+          "dōjin",
+          "doujin",
+          "Japanese fans or hobbyists who produce their own magazines",
+          "manga",
+          "software",
+          "etc."
+        ]
+      },
+      {
+        "kanji": " 代人 ",
+        "kana": "ダイニン",
+        "kanaEn": "dainin",
+        "en": ["substitute", "deputy", "proxy", "representative", "agent"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 人 ",
+        "kana": "ひと",
+        "kanaEn": "hito",
+        "en": [
+          "person",
+          "someone",
+          "somebody",
+          "human beings",
+          "mankind",
+          "man",
+          "people",
+          "humans",
+          "human (Homo sapiens)",
+          "(other)",
+          "people",
+          "others",
+          "character",
+          "personality",
+          "nature",
+          "capable person",
+          "competent person",
+          "suitable person",
+          "right person",
+          "adult",
+          "grown-up",
+          "I",
+          "me",
+          "one"
+        ]
+      },
+      {
+        "kanji": " 人一倍 ",
+        "kana": "ひといちばい",
+        "kanaEn": "hitoichibai",
+        "en": [
+          "(much)",
+          "more than others",
+          "exceedingly",
+          "extremely",
+          "unusually"
+        ]
+      },
+      {
+        "kanji": " 貴人 ",
+        "kana": "きじん",
+        "kanaEn": "kijin",
+        "en": ["aristocrat", "nobleman", "dignitary", "person of high rank"]
+      },
+      {
+        "kanji": " いい人 ",
+        "kana": "いいひと",
+        "kanaEn": "iihito",
+        "en": [
+          "good-natured person",
+          "good person",
+          "(one's)",
+          "lover",
+          "boyfriend",
+          "girlfriend"
+        ]
+      }
+    ]
+  },
+  {
+    "kanjiId": 38,
+    "kanji": "名",
+    "en": "name",
+    "kana": "な",
+    "kanaEn": "na",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 名 ",
+        "kana": "メイ",
+        "kanaEn": "mei",
+        "en": [
+          "counter for people (usu. seating, reservations and such)",
+          "first name",
+          "famous",
+          "great",
+          "name",
+          "noun"
+        ]
+      },
+      {
+        "kanji": " 名画 ",
+        "kana": "メイガ",
+        "kanaEn": "meiga",
+        "en": ["famous picture", "masterpiece (painting)", "film classic"]
+      },
+      {
+        "kanji": " 同名 ",
+        "kana": "ドウメイ",
+        "kanaEn": "doumei",
+        "en": ["same name", "homonym"]
+      },
+      {
+        "kanji": " 芸名 ",
+        "kana": "ゲイメイ",
+        "kanaEn": "geimei",
+        "en": ["stage name"]
+      },
+      {
+        "kanji": " 名目 ",
+        "kana": "メイモク",
+        "kanaEn": "meimoku",
+        "en": [
+          "name",
+          "title",
+          "appellation",
+          "(something)",
+          "nominal",
+          "(under the)",
+          "pretext (of)",
+          "pretense"
+        ]
+      },
+      {
+        "kanji": " 苗字 ",
+        "kana": "ミョウジ",
+        "kanaEn": "myouji",
+        "en": ["surname", "family name", "last name"]
+      },
+      {
+        "kanji": " 仮名 ",
+        "kana": "カメイ",
+        "kanaEn": "kamei",
+        "en": ["alias", "pseudonym", "pen name", "nom de plume"]
+      },
+      {
+        "kanji": " 同名 ",
+        "kana": "ドウメイ",
+        "kanaEn": "doumei",
+        "en": ["same name", "homonym"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 名 ",
+        "kana": "な",
+        "kanaEn": "na",
+        "en": [
+          "name",
+          "given name",
+          "title",
+          "fame",
+          "renown",
+          "reputation",
+          "pretext",
+          "pretense",
+          "justification",
+          "appearance"
+        ]
+      },
+      {
+        "kanji": " 名残 ",
+        "kana": "なごり",
+        "kanaEn": "nagori",
+        "en": [
+          "remains",
+          "traces",
+          "vestiges",
+          "relics",
+          "(the sorrow of)",
+          "parting",
+          "end"
+        ]
+      },
+      {
+        "kanji": " 仮名 ",
+        "kana": "かめい",
+        "kanaEn": "kamei",
+        "en": ["alias", "pseudonym", "pen name", "nom de plume"]
+      },
+      {
+        "kanji": " 片仮名 ",
+        "kana": "かたかな",
+        "kanaEn": "katakana",
+        "en": [
+          "katakana",
+          "angular Japanese syllabary used primarily for loanwords"
+        ]
+      }
+    ]
+  },
+  {
+    "kanjiId": 39,
+    "kanji": "女",
+    "en": "woman",
+    "kana": "おんな",
+    "kanaEn": "onna",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 女 ",
+        "kana": "ジョ",
+        "kanaEn": "jo",
+        "en": [
+          "woman",
+          "girl",
+          "daughter",
+          "Chinese \"Girl\" constellation (one of the 28 mansions)",
+          "feminine noun"
+        ]
+      },
+      {
+        "kanji": " 女王 ",
+        "kana": "ジョオウ",
+        "kanaEn": "jou",
+        "en": ["queen", "female champion"]
+      },
+      {
+        "kanji": " 処女 ",
+        "kana": "ショジョ",
+        "kanaEn": "shojo",
+        "en": ["virgin", "maiden"]
+      },
+      {
+        "kanji": " 一女 ",
+        "kana": "イチジョ",
+        "kanaEn": "ichijo",
+        "en": ["one daughter", "eldest daughter", "first-born daughter"]
+      },
+      {
+        "kanji": " 女王 ",
+        "kana": "ジョオウ",
+        "kanaEn": "jou",
+        "en": ["queen", "female champion"]
+      },
+      {
+        "kanji": " 女房 ",
+        "kana": "ニョウボウ",
+        "kanaEn": "nyoubou",
+        "en": [
+          "wife (esp. one's own wife)",
+          "court lady",
+          "female court attache",
+          "woman who served at the imperial palace",
+          "woman (esp. as a love interest)"
+        ]
+      },
+      {
+        "kanji": " 老若男女 ",
+        "kana": "ロウニャクナンニョ",
+        "kanaEn": "rounyakunannyo",
+        "en": ["men and women of all ages"]
+      },
+      {
+        "kanji": " 天女 ",
+        "kana": "テンニョ",
+        "kanaEn": "tennyo",
+        "en": ["heavenly nymph", "celestial maiden", "beautiful and kind woman"]
+      },
+      {
+        "kanji": " 女房 ",
+        "kana": "ニョウボウ",
+        "kanaEn": "nyoubou",
+        "en": [
+          "wife (esp. one's own wife)",
+          "court lady",
+          "female court attache",
+          "woman who served at the imperial palace",
+          "woman (esp. as a love interest)"
+        ]
+      },
+      {
+        "kanji": " 女官 ",
+        "kana": "ジョカン",
+        "kanaEn": "jokan",
+        "en": ["court lady", "lady-in-waiting"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 女 ",
+        "kana": "おんな",
+        "kanaEn": "onna",
+        "en": [
+          "female",
+          "woman",
+          "female sex",
+          "female lover",
+          "girlfriend",
+          "mistress",
+          "(someone's)",
+          "woman"
+        ]
+      },
+      {
+        "kanji": " 女形 ",
+        "kana": "おんながた",
+        "kanaEn": "onnagata",
+        "en": [
+          "onnagata",
+          "male actor in female kabuki roles",
+          "female partner (in a relationship)"
+        ]
+      },
+      {
+        "kanji": " 醜女 ",
+        "kana": "しゅうじょ",
+        "kanaEn": "shujo",
+        "en": ["homely woman", "plain-looking woman", "female demon"]
+      },
+      {
+        "kanji": " 囲い女 ",
+        "kana": "かこいおんな",
+        "kanaEn": "kakoionna",
+        "en": ["mistress"]
+      },
+      {
+        "kanji": " 雌 ",
+        "kana": "め",
+        "kanaEn": "me",
+        "en": ["female", "smaller (of the two)", "weaker", "woman", "wife"]
+      },
+      {
+        "kanji": " 女神 ",
+        "kana": "めがみ",
+        "kanaEn": "megami",
+        "en": ["goddess", "female deity"]
+      },
+      {
+        "kanji": " 早乙女 ",
+        "kana": "さおとめ",
+        "kanaEn": "saotome",
+        "en": ["young female rice planter", "young girl"]
+      },
+      {
+        "kanji": " 醜女 ",
+        "kana": "しゅうじょ",
+        "kanaEn": "shujo",
+        "en": ["homely woman", "plain-looking woman", "female demon"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 40,
+    "kanji": "男",
+    "en": "man",
+    "kana": "おとこ",
+    "kanaEn": "otoko",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 男 ",
+        "kana": "ダン",
+        "kanaEn": "dan",
+        "en": ["masculine noun", "son", "baron", "man", "male"]
+      },
+      {
+        "kanji": " 男子 ",
+        "kana": "ダンシ",
+        "kanaEn": "danshi",
+        "en": ["boy", "man", "male"]
+      },
+      {
+        "kanji": " 既男 ",
+        "kana": "キダン",
+        "kanaEn": "kidan",
+        "en": ["married man"]
+      },
+      {
+        "kanji": " 公侯伯子男 ",
+        "kana": "コウコウハクシダン",
+        "kanaEn": "koukouhakushidan",
+        "en": [
+          "duke",
+          "marquis",
+          "count",
+          "viscount and baron",
+          "five ranks of nobility"
+        ]
+      },
+      { "kanji": " 男 ", "kana": "ナン", "kanaEn": "nan", "en": ["son"] },
+      {
+        "kanji": " 男女 ",
+        "kana": "ダンジョ",
+        "kanaEn": "danjo",
+        "en": ["men and women", "man and woman", "both sexes", "both genders"]
+      },
+      {
+        "kanji": " 一男 ",
+        "kana": "イチナン",
+        "kanaEn": "ichinan",
+        "en": ["boy", "eldest son"]
+      },
+      {
+        "kanji": " 次男 ",
+        "kana": "ジナン",
+        "kanaEn": "jinan",
+        "en": ["second son"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 男 ",
+        "kana": "おとこ",
+        "kanaEn": "otoko",
+        "en": [
+          "man",
+          "male",
+          "fellow",
+          "guy",
+          "chap",
+          "bloke",
+          "male lover",
+          "boyfriend",
+          "man",
+          "manliness",
+          "manly honor",
+          "manly honour",
+          "manly reputation"
+        ]
+      },
+      {
+        "kanji": " 男の子 ",
+        "kana": "おとこのこ",
+        "kanaEn": "otokonoko",
+        "en": ["boy", "son", "baby boy", "young man"]
+      },
+      {
+        "kanji": " 年男 ",
+        "kana": "としおとこ",
+        "kanaEn": "toshiotoko",
+        "en": [
+          "man born in a year with the same Chinese zodiac sign as the current year"
+        ]
+      },
+      {
+        "kanji": " 山男 ",
+        "kana": "やまおとこ",
+        "kanaEn": "yamaotoko",
+        "en": ["giant", "woodsman", "alpinist"]
+      },
+      {
+        "kanji": " 雄 ",
+        "kana": "お",
+        "kanaEn": "o",
+        "en": [
+          "male",
+          "manly",
+          "brave",
+          "heroic",
+          "larger (of the two)",
+          "greater",
+          "man",
+          "husband"
+        ]
+      },
+      {
+        "kanji": " 男 ",
+        "kana": "おとこ",
+        "kanaEn": "otoko",
+        "en": [
+          "man",
+          "male",
+          "fellow",
+          "guy",
+          "chap",
+          "bloke",
+          "male lover",
+          "boyfriend",
+          "man",
+          "manliness",
+          "manly honor",
+          "manly honour",
+          "manly reputation"
+        ]
+      },
+      {
+        "kanji": " 愛上男 ",
+        "kana": "あいうえお",
+        "kanaEn": "aiueo",
+        "en": ["skilled male lover"]
+      },
+      {
+        "kanji": " 毒男 ",
+        "kana": "どくお",
+        "kanaEn": "dokuo",
+        "en": ["lonely heart", "male virgin", "loser", "geek"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 41,
+    "kanji": "子",
+    "en": "child",
+    "kana": "こ",
+    "kanaEn": "ko",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 子 ",
+        "kana": "シ",
+        "kanaEn": "shi",
+        "en": [
+          "child (esp. a boy)",
+          "viscount",
+          "founder of a school of thought (esp. Confucius)",
+          "master",
+          "masters and philosophers (categorization of Chinese classical literature)",
+          "you",
+          "-er (i.e. man who spends all his time doing...)"
+        ]
+      },
+      {
+        "kanji": " 子宮 ",
+        "kana": "シキュウ",
+        "kanaEn": "shikyū",
+        "en": ["womb", "uterus"]
+      },
+      {
+        "kanji": " 中性子 ",
+        "kana": "チュウセイシ",
+        "kanaEn": "chuseishi",
+        "en": ["neutron"]
+      },
+      {
+        "kanji": " 精子 ",
+        "kana": "セイシ",
+        "kanaEn": "seishi",
+        "en": ["sperm"]
+      },
+      {
+        "kanji": " 主 ",
+        "kana": "ス",
+        "kanaEn": "su",
+        "en": ["honorific (or familiar)", "suffix used after a name"]
+      },
+      {
+        "kanji": " 恵比寿 ",
+        "kana": "エビス",
+        "kanaEn": "ebisu",
+        "en": ["Ebisu", "god of fishing and commerce"]
+      },
+      {
+        "kanji": " 久留子 ",
+        "kana": "クルス",
+        "kanaEn": "kurusu",
+        "en": ["cross sign"]
+      },
+      {
+        "kanji": " 対子 ",
+        "kana": "トイツ",
+        "kanaEn": "toitsu",
+        "en": ["pair", "eyes"]
+      },
+      {
+        "kanji": " 七対子 ",
+        "kana": "チートイツ",
+        "kanaEn": "chītoitsu",
+        "en": ["seven pairs", "winning hand composed of seven pairs"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 子 ",
+        "kana": "こ",
+        "kanaEn": "ko",
+        "en": [
+          "child",
+          "kid",
+          "teenager",
+          "youngster",
+          "young (non-adult)",
+          "person",
+          "(one's)",
+          "child",
+          "offspring",
+          "young woman",
+          "young (animal)",
+          "offshoot",
+          "interest",
+          "new share",
+          "player who is not a dealer (in cards, mahjong, etc.)",
+          "young geisha",
+          "young prostitute",
+          "bird egg",
+          "-er (often of young women)"
+        ]
+      },
+      {
+        "kanji": " 子 ",
+        "kana": "こう",
+        "kanaEn": "kou",
+        "en": ["child", "interest"]
+      },
+      {
+        "kanji": " 根っこ ",
+        "kana": "ねっこ",
+        "kanaEn": "nekko",
+        "en": [
+          "root (of a plant)",
+          "stump (of a tree)",
+          "root (of a problem, etc.)",
+          "base",
+          "foundation",
+          "origin",
+          "source"
+        ]
+      },
+      {
+        "kanji": " 江戸っ子 ",
+        "kana": "えどっこ",
+        "kanaEn": "edokko",
+        "en": ["true Tokyoite", "Edoite", "person born and raised in Edo"]
+      },
+      {
+        "kanji": " 子 ",
+        "kana": "ね",
+        "kanaEn": "ne",
+        "en": [
+          "the Rat (first sign of the Chinese zodiac)",
+          "hour of the Rat (around midnight, 11pm to 1am, or 12 midnight to 2am)",
+          "north",
+          "eleventh month of the lunar calendar"
+        ]
+      },
+      {
+        "kanji": " 子忌み ",
+        "kana": "ねいみ",
+        "kanaEn": "neimi",
+        "en": [
+          "collecting herbs and pulling out young pine trees by the roots (annual event held on the first day of the Rat of the New Year)"
+        ]
+      },
+      {
+        "kanji": " 庚子 ",
+        "kana": "かのえね",
+        "kanaEn": "kanoene",
+        "en": [
+          "Metal Rat (37th term of the sexagenary cycle, e.g. 1960, 2020, 2080)"
+        ]
+      },
+      {
+        "kanji": " 甲子 ",
+        "kana": "きのえね",
+        "kanaEn": "kinoene",
+        "en": [
+          "Wood Rat (1st term of the sexagenary cycle, e.g. 1924, 1984, 2044)"
+        ]
+      }
+    ]
+  },
+  {
+    "kanjiId": 42,
+    "kanji": "目",
+    "en": "eye",
+    "kana": "め",
+    "kanaEn": "me",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 目 ",
+        "kana": "モク",
+        "kanaEn": "moku",
+        "en": [
+          "order",
+          "item (of a budget revision, etc.)",
+          "counter for go pieces",
+          "counter for surrounded positions (in go)"
+        ]
+      },
+      {
+        "kanji": " 目撃 ",
+        "kana": "モクゲキ",
+        "kanaEn": "mokugeki",
+        "en": ["witnessing", "observing", "sighting"]
+      },
+      {
+        "kanji": " 着目 ",
+        "kana": "チャクモク",
+        "kanaEn": "chakumoku",
+        "en": ["attention", "giving one's attention", "focusing"]
+      },
+      {
+        "kanji": " 細目 ",
+        "kana": "サイモク",
+        "kanaEn": "saimoku",
+        "en": ["particulars", "details", "specified items"]
+      },
+      {
+        "kanji": " 耳目 ",
+        "kana": "ジモク",
+        "kanaEn": "jimoku",
+        "en": [
+          "eyes and ears",
+          "seeing and hearing",
+          "one's attention",
+          "one's interest"
+        ]
+      },
+      {
+        "kanji": " 不面目 ",
+        "kana": "フメンボク",
+        "kanaEn": "fumenboku",
+        "en": ["shame", "disgrace"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 目 ",
+        "kana": "め",
+        "kanaEn": "me",
+        "en": [
+          "eye",
+          "eyeball",
+          "eyesight",
+          "sight",
+          "vision",
+          "look",
+          "stare",
+          "gaze",
+          "glance",
+          "notice",
+          "attention",
+          "observation",
+          "eyes (of the world, public, etc.)",
+          "an experience",
+          "viewpoint",
+          "discrimination",
+          "discernment",
+          "judgement",
+          "eye (e.g. for quality)",
+          "appearance",
+          "chance to succeed",
+          "possibility",
+          "spacing (between crossed strands of a net, mesh, etc.)",
+          "opening",
+          "stitch",
+          "texture",
+          "weave",
+          "grain (of wood)",
+          "eye (of a storm, needle, etc.)",
+          "intersection (on a go board)",
+          "square (on a chess board)",
+          "dot (on a dice)",
+          "pip",
+          "rolled number",
+          "graduation",
+          "division (of a scale)",
+          "tooth (of a saw, comb, etc.)",
+          "ordinal number suffix",
+          "somewhat",
+          "-ish",
+          "point (e.g. of change)"
+        ]
+      },
+      {
+        "kanji": " 目当て ",
+        "kana": "めあて",
+        "kanaEn": "meate",
+        "en": [
+          "mark",
+          "guide",
+          "landmark",
+          "purpose",
+          "aim",
+          "goal",
+          "intention",
+          "end",
+          "sight (on a firearm)"
+        ]
+      },
+      {
+        "kanji": " 蛇の目 ",
+        "kana": "じゃのめ",
+        "kanaEn": "janome",
+        "en": [
+          "bull's-eye (pattern)",
+          "double ring (pattern)",
+          "umbrella with bull's-eye pattern"
+        ]
+      },
+      {
+        "kanji": " 負い目 ",
+        "kana": "おいめ",
+        "kanaEn": "oime",
+        "en": ["(feeling of)", "indebtedness", "feeling obliged"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 43,
+    "kanji": "耳",
+    "en": "ear",
+    "kana": "みみ",
+    "kanaEn": "mimi",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 耳鼻科 ",
+        "kana": "ジビカ",
+        "kanaEn": "jibika",
+        "en": ["otolaryngology", "ear", "nose", "and throat department"]
+      },
+      {
+        "kanji": " 耳鼻咽喉科 ",
+        "kana": "ジビインコウカ",
+        "kanaEn": "jibiinkouka",
+        "en": [
+          "otorhinolaryngology",
+          "otolaryngology",
+          "ear",
+          "nose and throat department"
+        ]
+      },
+      {
+        "kanji": " 中耳 ",
+        "kana": "チュウジ",
+        "kanaEn": "chuji",
+        "en": ["middle ear", "tympanum"]
+      },
+      {
+        "kanji": " 外耳 ",
+        "kana": "ガイジ",
+        "kanaEn": "gaiji",
+        "en": ["external ear", "concha"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 耳 ",
+        "kana": "みみ",
+        "kanaEn": "mimi",
+        "en": [
+          "ear",
+          "hearing",
+          "ear (for music, etc.)",
+          "edge",
+          "crust",
+          "heel (of bread or cheese)",
+          "selvedge (of woven fabric)",
+          "selvage",
+          "ear (of a pot, jug, etc.)",
+          "handle"
+        ]
+      },
+      {
+        "kanji": " 耳障り ",
+        "kana": "みみざわり",
+        "kanaEn": "mimizawari",
+        "en": [
+          "hard (on the ears)",
+          "offensive (to the ear)",
+          "rasping",
+          "rough",
+          "harsh",
+          "grating",
+          "jarring",
+          "cacophonous"
+        ]
+      },
+      {
+        "kanji": " 大耳 ",
+        "kana": "おおみみ",
+        "kanaEn": "oomimi",
+        "en": ["big ears", "listening without paying attention"]
+      },
+      {
+        "kanji": " 遠耳 ",
+        "kana": "とおみみ",
+        "kanaEn": "toomimi",
+        "en": ["sharp hearing"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 44,
+    "kanji": "口",
+    "en": "mouth",
+    "kana": "くつ",
+    "kanaEn": "kutsu",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 口 ",
+        "kana": "ク",
+        "kanaEn": "ku",
+        "en": ["mouth", "speech", "counter for people or implements"]
+      },
+      {
+        "kanji": " 口径 ",
+        "kana": "コウケイ",
+        "kanaEn": "koukei",
+        "en": ["aperture", "bore", "calibre", "caliber"]
+      },
+      {
+        "kanji": " 開口 ",
+        "kana": "カイコウ",
+        "kanaEn": "kaikou",
+        "en": [
+          "opening",
+          "aperture (e.g. camera)",
+          "opening one's mouth",
+          "beginning to speak",
+          "open",
+          "broad"
+        ]
+      },
+      {
+        "kanji": " 経口 ",
+        "kana": "ケイコウ",
+        "kanaEn": "keikou",
+        "en": ["taken by mouth", "oral"]
+      },
+      {
+        "kanji": " 口 ",
+        "kana": "ク",
+        "kanaEn": "ku",
+        "en": ["mouth", "speech", "counter for people or implements"]
+      },
+      {
+        "kanji": " 口 ",
+        "kana": "クチ",
+        "kanaEn": "kuchi",
+        "en": [
+          "mouth",
+          "opening",
+          "hole",
+          "gap",
+          "orifice",
+          "mouth (of a bottle)",
+          "spout",
+          "nozzle",
+          "mouthpiece",
+          "gate",
+          "door",
+          "entrance",
+          "exit",
+          "speaking",
+          "speech",
+          "talk (i.e. gossip)",
+          "taste",
+          "palate",
+          "mouth (to feed)",
+          "opening (i.e. vacancy)",
+          "available position",
+          "invitation",
+          "summons",
+          "kind",
+          "sort",
+          "type",
+          "opening (i.e. beginning)",
+          "counter for mouthfuls",
+          "shares (of money)",
+          "stove burners",
+          "and swords"
+        ]
+      },
+      {
+        "kanji": " 猪口 ",
+        "kana": "チョコ",
+        "kanaEn": "choko",
+        "en": ["sake cup", "small deep porcelain bowl for serving food"]
+      },
+      {
+        "kanji": " 赤口 ",
+        "kana": "シャッコウ",
+        "kanaEn": "shakkou",
+        "en": [
+          "day that is unlucky except between the auspicious hours of 11am and 1pm (in the traditional calendar)"
+        ]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 口 ",
+        "kana": "くち",
+        "kanaEn": "kuchi",
+        "en": [
+          "mouth",
+          "opening",
+          "hole",
+          "gap",
+          "orifice",
+          "mouth (of a bottle)",
+          "spout",
+          "nozzle",
+          "mouthpiece",
+          "gate",
+          "door",
+          "entrance",
+          "exit",
+          "speaking",
+          "speech",
+          "talk (i.e. gossip)",
+          "taste",
+          "palate",
+          "mouth (to feed)",
+          "opening (i.e. vacancy)",
+          "available position",
+          "invitation",
+          "summons",
+          "kind",
+          "sort",
+          "type",
+          "opening (i.e. beginning)",
+          "counter for mouthfuls",
+          "shares (of money)",
+          "stove burners",
+          "and swords"
+        ]
+      },
+      {
+        "kanji": " 口利き ",
+        "kana": "くちきき",
+        "kanaEn": "kuchikiki",
+        "en": [
+          "mediation",
+          "good offices",
+          "intervention",
+          "mediator",
+          "middleman",
+          "influential person",
+          "person of influence",
+          "eloquence",
+          "eloquent person",
+          "way of speaking"
+        ]
+      },
+      {
+        "kanji": " 切り口 ",
+        "kana": "きりくち",
+        "kanaEn": "kirikuchi",
+        "en": [
+          "cut end",
+          "section",
+          "opening",
+          "slit",
+          "point of view",
+          "(different)",
+          "perspective",
+          "new approach"
+        ]
+      },
+      {
+        "kanji": " 大口 ",
+        "kana": "おおぐち",
+        "kanaEn": "ooguchi",
+        "en": [
+          "big mouth",
+          "mouth opened wide",
+          "boastful speech",
+          "tall talk",
+          "bragging",
+          "boasting",
+          "large amount",
+          "large quantity"
+        ]
+      }
+    ]
+  },
+  {
+    "kanjiId": 45,
+    "kanji": "手",
+    "en": "hand",
+    "kana": "て",
+    "kanaEn": "te",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 手術 ",
+        "kana": "シュジュツ",
+        "kanaEn": "shujutsu",
+        "en": [
+          "surgery",
+          "operation",
+          "procedure",
+          "skill with one's hands",
+          "sleight of hand"
+        ]
+      },
+      {
+        "kanji": " 手記 ",
+        "kana": "シュキ",
+        "kanaEn": "shuki",
+        "en": ["note", "memorandum"]
+      },
+      {
+        "kanji": " 二塁手 ",
+        "kana": "ニルイシュ",
+        "kanaEn": "niruishu",
+        "en": ["second baseman"]
+      },
+      {
+        "kanji": " 名手 ",
+        "kana": "メイシュ",
+        "kanaEn": "meishu",
+        "en": [
+          "master",
+          "expert",
+          "expert board game player (chess, go, shogi, etc.)"
+        ]
+      },
+      {
+        "kanji": " 交際上手 ",
+        "kana": "コウサイジョウズ",
+        "kanaEn": "kousaijouzu",
+        "en": ["good at socializing", "sociability", "being a good mixer"]
+      },
+      {
+        "kanji": " 処世上手 ",
+        "kana": "ショセイジョウズ",
+        "kanaEn": "shoseijouzu",
+        "en": [
+          "knowing how to get on in the world",
+          "knowing the secret of success in life"
+        ]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 手 ",
+        "kana": "て",
+        "kanaEn": "te",
+        "en": [
+          "hand",
+          "arm",
+          "forepaw",
+          "foreleg",
+          "handle",
+          "hand",
+          "worker",
+          "help",
+          "trouble",
+          "care",
+          "effort",
+          "means",
+          "way",
+          "trick",
+          "move",
+          "technique",
+          "workmanship",
+          "hand",
+          "handwriting",
+          "kind",
+          "type",
+          "sort",
+          "one's hands",
+          "one's possession",
+          "ability to cope",
+          "hand (of cards)",
+          "direction",
+          "move (in go, shogi, etc.)"
+        ]
+      },
+      {
+        "kanji": " 手足 ",
+        "kana": "てあし",
+        "kanaEn": "teashi",
+        "en": [
+          "hands and feet",
+          "limbs",
+          "person at one's beck and call",
+          "person at hand",
+          "reliable worker"
+        ]
+      },
+      {
+        "kanji": " 逆手 ",
+        "kana": "ぎゃくて",
+        "kanaEn": "gyakute",
+        "en": [
+          "underhand grip",
+          "backhand grip (e.g. in tennis)",
+          "unexpected twist",
+          "turning the tables (on an opponent)"
+        ]
+      },
+      {
+        "kanji": " 担い手 ",
+        "kana": "にないて",
+        "kanaEn": "ninaite",
+        "en": [
+          "bearer",
+          "carrier",
+          "person bearing responsibility",
+          "person in charge",
+          "supporter"
+        ]
+      }
+    ]
+  },
+  {
+    "kanjiId": 46,
+    "kanji": "足",
+    "en": "foot",
+    "kana": "あし",
+    "kanaEn": "ashi",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 足 ",
+        "kana": "ソク",
+        "kanaEn": "soku",
+        "en": ["counter for pairs of socks", "shoes", "etc."]
+      },
+      {
+        "kanji": " 足跡 ",
+        "kana": "アシアト",
+        "kanaEn": "ashiato",
+        "en": [
+          "footprints",
+          "record of page visitors (e.g. in social networking sites)"
+        ]
+      },
+      {
+        "kanji": " 俊足 ",
+        "kana": "シュンソク",
+        "kanaEn": "shunsoku",
+        "en": [
+          "swiftness of foot",
+          "fast runner",
+          "swift horse",
+          "fleet steed",
+          "person of great talent",
+          "gifted person"
+        ]
+      },
+      {
+        "kanji": " 土足 ",
+        "kana": "ドソク",
+        "kanaEn": "dosoku",
+        "en": ["shod feet", "wearing shoes", "muddy feet", "dirty feet"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 足 ",
+        "kana": "あし",
+        "kanaEn": "ashi",
+        "en": [
+          "foot",
+          "paw",
+          "arm (of an octopus, squid, etc.)",
+          "leg",
+          "gait",
+          "pace",
+          "bottom structural component (i.e. radical)",
+          "of a kanji",
+          "means of transportation",
+          "money",
+          "coin"
+        ]
+      },
+      {
+        "kanji": " 足跡 ",
+        "kana": "あしあと",
+        "kanaEn": "ashiato",
+        "en": [
+          "footprints",
+          "record of page visitors (e.g. in social networking sites)"
+        ]
+      },
+      {
+        "kanji": " 出足 ",
+        "kana": "であし",
+        "kanaEn": "deashi",
+        "en": [
+          "turnout (of people)",
+          "start (of a race, campaign, business, etc.)",
+          "beginning",
+          "initial charge",
+          "dash"
+        ]
+      },
+      {
+        "kanji": " 客足 ",
+        "kana": "きゃくあし",
+        "kanaEn": "kyakuashi",
+        "en": ["customer traffic", "customers", "custom"]
+      },
+      {
+        "kanji": " 足りる ",
+        "kana": "たりる",
+        "kanaEn": "tariru",
+        "en": [
+          "to be sufficient",
+          "to be enough",
+          "to be worth doing",
+          "to be worthy of",
+          "to deserve",
+          "to do (the job)",
+          "to serve",
+          "to answer"
+        ]
+      },
+      {
+        "kanji": " 足る ",
+        "kana": "たる",
+        "kanaEn": "taru",
+        "en": [
+          "to be sufficient",
+          "to be enough",
+          "to be worth doing",
+          "to be worthy of",
+          "to deserve",
+          "to do (the job)",
+          "to serve",
+          "to answer"
+        ]
+      },
+      {
+        "kanji": " 足るを知る ",
+        "kana": "たるをしる",
+        "kanaEn": "taruwoshiru",
+        "en": [
+          "to know one has enough",
+          "to be satisfied with one's lot in life"
+        ]
+      },
+      {
+        "kanji": " 足す ",
+        "kana": "たす",
+        "kanaEn": "tasu",
+        "en": [
+          "to add (numbers)",
+          "to add (something)",
+          "to top up (with something)",
+          "to take care of (e.g. one's business)"
+        ]
+      }
+    ]
+  },
+  {
+    "kanjiId": 47,
+    "kanji": "見",
+    "en": "see",
+    "kana": "み",
+    "kanaEn": "mi",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 見 ",
+        "kana": "ケン",
+        "kanaEn": "ken",
+        "en": ["view (of life, etc.)", "outlook"]
+      },
+      {
+        "kanji": " 見解 ",
+        "kana": "ケンカイ",
+        "kanaEn": "kenkai",
+        "en": ["opinion", "point of view"]
+      },
+      {
+        "kanji": " 後見 ",
+        "kana": "コウケン",
+        "kanaEn": "kouken",
+        "en": [
+          "guardianship",
+          "guardian",
+          "(theatrical)",
+          "assistant",
+          "prompter"
+        ]
+      },
+      {
+        "kanji": " 政見 ",
+        "kana": "セイケン",
+        "kanaEn": "seiken",
+        "en": ["political views"]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 見る ",
+        "kana": "みる",
+        "kanaEn": "miru",
+        "en": [
+          "to see",
+          "to look",
+          "to watch",
+          "to view",
+          "to observe",
+          "to examine",
+          "to look over",
+          "to assess",
+          "to check",
+          "to judge",
+          "to look after",
+          "to attend to",
+          "to take care of",
+          "to keep an eye on",
+          "to experience",
+          "to meet with (misfortune, success, etc.)",
+          "to try ...",
+          "to have a go at ...",
+          "to give ... a try",
+          "to see (that)",
+          "...",
+          "to find (that)",
+          "..."
+        ]
+      },
+      {
+        "kanji": " 見る見る ",
+        "kana": "みるみる",
+        "kanaEn": "mirumiru",
+        "en": ["very fast", "in a twinkle", "before one's eyes"]
+      },
+      {
+        "kanji": " 見える ",
+        "kana": "みえる",
+        "kanaEn": "mieru",
+        "en": [
+          "to be seen",
+          "to be in sight",
+          "to look",
+          "to seem",
+          "to appear",
+          "to come"
+        ]
+      },
+      {
+        "kanji": " 見える化 ",
+        "kana": "みえるか",
+        "kanaEn": "mieruka",
+        "en": [
+          "visualization",
+          "rendering visible (e.g. a problem)",
+          "digitization"
+        ]
+      },
+      {
+        "kanji": " 見せる ",
+        "kana": "みせる",
+        "kanaEn": "miseru",
+        "en": [
+          "to show",
+          "to display",
+          "to make (something or someone)",
+          "look ...",
+          "to present an appearance of ...",
+          "to make (something)",
+          "worth watching",
+          "to be entertaining",
+          "to make a show of (doing)",
+          "to do in a conspicuous manner",
+          "to do in view of others",
+          "to resolve to do",
+          "to do at any cost",
+          "to show others that one will ..."
+        ]
+      }
+    ]
+  },
+  {
+    "kanjiId": 48,
+    "kanji": "音",
+    "en": "sound",
+    "kana": "おん",
+    "kanaEn": "on",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 音 ",
+        "kana": "オト",
+        "kanaEn": "oto",
+        "en": [
+          "sound",
+          "noise",
+          "report",
+          "note",
+          "fame",
+          "Chinese-derived character reading"
+        ]
+      },
+      {
+        "kanji": " 音楽 ",
+        "kana": "オンガク",
+        "kanaEn": "ongaku",
+        "en": ["music"]
+      },
+      {
+        "kanji": " 爆音 ",
+        "kana": "バクオン",
+        "kanaEn": "bakuon",
+        "en": [
+          "(sound of an)",
+          "explosion or detonation",
+          "roar (of a machine)"
+        ]
+      },
+      {
+        "kanji": " 防音 ",
+        "kana": "ボウオン",
+        "kanaEn": "bouon",
+        "en": ["soundproofing"]
+      },
+      {
+        "kanji": " 音信 ",
+        "kana": "オンシン",
+        "kanaEn": "onshin",
+        "en": ["correspondence", "news", "letter", "tidings"]
+      },
+      {
+        "kanji": " 鸚哥 ",
+        "kana": "インコ",
+        "kanaEn": "inko",
+        "en": [
+          "true parrot (esp. small parrots such as the parakeet, lory and conure)"
+        ]
+      },
+      {
+        "kanji": " 玉音 ",
+        "kana": "ギョクオン",
+        "kanaEn": "gyokuon",
+        "en": ["the Emperor's voice", "beautiful voice", "beautiful sound"]
+      },
+      {
+        "kanji": " 唐音 ",
+        "kana": "トウオン",
+        "kanaEn": "touon",
+        "en": [
+          "tō-on",
+          "Tang reading",
+          "on reading of a kanji based on Song dynasty and later Chinese"
+        ]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 音 ",
+        "kana": "おと",
+        "kanaEn": "oto",
+        "en": [
+          "sound",
+          "noise",
+          "report",
+          "note",
+          "fame",
+          "Chinese-derived character reading"
+        ]
+      },
+      {
+        "kanji": " 音孔 ",
+        "kana": "おとあな",
+        "kanaEn": "otoana",
+        "en": ["tone hole"]
+      },
+      {
+        "kanji": " 鈍い音 ",
+        "kana": "にぶいおと",
+        "kanaEn": "nibuioto",
+        "en": ["dull sound", "muffled sound"]
+      },
+      {
+        "kanji": " 風音 ",
+        "kana": "かざおと",
+        "kanaEn": "kazaoto",
+        "en": ["sound of the wind"]
+      },
+      {
+        "kanji": " 音 ",
+        "kana": "おと",
+        "kanaEn": "oto",
+        "en": [
+          "sound",
+          "noise",
+          "report",
+          "note",
+          "fame",
+          "Chinese-derived character reading"
+        ]
+      },
+      {
+        "kanji": " 音色 ",
+        "kana": "ねいろ",
+        "kanaEn": "neiro",
+        "en": ["tone color", "tone colour", "tone quality", "timbre"]
+      },
+      {
+        "kanji": " 弱音 ",
+        "kana": "よわね",
+        "kanaEn": "yowane",
+        "en": ["feeble complaint", "whine"]
+      },
+      {
+        "kanji": " 高音 ",
+        "kana": "こうおん",
+        "kanaEn": "kouon",
+        "en": ["high-pitched tone", "soprano"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 49,
+    "kanji": "力",
+    "en": "strength",
+    "kana": "ちから",
+    "kanaEn": "chikara",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 力 ",
+        "kana": "リョク",
+        "kanaEn": "ryoku",
+        "en": ["strength", "power", "proficiency", "ability"]
+      },
+      {
+        "kanji": " 力作 ",
+        "kana": "リキサク",
+        "kanaEn": "rikisaku",
+        "en": [
+          "painstaking piece of work",
+          "work of great effort",
+          "tour de force",
+          "outstanding work",
+          "toil",
+          "labor",
+          "labour"
+        ]
+      },
+      {
+        "kanji": " 水力 ",
+        "kana": "スイリョク",
+        "kanaEn": "suiryoku",
+        "en": ["hydraulic power", "water power"]
+      },
+      {
+        "kanji": " 威力 ",
+        "kana": "イリョク",
+        "kanaEn": "iryoku",
+        "en": ["power", "might", "authority", "influence"]
+      },
+      {
+        "kanji": " 力 ",
+        "kana": "リキ",
+        "kanaEn": "riki",
+        "en": [
+          "strength",
+          "power",
+          "proficiency",
+          "ability",
+          "the strength of ... people",
+          "the strength of ... men"
+        ]
+      },
+      {
+        "kanji": " 力学 ",
+        "kana": "リキガク",
+        "kanaEn": "rikigaku",
+        "en": ["mechanics", "dynamics"]
+      },
+      {
+        "kanji": " 地力 ",
+        "kana": "ジリキ",
+        "kanaEn": "jiriki",
+        "en": ["one's own potential", "real ability", "one's own strength"]
+      },
+      {
+        "kanji": " 合力 ",
+        "kana": "ゴウリョク",
+        "kanaEn": "gouryoku",
+        "en": [
+          "resultant force",
+          "assistance",
+          "help",
+          "donation",
+          "alms",
+          "almsgiving"
+        ]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 力 ",
+        "kana": "ちから",
+        "kanaEn": "chikara",
+        "en": [
+          "force",
+          "strength",
+          "might",
+          "vigour",
+          "vigor",
+          "energy",
+          "capability",
+          "ability",
+          "proficiency",
+          "capacity",
+          "faculty",
+          "efficacy",
+          "effect",
+          "effort",
+          "endeavours",
+          "endeavors",
+          "exertions",
+          "power",
+          "authority",
+          "influence",
+          "good offices",
+          "agency",
+          "support",
+          "help",
+          "aid",
+          "assistance",
+          "stress",
+          "emphasis",
+          "means",
+          "resources"
+        ]
+      },
+      {
+        "kanji": " 力強い ",
+        "kana": "ちからづよい",
+        "kanaEn": "chikaradzuyoi",
+        "en": [
+          "powerful",
+          "strong",
+          "forceful",
+          "vigorous",
+          "reassuring",
+          "encouraging"
+        ]
+      },
+      {
+        "kanji": " 強い力 ",
+        "kana": "つよいちから",
+        "kanaEn": "tsuyoichikara",
+        "en": ["strong interaction", "strong force"]
+      },
+      {
+        "kanji": " 弱い力 ",
+        "kana": "よわいちから",
+        "kanaEn": "yowaichikara",
+        "en": ["weak force", "weak interaction"]
+      }
+    ]
+  },
+  {
+    "kanjiId": 50,
+    "kanji": "気",
+    "en": "spirit",
+    "kana": "き",
+    "kanaEn": "ki",
+    "quizId": 1,
+    "onyomiCompounds": [
+      {
+        "kanji": " 気 ",
+        "kana": "キ",
+        "kanaEn": "ki",
+        "en": [
+          "spirit",
+          "mind",
+          "heart",
+          "nature",
+          "disposition",
+          "motivation",
+          "intention",
+          "mood",
+          "feelings",
+          "ambience",
+          "atmosphere",
+          "mood",
+          "qi (in traditional Chinese philosophy and medicine)",
+          "chi",
+          "ki"
+        ]
+      },
+      {
+        "kanji": " 気合 ",
+        "kana": "キアイ",
+        "kanaEn": "kiai",
+        "en": [
+          "(fighting)",
+          "spirit",
+          "motivation",
+          "effort",
+          "shout (for getting in the right mood to deal with something, etc.)",
+          "cheer",
+          "yell",
+          "kiai",
+          "short shout when performing an attacking move"
+        ]
+      },
+      {
+        "kanji": " 心意気 ",
+        "kana": "ココロイキ",
+        "kanaEn": "kokoroiki",
+        "en": ["spirit", "disposition"]
+      },
+      {
+        "kanji": " 水気 ",
+        "kana": "ミズケ",
+        "kanaEn": "mizuke",
+        "en": [
+          "water content",
+          "moisture",
+          "juiciness",
+          "dampness",
+          "water vapor (vapour)",
+          "steam",
+          "dropsy",
+          "edema",
+          "oedema"
+        ]
+      },
+      {
+        "kanji": " 気 ",
+        "kana": "ケ",
+        "kanaEn": "ke",
+        "en": [
+          "sign",
+          "indication",
+          "trace",
+          "touch",
+          "feeling",
+          "somehow",
+          "for some reason",
+          "seeming to be"
+        ]
+      },
+      {
+        "kanji": " 気配 ",
+        "kana": "ケハイ",
+        "kanaEn": "kehai",
+        "en": [
+          "indication",
+          "sign",
+          "hint",
+          "sensation",
+          "feeling",
+          "tone (of the market)"
+        ]
+      },
+      {
+        "kanji": " 嫌気 ",
+        "kana": "イヤキ",
+        "kanaEn": "iyaki",
+        "en": ["dislike", "disgust", "disinclination", "tired of"]
+      },
+      {
+        "kanji": " 水気 ",
+        "kana": "ミズケ",
+        "kanaEn": "mizuke",
+        "en": [
+          "water content",
+          "moisture",
+          "juiciness",
+          "dampness",
+          "water vapor (vapour)",
+          "steam",
+          "dropsy",
+          "edema",
+          "oedema"
+        ]
+      }
+    ],
+    "kunyomiCompounds": [
+      {
+        "kanji": " 気 ",
+        "kana": "き",
+        "kanaEn": "ki",
+        "en": [
+          "spirit",
+          "mind",
+          "heart",
+          "nature",
+          "disposition",
+          "motivation",
+          "intention",
+          "mood",
+          "feelings",
+          "ambience",
+          "atmosphere",
+          "mood",
+          "qi (in traditional Chinese philosophy and medicine)",
+          "chi",
+          "ki"
+        ]
+      },
+      {
+        "kanji": " 気合 ",
+        "kana": "きあい",
+        "kanaEn": "kiai",
+        "en": [
+          "(fighting)",
+          "spirit",
+          "motivation",
+          "effort",
+          "shout (for getting in the right mood to deal with something, etc.)",
+          "cheer",
+          "yell",
+          "kiai",
+          "short shout when performing an attacking move"
+        ]
+      },
+      {
+        "kanji": " 心意気 ",
+        "kana": "こころいき",
+        "kanaEn": "kokoroiki",
+        "en": ["spirit", "disposition"]
+      },
+      {
+        "kanji": " 水気 ",
+        "kana": "みずけ",
+        "kanaEn": "mizuke",
+        "en": [
+          "water content",
+          "moisture",
+          "juiciness",
+          "dampness",
+          "water vapor (vapour)",
+          "steam",
+          "dropsy",
+          "edema",
+          "oedema"
+        ]
       }
     ]
   }

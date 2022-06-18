@@ -4,7 +4,7 @@ const express = require("express");
 const { readFileSync, writeFileSync } = require("fs");
 
 const { cleanUpCompounds } = require("./utils/cleanUp.js");
-
+const { translateKanas } = require("./utils/translateKanas.js");
 const PORT = 8000;
 
 const app = express();
@@ -18,7 +18,7 @@ const main = async () => {
     newData = await Promise.all(
       parsedData.map(async (e) => {
         // return e;
-        const URL = `https://jisho.org/search/${encodeURI("一")}%20%23kanji`;
+        const URL = `https://jisho.org/search/${encodeURI(e.kanji)}%20%23kanji`;
 
         let response;
         try {
@@ -26,6 +26,7 @@ const main = async () => {
         } catch (error) {
           console.log(error);
         }
+
         const html = response.data;
         const $ = cheerio.load(html);
 
@@ -61,22 +62,10 @@ const main = async () => {
     console.log(error);
   }
 
-  // console.log("newData", newData);
   writeFileSync("./data/kanjis.json", JSON.stringify(newData));
   console.log("done");
 };
 
 main();
-
-/* console.log(
-  "first, bottom string (on a shamisen, etc, etc.), second".replace(
-    /(\([\w\s.]+)(,)([\w\s.]+\))/g,
-    "$1%$3"
-  )
-  // .split(",")
-  // .map((e) => e.replace(/%/g, ","))
-); */
-
-/*  */
 
 app.listen(PORT, () => console.log(`server running on port ${PORT}`));

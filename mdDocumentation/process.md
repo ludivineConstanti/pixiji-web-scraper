@@ -2,10 +2,6 @@
 
 This is my first attempt at building a web scraper, and I originally did not know how it works at all, so I decided to follow [this tutorial](https://www.youtube.com/watch?v=-3lqUHeZs_0&t=2s), which gives a starting point. After successfully reproducing it, I started adapting it to my needs.
 
-## Custom translating function
-
-There was no data displaying the kanji pronounciation using the latin writing system, I therefore wrote the `translateKanas` function to be able to have this data anyway, if I wanted to (ex: it returns "hitotsu" if you pass in "ひとつ").
-
 ## Converting english translations to an array
 
 I wanted to have the english translation, as an array of strings, which is why I used the following code:
