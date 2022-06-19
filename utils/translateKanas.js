@@ -10,10 +10,16 @@ const hiraganas = {
   げ: "ge",
   ご: "go",
   さ: "sa",
+  シ: "shi",
+  し: "shi",
   す: "su",
   せ: "se",
   そ: "so",
   ざ: "za",
+  ジ: "ji",
+  じ: "ji",
+  ぜ: "ze",
+  ぞ: "zo",
   ず: "zu",
   た: "ta",
   ち: "chi",
@@ -30,9 +36,10 @@ const hiraganas = {
   ね: "ne",
   の: "no",
   は: "ha",
-  ふ: "fu",
   へ: "he",
+  ひ: "hi",
   ほ: "ho",
+  ふ: "fu",
   ば: "ba",
   び: "bi",
   ぶ: "bu",
@@ -41,15 +48,20 @@ const hiraganas = {
   ぼ: "bo",
   ぱ: "pa",
   ぴ: "pi",
-  ぷ: "pu",
   ぺ: "pe",
   ぽ: "po",
+  ぷ: "pu",
   ま: "ma",
   み: "mi",
   む: "mu",
   め: "me",
   も: "mo",
   や: "ya",
+  ゃ: "ya",
+  よ: "yo",
+  ょ: "yo",
+  ゆ: "yu",
+  ゅ: "yu",
   ら: "ra",
   り: "ri",
   る: "ru",
@@ -60,8 +72,10 @@ const hiraganas = {
   ゑ: "we",
   を: "wo",
   あ: "a",
-  い: "i",
   え: "e",
+  い: "i",
+  お: "o",
+  う: "u",
   ん: "n",
 };
 
@@ -81,6 +95,7 @@ const katakanas = {
   セ: "se",
   ソ: "so",
   ザ: "za",
+  チ: "chi",
   ヅ: "dzu",
   ズ: "zu",
   ゼ: "ze",
@@ -102,7 +117,11 @@ const katakanas = {
   フ: "fu",
   ヘ: "he",
   ホ: "ho",
+  パ: "pa",
+  ペ: "pe",
+  ピ: "pi",
   ポ: "po",
+  プ: "pu",
   バ: "ba",
   ビ: "bi",
   ブ: "bu",
@@ -113,6 +132,12 @@ const katakanas = {
   メ: "me",
   モ: "mo",
   ヤ: "ya",
+  ャ: "ya",
+  ヨ: "yo",
+  ョ: "yo",
+  ユ: "yu",
+  ュ: "yu",
+  ュ: "yu",
   ラ: "ra",
   リ: "ri",
   ル: "ru",
@@ -123,125 +148,104 @@ const katakanas = {
   ヱ: "we",
   ヲ: "wo",
   ア: "a",
-  イ: "i",
   エ: "e",
-  ン: "n",
-};
-
-const kanasThatCanHaveUWithAccent = {
-  ゆ: "yu",
-  ゅ: "yu",
-  ユ: "yu",
-  ュ: "yu",
-};
-
-const kanasThatCanTriggerUWithAccent = {
-  う: "u",
-  ウ: "u",
-};
-
-const kanasThatCanHaveOWithAccent = {
-  よ: "yo",
-  ょ: "yo",
-  ヨ: "yo",
-  ョ: "yo",
-};
-
-const kanasThatCanTriggerOWithAccent = {
-  お: "o",
+  イ: "i",
+  ィ: "i",
   オ: "o",
-};
-
-const kanasWithoutIBefore = {
-  ゃ: "ya",
-  ャ: "ya",
-  ゅ: "yu",
-  ュ: "yu",
-  ょ: "yo",
-  ョ: "yo",
-};
-
-const kanasWithoutYAfter = {
-  ひ: "hi",
-  シ: "shi",
-  ジ: "ji",
-  チ: "chi",
-  し: "shi",
-  じ: "ji",
+  ウ: "u",
+  ン: "n",
 };
 
 const kanas = {
   ...hiraganas,
   ...katakanas,
-  ...kanasWithoutIBefore,
-  ...kanasWithoutYAfter,
-  ...kanasThatCanHaveUWithAccent,
-  ...kanasThatCanTriggerUWithAccent,
-  ...kanasThatCanHaveOWithAccent,
-  ...kanasThatCanTriggerOWithAccent,
 };
 
-const duplicateConsonant = (string, character) => {
-  const indexCharacter = string.indexOf(character);
-  const characterAfter = kanas[string[indexCharacter + 1]];
+const kanasWithoutIBefore = ["ゃ", "ャ", "ゅ", "ュ", "ょ", "ョ"];
 
-  if (characterAfter) {
-    let regExp = new RegExp(character);
-    return string.replace(regExp, characterAfter[0]);
-  }
+const kanasWithoutYAfter = ["ひ", "シ", "ジ", "チ", "し", "じ"];
 
-  return string;
+const canTriggerAccentForEveryLetter = ["ー"];
+
+const combinableVowelsData = {
+  a: {
+    newLetter: "ā",
+    canHaveAccent: ["ダ"],
+    canTriggerAccent: [...canTriggerAccentForEveryLetter, "あ", "ア"],
+  },
+  i: {
+    newLetter: "ī",
+    canHaveAccent: ["し", "チ"],
+    canTriggerAccent: [...canTriggerAccentForEveryLetter, "い", "イ"],
+  },
+  o: {
+    newLetter: "ō",
+    canHaveAccent: ["ポ", "よ", "ょ", "ヨ", "ョ"],
+    canTriggerAccent: [...canTriggerAccentForEveryLetter, "お", "オ"],
+  },
+  u: {
+    newLetter: "ū",
+    canHaveAccent: ["ぷ", "ゆ", "ゅ", "ユ", "ュ"],
+    canTriggerAccent: [...canTriggerAccentForEveryLetter, "う", "ウ"],
+  },
 };
+
+const silentKanas = ["っ", "ー", "ッ"];
+
+const kanasThatDoubleConsonant = ["ッ", "っ"];
 
 const errorValue = "!!!!!!!!!!!!!!";
 
 const translateKanas = (string) => {
-  ["ッ", "っ"].forEach((character) => {
-    string = duplicateConsonant(string, character);
-  });
-
   return string
-    .replace(/しい/, "shī")
-    .replace(/チー/, "chī")
+    .replace(/ディ/, "di")
     .split("")
     .map((e, i) => {
+      // Verify if it's a kana and not a latin character
       if (e.charCodeAt() < 1000) {
         return e;
       }
-      if (kanasWithoutIBefore[string[i + 1]]) {
-        return kanas[e] ? kanas[e].replace("i", "") : errorValue;
-      }
-      if (kanasWithoutYAfter[string[i - 1]]) {
-        return kanas[e] ? kanas[e].replace("y", "") : errorValue;
-      }
-      // handles ū
-      if (
-        kanasThatCanHaveUWithAccent[e] &&
-        kanasThatCanTriggerUWithAccent[string[i + 1]]
-      ) {
-        return kanas[e] ? kanas[e].replace("u", "ū") : errorValue;
-      }
-      if (
-        kanasThatCanHaveUWithAccent[string[i - 1]] &&
-        kanasThatCanTriggerUWithAccent[e]
-      ) {
+
+      if (silentKanas.includes(e)) {
         return "";
       }
-      // handles ō
-      if (
-        kanasThatCanHaveOWithAccent[e] &&
-        kanasThatCanTriggerOWithAccent[string[i + 1]]
-      ) {
-        return kanas[e] ? kanas[e].replace("o", "ō") : errorValue;
+
+      let result = kanas[e];
+
+      if (kanasThatDoubleConsonant.includes(string[i - 1])) {
+        result = result ? result[0] + result : errorValue;
       }
-      if (
-        kanasThatCanHaveOWithAccent[string[i - 1]] &&
-        kanasThatCanTriggerOWithAccent[e]
-      ) {
-        return "";
+
+      if (kanasWithoutIBefore.includes(string[i + 1])) {
+        result = result ? result.replace("i", "") : errorValue;
       }
-      // default
-      return kanas[e] ? kanas[e] : errorValue;
+
+      // Adds accent on vowels
+      for (const key of Object.keys(combinableVowelsData)) {
+        const { canHaveAccent, canTriggerAccent, newLetter } =
+          combinableVowelsData[key];
+
+        if (
+          canHaveAccent.includes(e) &&
+          canTriggerAccent.includes(string[i + 1])
+        ) {
+          result = result ? result.replace(key, newLetter) : errorValue;
+        }
+        if (
+          canHaveAccent.includes(string[i - 1]) &&
+          canTriggerAccent.includes(e)
+        ) {
+          result = "";
+        }
+      }
+
+      if (result !== "") {
+        if (kanasWithoutYAfter.includes(string[i - 1])) {
+          result = result ? result.replace("y", "") : errorValue;
+        }
+      }
+
+      return result;
     })
     .join("");
 };

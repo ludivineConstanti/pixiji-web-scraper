@@ -398,5 +398,3125 @@
     "kana": "き",
     "kanaEn": "ki",
     "quizId": 1
+  },
+  {
+    "kanjiId": 51,
+    "kanji": "円",
+    "en": "yen",
+    "kana": "えん",
+    "kanaEn": "en",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 52,
+    "kanji": "入",
+    "en": "enter",
+    "kana": "はい",
+    "kanaEn": "hai",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 53,
+    "kanji": "出",
+    "en": "exit",
+    "kana": "で",
+    "kanaEn": "de",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 54,
+    "kanji": "立",
+    "en": "stand",
+    "kana": "りつ",
+    "kanaEn": "ri",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 55,
+    "kanji": "休",
+    "en": "rest",
+    "kana": "きゅう",
+    "kanaEn": "kyū",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 56,
+    "kanji": "先",
+    "en": "previous",
+    "kana": "さき",
+    "kanaEn": "saki",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 57,
+    "kanji": "夕",
+    "en": "evening",
+    "kana": "ゆう",
+    "kanaEn": "yū",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 58,
+    "kanji": "本",
+    "en": "book",
+    "kana": "ほん",
+    "kanaEn": "hon",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 59,
+    "kanji": "文",
+    "en": "text",
+    "kana": "ぶん",
+    "kanaEn": "bun",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 60,
+    "kanji": "字",
+    "en": "character",
+    "kana": "じ",
+    "kanaEn": "ji",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 61,
+    "kanji": "学",
+    "en": "study",
+    "kana": "がく",
+    "kanaEn": "gaku",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 62,
+    "kanji": "校",
+    "en": "school",
+    "kana": "こう",
+    "kanaEn": "kō",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 63,
+    "kanji": "村",
+    "en": "village",
+    "kana": "むら",
+    "kanaEn": "mura",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 64,
+    "kanji": "町",
+    "en": "town",
+    "kana": "まち",
+    "kanaEn": "machi",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 65,
+    "kanji": "森",
+    "en": "forest",
+    "kana": "もり",
+    "kanaEn": "mori",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 66,
+    "kanji": "正",
+    "en": "correct",
+    "kana": "ただし",
+    "kanaEn": "tadashi",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 67,
+    "kanji": "水",
+    "en": "water",
+    "kana": "みず",
+    "kanaEn": "mizu",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 68,
+    "kanji": "火",
+    "en": "fire",
+    "kana": "ひ",
+    "kanaEn": "hi",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 69,
+    "kanji": "玉",
+    "en": "ball",
+    "kana": "たま",
+    "kanaEn": "tama",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 70,
+    "kanji": "王",
+    "en": "king",
+    "kana": "おう",
+    "kanaEn": "ō",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 71,
+    "kanji": "石",
+    "en": "stone",
+    "kana": "いし",
+    "kanaEn": "ishi",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 72,
+    "kanji": "竹",
+    "en": "bamboo",
+    "kana": "たけ",
+    "kanaEn": "take",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 73,
+    "kanji": "糸",
+    "en": "thread",
+    "kana": "いと",
+    "kanaEn": "ito",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 74,
+    "kanji": "貝",
+    "en": "shellfish",
+    "kana": "かい",
+    "kanaEn": "kai",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 75,
+    "kanji": "車",
+    "en": "vehicle",
+    "kana": "くるま",
+    "kanaEn": "kuruma",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 76,
+    "kanji": "金",
+    "en": "money",
+    "kana": "かね",
+    "kanaEn": "kane",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 77,
+    "kanji": "雨",
+    "en": "rain",
+    "kana": "あめ",
+    "kanaEn": "ame",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 78,
+    "kanji": "赤",
+    "en": "red",
+    "kana": "あか",
+    "kanaEn": "aka",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 79,
+    "kanji": "青",
+    "en": "blue",
+    "kana": "あお",
+    "kanaEn": "ao",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 80,
+    "kanji": "白",
+    "en": "white",
+    "kana": "しろ",
+    "kanaEn": "shiro",
+    "quizId": 1
+  },
+  {
+    "kanjiId": 81,
+    "kanji": "数",
+    "en": "quantity",
+    "kana": "すう",
+    "kanaEn": "sū",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 82,
+    "kanji": "多",
+    "en": "many",
+    "kana": "おお",
+    "kanaEn": "ō",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 83,
+    "kanji": "少",
+    "en": "few",
+    "kana": "しょう",
+    "kanaEn": "shou",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 84,
+    "kanji": "万",
+    "en": "ten thousand",
+    "kana": "まん",
+    "kanaEn": "man",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 85,
+    "kanji": "半",
+    "en": "half",
+    "kana": "はん",
+    "kanaEn": "han",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 86,
+    "kanji": "形",
+    "en": "shape",
+    "kana": "かたち",
+    "kanaEn": "katachi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 87,
+    "kanji": "太",
+    "en": "fat",
+    "kana": "ふと",
+    "kanaEn": "futo",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 88,
+    "kanji": "細",
+    "en": "thin",
+    "kana": "ほそ",
+    "kanaEn": "hoso",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 89,
+    "kanji": "広",
+    "en": "wide",
+    "kana": "ひろ",
+    "kanaEn": "hiro",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 90,
+    "kanji": "長",
+    "en": "chief",
+    "kana": "ちょう",
+    "kanaEn": "chō",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 91,
+    "kanji": "点",
+    "en": "dot",
+    "kana": "てん",
+    "kanaEn": "ten",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 92,
+    "kanji": "丸",
+    "en": "circle",
+    "kana": "まる",
+    "kanaEn": "maru",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 93,
+    "kanji": "交",
+    "en": "association",
+    "kana": "こう",
+    "kanaEn": "kō",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 94,
+    "kanji": "光",
+    "en": "light",
+    "kana": "ひかり",
+    "kanaEn": "hikari",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 95,
+    "kanji": "角",
+    "en": "corner",
+    "kana": "かく",
+    "kanaEn": "kaku",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 96,
+    "kanji": "計",
+    "en": "plan",
+    "kana": "けい",
+    "kanaEn": "kei",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 97,
+    "kanji": "直",
+    "en": "price",
+    "kana": "あたい",
+    "kanaEn": "atai",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 98,
+    "kanji": "線",
+    "en": "line",
+    "kana": "せん",
+    "kanaEn": "sen",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 99,
+    "kanji": "矢",
+    "en": "arrow",
+    "kana": "や",
+    "kanaEn": "ya",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 100,
+    "kanji": "弱",
+    "en": "weak",
+    "kana": "よわ",
+    "kanaEn": "yowa",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 101,
+    "kanji": "強",
+    "en": "strong",
+    "kana": "つよ",
+    "kanaEn": "tsuyo",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 102,
+    "kanji": "高",
+    "en": "tall",
+    "kana": "たか",
+    "kanaEn": "taka",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 103,
+    "kanji": "同",
+    "en": "the same",
+    "kana": "おな",
+    "kanaEn": "ona",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 104,
+    "kanji": "親",
+    "en": "parent",
+    "kana": "おや",
+    "kanaEn": "oya",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 105,
+    "kanji": "母",
+    "en": "mother",
+    "kana": "はは",
+    "kanaEn": "haha",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 106,
+    "kanji": "父",
+    "en": "father",
+    "kana": "ちち",
+    "kanaEn": "chichi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 107,
+    "kanji": "姉",
+    "en": "older sister",
+    "kana": "あね",
+    "kanaEn": "ane",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 108,
+    "kanji": "兄",
+    "en": "older brother",
+    "kana": "あに",
+    "kanaEn": "ani",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 109,
+    "kanji": "弟",
+    "en": "younger brother",
+    "kana": "おとうと",
+    "kanaEn": "otōto",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 110,
+    "kanji": "妹",
+    "en": "younger sister",
+    "kana": "いもうと",
+    "kanaEn": "imōto",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 111,
+    "kanji": "自",
+    "en": "self",
+    "kana": "じ",
+    "kanaEn": "ji",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 112,
+    "kanji": "友",
+    "en": "friend",
+    "kana": "とも",
+    "kanaEn": "tomo",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 113,
+    "kanji": "体",
+    "en": "body​",
+    "kana": "からだ",
+    "kanaEn": "karada",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 114,
+    "kanji": "毛",
+    "en": "hair",
+    "kana": "け",
+    "kanaEn": "ke",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 115,
+    "kanji": "頭",
+    "en": "head",
+    "kana": "あたま",
+    "kanaEn": "atama",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 116,
+    "kanji": "顔",
+    "en": "face",
+    "kana": "かお",
+    "kanaEn": "kao",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 117,
+    "kanji": "首",
+    "en": "neck",
+    "kana": "くび",
+    "kanaEn": "kubi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 118,
+    "kanji": "心",
+    "en": "heart",
+    "kana": "こころ",
+    "kanaEn": "kokoro",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 119,
+    "kanji": "時",
+    "en": "time",
+    "kana": "とき",
+    "kanaEn": "toki",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 120,
+    "kanji": "曜",
+    "en": "day of the week",
+    "kana": "よう",
+    "kanaEn": "yō",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 121,
+    "kanji": "朝",
+    "en": "morning",
+    "kana": "あさ",
+    "kanaEn": "asa",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 122,
+    "kanji": "昼",
+    "en": "midday​",
+    "kana": "ひる",
+    "kanaEn": "hiru",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 123,
+    "kanji": "夜",
+    "en": "night",
+    "kana": "よる",
+    "kanaEn": "yoru",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 124,
+    "kanji": "分",
+    "en": "part",
+    "kana": "ぶん",
+    "kanaEn": "bun",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 125,
+    "kanji": "週",
+    "en": "week",
+    "kana": "しゅう",
+    "kanaEn": "shū",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 126,
+    "kanji": "春",
+    "en": "spring",
+    "kana": "はる",
+    "kanaEn": "haru",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 127,
+    "kanji": "夏",
+    "en": "summer",
+    "kana": "なつ",
+    "kanaEn": "natsu",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 128,
+    "kanji": "秋",
+    "en": "autumn",
+    "kana": "あき",
+    "kanaEn": "aki",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 129,
+    "kanji": "冬",
+    "en": "winter",
+    "kana": "ふゆ",
+    "kanaEn": "fuyu",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 130,
+    "kanji": "今",
+    "en": "now",
+    "kana": "いま",
+    "kanaEn": "ima",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 131,
+    "kanji": "新",
+    "en": "new",
+    "kana": "あたら",
+    "kanaEn": "atara",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 132,
+    "kanji": "古",
+    "en": "old",
+    "kana": "ふる",
+    "kanaEn": "furu",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 133,
+    "kanji": "間",
+    "en": "gap",
+    "kana": "あいだ",
+    "kanaEn": "aida",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 134,
+    "kanji": "方",
+    "en": "direction",
+    "kana": "ほう",
+    "kanaEn": "hō",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 135,
+    "kanji": "北",
+    "en": "north",
+    "kana": "きた",
+    "kanaEn": "kita",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 136,
+    "kanji": "南",
+    "en": "south",
+    "kana": "みなみ",
+    "kanaEn": "minami",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 137,
+    "kanji": "東",
+    "en": "east",
+    "kana": "ひがし",
+    "kanaEn": "higashi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 138,
+    "kanji": "西",
+    "en": "west",
+    "kana": "にし",
+    "kanaEn": "nishi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 139,
+    "kanji": "遠",
+    "en": "distant​",
+    "kana": "とお",
+    "kanaEn": "tō",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 140,
+    "kanji": "近",
+    "en": "near",
+    "kana": "ちか",
+    "kanaEn": "chika",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 141,
+    "kanji": "前",
+    "en": "before",
+    "kana": "まえ",
+    "kanaEn": "mae",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 142,
+    "kanji": "後",
+    "en": "behind",
+    "kana": "うし",
+    "kanaEn": "ushi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 143,
+    "kanji": "内",
+    "en": "inside",
+    "kana": "うし",
+    "kanaEn": "ushi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 144,
+    "kanji": "外",
+    "en": "outside",
+    "kana": "そと",
+    "kanaEn": "soto",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 145,
+    "kanji": "場",
+    "en": "place",
+    "kana": "ば",
+    "kanaEn": "ba",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 146,
+    "kanji": "地",
+    "en": "earth",
+    "kana": "ち",
+    "kanaEn": "chi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 147,
+    "kanji": "国",
+    "en": "country",
+    "kana": "くに",
+    "kanaEn": "kuni",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 148,
+    "kanji": "園",
+    "en": "garden",
+    "kana": "その",
+    "kanaEn": "sono",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 149,
+    "kanji": "谷",
+    "en": "valley",
+    "kana": "たに",
+    "kanaEn": "tani",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 150,
+    "kanji": "野",
+    "en": "field",
+    "kana": "の",
+    "kanaEn": "no",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 151,
+    "kanji": "原",
+    "en": "meadow",
+    "kana": "はら",
+    "kanaEn": "hara",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 152,
+    "kanji": "里",
+    "en": "village",
+    "kana": "り",
+    "kanaEn": "ri",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 153,
+    "kanji": "市",
+    "en": "city",
+    "kana": "し",
+    "kanaEn": "shi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 154,
+    "kanji": "京",
+    "en": "imperial capital",
+    "kana": "きょう",
+    "kanaEn": "kyō",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 155,
+    "kanji": "風",
+    "en": "wind",
+    "kana": "かぜ",
+    "kanaEn": "kaze",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 156,
+    "kanji": "雪",
+    "en": "snow",
+    "kana": "ゆき",
+    "kanaEn": "yuki",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 157,
+    "kanji": "雲",
+    "en": "cloud",
+    "kana": "くも",
+    "kanaEn": "kumo",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 158,
+    "kanji": "池",
+    "en": "pond",
+    "kana": "いけ",
+    "kanaEn": "ike",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 159,
+    "kanji": "海",
+    "en": "ocean",
+    "kana": "うみ",
+    "kanaEn": "umi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 160,
+    "kanji": "岩",
+    "en": "rock",
+    "kana": "いわ",
+    "kanaEn": "iwa",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 161,
+    "kanji": "星",
+    "en": "star",
+    "kana": "ほし",
+    "kanaEn": "hoshi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 162,
+    "kanji": "室",
+    "en": "room",
+    "kana": "しつ",
+    "kanaEn": "shitsu",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 163,
+    "kanji": "戸",
+    "en": "door",
+    "kana": "と",
+    "kanaEn": "to",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 164,
+    "kanji": "家",
+    "en": "house",
+    "kana": "いえ",
+    "kanaEn": "ie",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 165,
+    "kanji": "寺",
+    "en": "temple",
+    "kana": "てら",
+    "kanaEn": "tera",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 166,
+    "kanji": "通",
+    "en": "expert",
+    "kana": "つう",
+    "kanaEn": "tsū",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 167,
+    "kanji": "門",
+    "en": "gate",
+    "kana": "もん",
+    "kanaEn": "mon",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 168,
+    "kanji": "道",
+    "en": "path",
+    "kana": "みち",
+    "kanaEn": "michi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 169,
+    "kanji": "話",
+    "en": "conversation",
+    "kana": "はなし",
+    "kanaEn": "hanashi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 170,
+    "kanji": "言",
+    "en": "word",
+    "kana": "げん",
+    "kanaEn": "gen",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 171,
+    "kanji": "答",
+    "en": "answer",
+    "kana": "こた",
+    "kanaEn": "kota",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 172,
+    "kanji": "声",
+    "en": "voice",
+    "kana": "こえ",
+    "kanaEn": "koe",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 173,
+    "kanji": "聞",
+    "en": "hear",
+    "kana": "き",
+    "kanaEn": "ki",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 174,
+    "kanji": "語",
+    "en": "language",
+    "kana": "ご",
+    "kanaEn": "go",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 175,
+    "kanji": "読",
+    "en": "read",
+    "kana": "よ",
+    "kanaEn": "yo",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 176,
+    "kanji": "書",
+    "en": "book",
+    "kana": "しょ",
+    "kanaEn": "sho",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 177,
+    "kanji": "記",
+    "en": "account",
+    "kana": "き",
+    "kanaEn": "ki",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 178,
+    "kanji": "紙",
+    "en": "paper",
+    "kana": "かみ",
+    "kanaEn": "kami",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 179,
+    "kanji": "画",
+    "en": "stroke",
+    "kana": "かく",
+    "kanaEn": "kaku",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 180,
+    "kanji": "絵",
+    "en": "picture, drawing",
+    "kana": "え",
+    "kanaEn": "e",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 181,
+    "kanji": "図",
+    "en": "map, drawing",
+    "kana": "ず",
+    "kanaEn": "zu",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 182,
+    "kanji": "工",
+    "en": "(factory) worker",
+    "kana": "こう",
+    "kanaEn": "kō",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 183,
+    "kanji": "教",
+    "en": "teach",
+    "kana": "おし",
+    "kanaEn": "oshi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 184,
+    "kanji": "晴",
+    "en": "clear up",
+    "kana": "は",
+    "kanaEn": "ha",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 185,
+    "kanji": "思",
+    "en": "think",
+    "kana": "おも",
+    "kanaEn": "omo",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 186,
+    "kanji": "考",
+    "en": "thought",
+    "kana": "こう",
+    "kanaEn": "kō",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 187,
+    "kanji": "知",
+    "en": "wisdom",
+    "kana": "ち",
+    "kanaEn": "chi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 188,
+    "kanji": "才",
+    "en": "ability",
+    "kana": "さい",
+    "kanaEn": "sai",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 189,
+    "kanji": "理",
+    "en": "logic",
+    "kana": "り",
+    "kanaEn": "ri",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 190,
+    "kanji": "算",
+    "en": "calculate",
+    "kana": "さん",
+    "kanaEn": "san",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 191,
+    "kanji": "作",
+    "en": "work",
+    "kana": "さく",
+    "kanaEn": "saku",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 192,
+    "kanji": "元",
+    "en": "origin",
+    "kana": "もと",
+    "kanaEn": "moto",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 193,
+    "kanji": "食",
+    "en": "food",
+    "kana": "しょく",
+    "kanaEn": "shoku",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 194,
+    "kanji": "肉",
+    "en": "meat",
+    "kana": "にく",
+    "kanaEn": "niku",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 195,
+    "kanji": "馬",
+    "en": "horse",
+    "kana": "うま",
+    "kanaEn": "uma",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 196,
+    "kanji": "牛",
+    "en": "cow",
+    "kana": "うし",
+    "kanaEn": "ushi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 197,
+    "kanji": "魚",
+    "en": "fish",
+    "kana": "さかな",
+    "kanaEn": "sakana",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 198,
+    "kanji": "鳥",
+    "en": "bird",
+    "kana": "とり",
+    "kanaEn": "tori",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 199,
+    "kanji": "羽",
+    "en": "feather",
+    "kana": "はね",
+    "kanaEn": "hane",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 200,
+    "kanji": "鳴",
+    "en": "cry",
+    "kana": "な",
+    "kanaEn": "na",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 201,
+    "kanji": "麦",
+    "en": "wheat",
+    "kana": "むぎ",
+    "kanaEn": "mugi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 202,
+    "kanji": "米",
+    "en": "rice",
+    "kana": "こめ",
+    "kanaEn": "kome",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 203,
+    "kanji": "茶",
+    "en": "tea",
+    "kana": "ちゃ",
+    "kanaEn": "cha",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 204,
+    "kanji": "色",
+    "en": "color",
+    "kana": "いろ",
+    "kanaEn": "iro",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 205,
+    "kanji": "黄",
+    "en": "yellow",
+    "kana": "き",
+    "kanaEn": "ki",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 206,
+    "kanji": "黒",
+    "en": "black",
+    "kana": "くろ",
+    "kanaEn": "kuro",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 207,
+    "kanji": "来",
+    "en": "next",
+    "kana": "らい",
+    "kanaEn": "rai",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 208,
+    "kanji": "行",
+    "en": "go",
+    "kana": "い",
+    "kanaEn": "i",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 209,
+    "kanji": "帰",
+    "en": "return",
+    "kana": "かえ",
+    "kanaEn": "kae",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 210,
+    "kanji": "歩",
+    "en": "walk",
+    "kana": "ある",
+    "kanaEn": "aru",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 211,
+    "kanji": "走",
+    "en": "run",
+    "kana": "そう",
+    "kanaEn": "sō",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 212,
+    "kanji": "止",
+    "en": "to stop",
+    "kana": "と",
+    "kanaEn": "to",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 213,
+    "kanji": "活",
+    "en": "living",
+    "kana": "かつ",
+    "kanaEn": "katsu",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 214,
+    "kanji": "店",
+    "en": "store",
+    "kana": "みせ",
+    "kanaEn": "mise",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 215,
+    "kanji": "買",
+    "en": "buy",
+    "kana": "か",
+    "kanaEn": "ka",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 216,
+    "kanji": "売",
+    "en": "sell",
+    "kana": "う",
+    "kanaEn": "u",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 217,
+    "kanji": "午",
+    "en": "noon",
+    "kana": "ご",
+    "kanaEn": "go",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 218,
+    "kanji": "汽",
+    "en": "vapor",
+    "kana": "き",
+    "kanaEn": "ki",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 219,
+    "kanji": "弓",
+    "en": "bow",
+    "kana": "ゆみ",
+    "kanaEn": "yumi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 220,
+    "kanji": "回",
+    "en": "counter for occurrences",
+    "kana": "かい",
+    "kanaEn": "kai",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 221,
+    "kanji": "会",
+    "en": "meeting",
+    "kana": "かい",
+    "kanaEn": "kai",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 222,
+    "kanji": "組",
+    "en": "set (of items)​",
+    "kana": "くみ",
+    "kanaEn": "kumi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 223,
+    "kanji": "船",
+    "en": "boat​",
+    "kana": "ふね",
+    "kanaEn": "fune",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 224,
+    "kanji": "明",
+    "en": "brightly​",
+    "kana": "さや",
+    "kanaEn": "saya",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 225,
+    "kanji": "社",
+    "en": "company",
+    "kana": "しゃ",
+    "kanaEn": "sha",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 226,
+    "kanji": "切",
+    "en": "cut",
+    "kana": "き",
+    "kanaEn": "ki",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 227,
+    "kanji": "電",
+    "en": "electricity",
+    "kana": "でん",
+    "kanaEn": "den",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 228,
+    "kanji": "毎",
+    "en": "every",
+    "kana": "ごと",
+    "kanaEn": "goto",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 229,
+    "kanji": "合",
+    "en": "to meet",
+    "kana": "あ",
+    "kanaEn": "a",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 230,
+    "kanji": "当",
+    "en": "right, appropriate",
+    "kana": "とう",
+    "kanaEn": "tō",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 231,
+    "kanji": "台",
+    "en": "podium",
+    "kana": "だい",
+    "kanaEn": "dai",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 232,
+    "kanji": "楽",
+    "en": "music",
+    "kana": "がく",
+    "kanaEn": "gaku",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 233,
+    "kanji": "公",
+    "en": "governmental",
+    "kana": "おおやけ",
+    "kanaEn": "ōyake",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 234,
+    "kanji": "引",
+    "en": "pull",
+    "kana": "ひ",
+    "kanaEn": "hi",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 235,
+    "kanji": "科",
+    "en": "department",
+    "kana": "か",
+    "kanaEn": "ka",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 236,
+    "kanji": "歌",
+    "en": "song",
+    "kana": "うた",
+    "kanaEn": "uta",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 237,
+    "kanji": "刀",
+    "en": "sword",
+    "kana": "かたな",
+    "kanaEn": "katana",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 238,
+    "kanji": "番",
+    "en": "number (in a series)",
+    "kana": "ばん",
+    "kanaEn": "ban",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 239,
+    "kanji": "用",
+    "en": "task",
+    "kana": "よう",
+    "kanaEn": "yō",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 240,
+    "kanji": "何",
+    "en": "what",
+    "kana": "なに",
+    "kanaEn": "nani",
+    "quizId": 2
+  },
+  {
+    "kanjiId": 241,
+    "kanji": "丁",
+    "en": "street, district",
+    "kana": "ちょう",
+    "kanaEn": "chō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 242,
+    "kanji": "世",
+    "en": "world, society",
+    "kana": "よ",
+    "kanaEn": "yo",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 243,
+    "kanji": "両",
+    "en": "both",
+    "kana": "りょう",
+    "kanaEn": "ryō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 244,
+    "kanji": "主",
+    "en": "master",
+    "kana": "しゅ",
+    "kanaEn": "shu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 245,
+    "kanji": "乗",
+    "en": "multiplication",
+    "kana": "じょう",
+    "kanaEn": "jō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 246,
+    "kanji": "予",
+    "en": "I, me",
+    "kana": "よ",
+    "kanaEn": "yo",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 247,
+    "kanji": "事",
+    "en": "thing",
+    "kana": "じ",
+    "kanaEn": "ji",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 248,
+    "kanji": "仕",
+    "en": "serve",
+    "kana": "し",
+    "kanaEn": "shi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 249,
+    "kanji": "他",
+    "en": "other",
+    "kana": "ほか",
+    "kanaEn": "hoka",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 250,
+    "kanji": "代",
+    "en": "substitute",
+    "kana": "ほか",
+    "kanaEn": "hoka",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 251,
+    "kanji": "住",
+    "en": "dwell",
+    "kana": "じゅう",
+    "kanaEn": "jū",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 252,
+    "kanji": "使",
+    "en": "use",
+    "kana": "つか",
+    "kanaEn": "tsuka",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 253,
+    "kanji": "係",
+    "en": "person in charge",
+    "kana": "かかり",
+    "kanaEn": "kakari",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 254,
+    "kanji": "倍",
+    "en": "double",
+    "kana": "ばい",
+    "kanaEn": "bai",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 255,
+    "kanji": "全",
+    "en": "whole",
+    "kana": "ぜん",
+    "kanaEn": "zen",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 256,
+    "kanji": "具",
+    "en": "tool",
+    "kana": "ぐ",
+    "kanaEn": "gu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 257,
+    "kanji": "写",
+    "en": "copy",
+    "kana": "うつ",
+    "kanaEn": "utsu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 258,
+    "kanji": "列",
+    "en": "row",
+    "kana": "れつ",
+    "kanaEn": "retsu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 259,
+    "kanji": "助",
+    "en": "help",
+    "kana": "じょ",
+    "kanaEn": "jiyo",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 260,
+    "kanji": "勉",
+    "en": "diligence",
+    "kana": "べん",
+    "kanaEn": "ben",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 261,
+    "kanji": "動",
+    "en": "move",
+    "kana": "どう",
+    "kanaEn": "dō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 262,
+    "kanji": "勝",
+    "en": "win",
+    "kana": "しょう",
+    "kanaEn": "shou",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 263,
+    "kanji": "化",
+    "en": "make something",
+    "kana": "か",
+    "kanaEn": "ka",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 264,
+    "kanji": "区",
+    "en": "ward",
+    "kana": "く",
+    "kanaEn": "ku",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 265,
+    "kanji": "医",
+    "en": "doctor",
+    "kana": "い",
+    "kanaEn": "i",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 266,
+    "kanji": "去",
+    "en": "leave",
+    "kana": "さ",
+    "kanaEn": "sa",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 267,
+    "kanji": "反",
+    "en": "anti-",
+    "kana": "はん",
+    "kanaEn": "han",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 268,
+    "kanji": "取",
+    "en": "take",
+    "kana": "しゅ",
+    "kanaEn": "shiyu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 269,
+    "kanji": "受",
+    "en": "receive",
+    "kana": "う",
+    "kanaEn": "u",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 270,
+    "kanji": "号",
+    "en": "number",
+    "kana": "ごう",
+    "kanaEn": "gou",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 271,
+    "kanji": "向",
+    "en": "to face",
+    "kana": "む",
+    "kanaEn": "mu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 272,
+    "kanji": "君",
+    "en": "you",
+    "kana": "きみ",
+    "kanaEn": "kimi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 273,
+    "kanji": "味",
+    "en": "flavor",
+    "kana": "あじ",
+    "kanaEn": "aji",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 274,
+    "kanji": "命",
+    "en": "life",
+    "kana": "いのち",
+    "kanaEn": "inochi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 275,
+    "kanji": "和",
+    "en": "harmony",
+    "kana": "わ",
+    "kanaEn": "wa",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 276,
+    "kanji": "品",
+    "en": "article",
+    "kana": "ひん",
+    "kanaEn": "hin",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 277,
+    "kanji": "員",
+    "en": "member",
+    "kana": "いん",
+    "kanaEn": "in",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 278,
+    "kanji": "商",
+    "en": "commerce",
+    "kana": "しょう",
+    "kanaEn": "shou",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 279,
+    "kanji": "問",
+    "en": "question",
+    "kana": "もん",
+    "kanaEn": "mon",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 280,
+    "kanji": "坂",
+    "en": "slope",
+    "kana": "さか",
+    "kanaEn": "saka",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 281,
+    "kanji": "央",
+    "en": "center",
+    "kana": "おう",
+    "kanaEn": "ō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 282,
+    "kanji": "始",
+    "en": "begin",
+    "kana": "はじ",
+    "kanaEn": "haji",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 283,
+    "kanji": "委",
+    "en": "committee",
+    "kana": "い",
+    "kanaEn": "i",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 284,
+    "kanji": "守",
+    "en": "protect",
+    "kana": "まも",
+    "kanaEn": "mamo",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 285,
+    "kanji": "安",
+    "en": "cheap",
+    "kana": "やす",
+    "kanaEn": "yasu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 286,
+    "kanji": "定",
+    "en": "certainty",
+    "kana": "じょう",
+    "kanaEn": "jiyou",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 287,
+    "kanji": "実",
+    "en": "fruit",
+    "kana": "じつ",
+    "kanaEn": "jitsu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 288,
+    "kanji": "客",
+    "en": "guest",
+    "kana": "きゃく",
+    "kanaEn": "kyaku",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 289,
+    "kanji": "宮",
+    "en": "shrine",
+    "kana": "みや",
+    "kanaEn": "miya",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 290,
+    "kanji": "宿",
+    "en": "inn",
+    "kana": "やど",
+    "kanaEn": "yado",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 291,
+    "kanji": "寒",
+    "en": "cold",
+    "kana": "さむ",
+    "kanaEn": "samu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 292,
+    "kanji": "対",
+    "en": "against",
+    "kana": "たい",
+    "kanaEn": "tai",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 293,
+    "kanji": "局",
+    "en": "office",
+    "kana": "きょく",
+    "kanaEn": "kyoku",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 294,
+    "kanji": "屋",
+    "en": "roof",
+    "kana": "や",
+    "kanaEn": "ya",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 295,
+    "kanji": "岸",
+    "en": "shore",
+    "kana": "きし",
+    "kanaEn": "kishi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 296,
+    "kanji": "島",
+    "en": "island",
+    "kana": "しま",
+    "kanaEn": "shima",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 297,
+    "kanji": "州",
+    "en": "state",
+    "kana": "しゅう",
+    "kanaEn": "shū",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 298,
+    "kanji": "帳",
+    "en": "notebook",
+    "kana": "ちょう",
+    "kanaEn": "chō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 299,
+    "kanji": "平",
+    "en": "flat",
+    "kana": "ひら",
+    "kanaEn": "hira",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 300,
+    "kanji": "幸",
+    "en": "happiness",
+    "kana": "さち",
+    "kanaEn": "sachi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 301,
+    "kanji": "度",
+    "en": "degree",
+    "kana": "ど",
+    "kanaEn": "do",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 302,
+    "kanji": "庫",
+    "en": "warehouse",
+    "kana": "こ",
+    "kanaEn": "ko",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 303,
+    "kanji": "庭",
+    "en": "yard",
+    "kana": "にわ",
+    "kanaEn": "niwa",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 304,
+    "kanji": "式",
+    "en": "style",
+    "kana": "しき",
+    "kanaEn": "shiki",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 305,
+    "kanji": "役",
+    "en": "role",
+    "kana": "やく",
+    "kanaEn": "yaku",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 306,
+    "kanji": "待",
+    "en": "wait",
+    "kana": "ま",
+    "kanaEn": "ma",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 307,
+    "kanji": "急",
+    "en": "hurry",
+    "kana": "きゅう",
+    "kanaEn": "kyū",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 308,
+    "kanji": "息",
+    "en": "breath",
+    "kana": "いき",
+    "kanaEn": "iki",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 309,
+    "kanji": "悪",
+    "en": "evil",
+    "kana": "あく",
+    "kanaEn": "aku",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 310,
+    "kanji": "悲",
+    "en": "sad",
+    "kana": "かな",
+    "kanaEn": "kana",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 311,
+    "kanji": "想",
+    "en": "thought",
+    "kana": "そう",
+    "kanaEn": "sō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 312,
+    "kanji": "意",
+    "en": "feelings",
+    "kana": "い",
+    "kanaEn": "i",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 313,
+    "kanji": "感",
+    "en": "feel",
+    "kana": "かん",
+    "kanaEn": "kan",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 314,
+    "kanji": "所",
+    "en": "place",
+    "kana": "ところ",
+    "kanaEn": "tokoro",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 315,
+    "kanji": "打",
+    "en": "hit",
+    "kana": "だ",
+    "kanaEn": "da",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 316,
+    "kanji": "投",
+    "en": "throw",
+    "kana": "とう",
+    "kanaEn": "tō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 317,
+    "kanji": "拾",
+    "en": "pick up",
+    "kana": "ひろ",
+    "kanaEn": "hiro",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 318,
+    "kanji": "持",
+    "en": "hold",
+    "kana": "も",
+    "kanaEn": "mo",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 319,
+    "kanji": "指",
+    "en": "finger",
+    "kana": "ゆび",
+    "kanaEn": "yubi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 320,
+    "kanji": "放",
+    "en": "release",
+    "kana": "はな",
+    "kanaEn": "hana",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 321,
+    "kanji": "整",
+    "en": "organize",
+    "kana": "せい",
+    "kanaEn": "sei",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 322,
+    "kanji": "旅",
+    "en": "trip",
+    "kana": "たび",
+    "kanaEn": "tabi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 323,
+    "kanji": "族",
+    "en": "tribe",
+    "kana": "ぞく",
+    "kanaEn": "zoku",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 324,
+    "kanji": "昔",
+    "en": "long ago",
+    "kana": "むかし",
+    "kanaEn": "mukashi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 325,
+    "kanji": "昭",
+    "en": "shine",
+    "kana": "しょう",
+    "kanaEn": "shou",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 326,
+    "kanji": "暑",
+    "en": "hot",
+    "kana": "あつ",
+    "kanaEn": "atsu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 327,
+    "kanji": "暗",
+    "en": "darkness",
+    "kana": "あん",
+    "kanaEn": "an",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 328,
+    "kanji": "曲",
+    "en": "melody",
+    "kana": "きょく",
+    "kanaEn": "kyoku",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 329,
+    "kanji": "有",
+    "en": "existence",
+    "kana": "ゆう",
+    "kanaEn": "yū",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 330,
+    "kanji": "服",
+    "en": "clothes",
+    "kana": "ふく",
+    "kanaEn": "fuku",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 331,
+    "kanji": "期",
+    "en": "period of time",
+    "kana": "き",
+    "kanaEn": "ki",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 332,
+    "kanji": "板",
+    "en": "board",
+    "kana": "いた",
+    "kanaEn": "ita",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 333,
+    "kanji": "柱",
+    "en": "pillar",
+    "kana": "はしら",
+    "kanaEn": "hashira",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 334,
+    "kanji": "根",
+    "en": "root",
+    "kana": "ね",
+    "kanaEn": "ne",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 335,
+    "kanji": "植",
+    "en": "plant",
+    "kana": "う",
+    "kanaEn": "u",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 336,
+    "kanji": "業",
+    "en": "business",
+    "kana": "ぎょう",
+    "kanaEn": "gyou",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 337,
+    "kanji": "様",
+    "en": "appearing",
+    "kana": "よう",
+    "kanaEn": "yō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 338,
+    "kanji": "横",
+    "en": "horizontal",
+    "kana": "よこ",
+    "kanaEn": "yoko",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 339,
+    "kanji": "橋",
+    "en": "bridge",
+    "kana": "はし",
+    "kanaEn": "hashi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 340,
+    "kanji": "次",
+    "en": "next",
+    "kana": "つぎ",
+    "kanaEn": "tsugi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 341,
+    "kanji": "歯",
+    "en": "tooth",
+    "kana": "は",
+    "kanaEn": "ha",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 342,
+    "kanji": "死",
+    "en": "death",
+    "kana": "し",
+    "kanaEn": "shi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 343,
+    "kanji": "氷",
+    "en": "ice",
+    "kana": "こおり",
+    "kanaEn": "kōri",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 344,
+    "kanji": "決",
+    "en": "decision",
+    "kana": "けつ",
+    "kanaEn": "ketsu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 345,
+    "kanji": "油",
+    "en": "oil",
+    "kana": "あぶら",
+    "kanaEn": "abura",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 346,
+    "kanji": "波",
+    "en": "wave",
+    "kana": "なみ",
+    "kanaEn": "nami",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 347,
+    "kanji": "注",
+    "en": "comment",
+    "kana": "ちゅう",
+    "kanaEn": "chiyuu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 348,
+    "kanji": "泳",
+    "en": "swim",
+    "kana": "およ",
+    "kanaEn": "oyo",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 349,
+    "kanji": "洋",
+    "en": "ocean",
+    "kana": "よう",
+    "kanaEn": "yō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 350,
+    "kanji": "流",
+    "en": "manner",
+    "kana": "りゅう",
+    "kanaEn": "ryū",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 351,
+    "kanji": "消",
+    "en": "delete",
+    "kana": "け",
+    "kanaEn": "ke",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 352,
+    "kanji": "深",
+    "en": "deep",
+    "kana": "ふか",
+    "kanaEn": "fuka",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 353,
+    "kanji": "温",
+    "en": "idiot",
+    "kana": "ぬく",
+    "kanaEn": "nuku",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 354,
+    "kanji": "港",
+    "en": "harbor",
+    "kana": "みなと",
+    "kanaEn": "minato",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 355,
+    "kanji": "湖",
+    "en": "lake",
+    "kana": "みずうみ",
+    "kanaEn": "mizuumi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 356,
+    "kanji": "湯",
+    "en": "hot water",
+    "kana": "ゆ",
+    "kanaEn": "yu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 357,
+    "kanji": "漢",
+    "en": "Chinese",
+    "kana": "かん",
+    "kanaEn": "kan",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 358,
+    "kanji": "炭",
+    "en": "charcoal",
+    "kana": "すみ",
+    "kanaEn": "sumi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 359,
+    "kanji": "物",
+    "en": "thing",
+    "kana": "もの",
+    "kanaEn": "mono",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 360,
+    "kanji": "球",
+    "en": "sphere",
+    "kana": "きゅう",
+    "kanaEn": "kyū",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 361,
+    "kanji": "由",
+    "en": "reason",
+    "kana": "よし",
+    "kanaEn": "yoshi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 362,
+    "kanji": "申",
+    "en": "say",
+    "kana": "もう",
+    "kanaEn": "mō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 363,
+    "kanji": "界",
+    "en": "world",
+    "kana": "かい",
+    "kanaEn": "kai",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 364,
+    "kanji": "畑",
+    "en": "cultivated land",
+    "kana": "はたけ",
+    "kanaEn": "hatake",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 365,
+    "kanji": "病",
+    "en": "illness",
+    "kana": "やまい",
+    "kanaEn": "yamai",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 366,
+    "kanji": "発",
+    "en": "departure",
+    "kana": "はつ",
+    "kanaEn": "hatsu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 367,
+    "kanji": "登",
+    "en": "climb",
+    "kana": "とう",
+    "kanaEn": "tō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 368,
+    "kanji": "皮",
+    "en": "skin",
+    "kana": "かわ",
+    "kanaEn": "kawa",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 369,
+    "kanji": "皿",
+    "en": "dish",
+    "kana": "さら",
+    "kanaEn": "sara",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 370,
+    "kanji": "相",
+    "en": "mutual",
+    "kana": "あい",
+    "kanaEn": "ai",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 371,
+    "kanji": "県",
+    "en": "prefecture",
+    "kana": "けん",
+    "kanaEn": "ken",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 372,
+    "kanji": "真",
+    "en": "truth",
+    "kana": "しん",
+    "kanaEn": "shin",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 373,
+    "kanji": "着",
+    "en": "clothes",
+    "kana": "ぎ",
+    "kanaEn": "gi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 374,
+    "kanji": "短",
+    "en": "short",
+    "kana": "みじか",
+    "kanaEn": "mijika",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 375,
+    "kanji": "研",
+    "en": "sharpen",
+    "kana": "と",
+    "kanaEn": "to",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 376,
+    "kanji": "礼",
+    "en": "gratitude",
+    "kana": "れい",
+    "kanaEn": "rei",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 377,
+    "kanji": "神",
+    "en": "god",
+    "kana": "かみ",
+    "kanaEn": "kami",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 378,
+    "kanji": "祭",
+    "en": "festival",
+    "kana": "まつ",
+    "kanaEn": "matsu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 379,
+    "kanji": "福",
+    "en": "luck",
+    "kana": "ふく",
+    "kanaEn": "fuku",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 380,
+    "kanji": "秒",
+    "en": "second (time unit)",
+    "kana": "びょう",
+    "kanaEn": "byō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 381,
+    "kanji": "究",
+    "en": "research",
+    "kana": "きゅう",
+    "kanaEn": "kyū",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 382,
+    "kanji": "章",
+    "en": "chapter",
+    "kana": "しょう",
+    "kanaEn": "shou",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 383,
+    "kanji": "童",
+    "en": "juvenile",
+    "kana": "わらべ",
+    "kanaEn": "warabe",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 384,
+    "kanji": "笛",
+    "en": "whistle",
+    "kana": "ふえ",
+    "kanaEn": "fue",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 385,
+    "kanji": "第",
+    "en": "ordinal",
+    "kana": "だい",
+    "kanaEn": "dai",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 386,
+    "kanji": "筆",
+    "en": "writing brush",
+    "kana": "ふで",
+    "kanaEn": "fude",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 387,
+    "kanji": "等",
+    "en": "rank",
+    "kana": "とう",
+    "kanaEn": "tō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 388,
+    "kanji": "箱",
+    "en": "box",
+    "kana": "はこ",
+    "kanaEn": "hako",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 389,
+    "kanji": "級",
+    "en": "grade",
+    "kana": "きゅう",
+    "kanaEn": "kyū",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 390,
+    "kanji": "終",
+    "en": "end",
+    "kana": "つい",
+    "kanaEn": "tsui",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 391,
+    "kanji": "緑",
+    "en": "green",
+    "kana": "みどり",
+    "kanaEn": "midori",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 392,
+    "kanji": "練",
+    "en": "practice",
+    "kana": "ね",
+    "kanaEn": "ne",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 393,
+    "kanji": "羊",
+    "en": "sheep",
+    "kana": "ひつじ",
+    "kanaEn": "hitsuji",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 394,
+    "kanji": "美",
+    "en": "beauty",
+    "kana": "び",
+    "kanaEn": "bi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 395,
+    "kanji": "習",
+    "en": "learn",
+    "kana": "なら",
+    "kanaEn": "nara",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 396,
+    "kanji": "者",
+    "en": "someone",
+    "kana": "もの",
+    "kanaEn": "mono",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 397,
+    "kanji": "育",
+    "en": "nurture",
+    "kana": "そだ",
+    "kanaEn": "soda",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 398,
+    "kanji": "苦",
+    "en": "suffer",
+    "kana": "く",
+    "kanaEn": "ku",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 399,
+    "kanji": "荷",
+    "en": "luggage",
+    "kana": "に",
+    "kanaEn": "ni",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 400,
+    "kanji": "落",
+    "en": "fall",
+    "kana": "お",
+    "kanaEn": "o",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 401,
+    "kanji": "葉",
+    "en": "leaf",
+    "kana": "は",
+    "kanaEn": "ha",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 402,
+    "kanji": "薬",
+    "en": "medicine",
+    "kana": "くすり",
+    "kanaEn": "kusuri",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 403,
+    "kanji": "血",
+    "en": "blood",
+    "kana": "ち",
+    "kanaEn": "chi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 404,
+    "kanji": "表",
+    "en": "surface​",
+    "kana": "おもて",
+    "kanaEn": "omote",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 405,
+    "kanji": "詩",
+    "en": "poem",
+    "kana": "し",
+    "kanaEn": "Shi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 406,
+    "kanji": "調",
+    "en": "tone",
+    "kana": "ちょう",
+    "kanaEn": "chyu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 407,
+    "kanji": "談",
+    "en": "discuss",
+    "kana": "だん",
+    "kanaEn": "dan",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 408,
+    "kanji": "豆",
+    "en": "beans",
+    "kana": "まめ",
+    "kanaEn": "mame",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 409,
+    "kanji": "負",
+    "en": "negative",
+    "kana": "ふ",
+    "kanaEn": "fu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 410,
+    "kanji": "起",
+    "en": "awaken",
+    "kana": "お",
+    "kanaEn": "o",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 411,
+    "kanji": "路",
+    "en": "path",
+    "kana": "みち",
+    "kanaEn": "michi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 412,
+    "kanji": "身",
+    "en": "body",
+    "kana": "み",
+    "kanaEn": "mi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 413,
+    "kanji": "転",
+    "en": "turning around",
+    "kana": "くるり",
+    "kanaEn": "kururi",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 414,
+    "kanji": "軽",
+    "en": "light",
+    "kana": "けい",
+    "kanaEn": "kei",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 415,
+    "kanji": "農",
+    "en": "agriculture",
+    "kana": "のう",
+    "kanaEn": "nō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 416,
+    "kanji": "返",
+    "en": "repay",
+    "kana": "かえ",
+    "kanaEn": "kae",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 417,
+    "kanji": "追",
+    "en": "follow",
+    "kana": "お",
+    "kanaEn": "o",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 418,
+    "kanji": "送",
+    "en": "send",
+    "kana": "おく",
+    "kanaEn": "oku",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 419,
+    "kanji": "速",
+    "en": "fast",
+    "kana": "そく",
+    "kanaEn": "soku",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 420,
+    "kanji": "進",
+    "en": "progress",
+    "kana": "すす",
+    "kanaEn": "susu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 421,
+    "kanji": "遊",
+    "en": "play",
+    "kana": "あそ",
+    "kanaEn": "aso",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 422,
+    "kanji": "運",
+    "en": "carry",
+    "kana": "うん",
+    "kanaEn": "un",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 423,
+    "kanji": "部",
+    "en": "part",
+    "kana": "ぶ",
+    "kanaEn": "bu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 424,
+    "kanji": "都",
+    "en": "metropolis",
+    "kana": "みやこ",
+    "kanaEn": "miyako",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 425,
+    "kanji": "配",
+    "en": "distribute",
+    "kana": "くば",
+    "kanaEn": "kuba",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 426,
+    "kanji": "酒",
+    "en": "liquor",
+    "kana": "さけ",
+    "kanaEn": "sake",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 427,
+    "kanji": "重",
+    "en": "heavy",
+    "kana": "じゅう",
+    "kanaEn": "jū",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 428,
+    "kanji": "鉄",
+    "en": "iron",
+    "kana": "てつ",
+    "kanaEn": "tetsu",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 429,
+    "kanji": "銀",
+    "en": "silver",
+    "kana": "ぎん",
+    "kanaEn": "gin",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 430,
+    "kanji": "開",
+    "en": "open",
+    "kana": "あ",
+    "kanaEn": "a",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 431,
+    "kanji": "院",
+    "en": "institution",
+    "kana": "いん",
+    "kanaEn": "in",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 432,
+    "kanji": "陽",
+    "en": "sun",
+    "kana": "よう",
+    "kanaEn": "yō",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 433,
+    "kanji": "階",
+    "en": "storey, floor",
+    "kana": "かい",
+    "kanaEn": "kai",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 434,
+    "kanji": "集",
+    "en": "compilation",
+    "kana": "しゅう",
+    "kanaEn": "shū",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 435,
+    "kanji": "面",
+    "en": "face",
+    "kana": "めん",
+    "kanaEn": "men",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 436,
+    "kanji": "題",
+    "en": "topic",
+    "kana": "だい",
+    "kanaEn": "dai",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 437,
+    "kanji": "飲",
+    "en": "drink",
+    "kana": "いん",
+    "kanaEn": "in",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 438,
+    "kanji": "館",
+    "en": "public building",
+    "kana": "かん",
+    "kanaEn": "kan",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 439,
+    "kanji": "駅",
+    "en": "station",
+    "kana": "えき",
+    "kanaEn": "eki",
+    "quizId": 3
+  },
+  {
+    "kanjiId": 440,
+    "kanji": "鼻",
+    "en": "nose",
+    "kana": "はな",
+    "kanaEn": "hana",
+    "quizId": 3
   }
 ]

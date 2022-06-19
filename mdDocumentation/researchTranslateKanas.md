@@ -105,3 +105,42 @@ const translateKanas = (string) => {
 ```
 
 It goes through the entire string and can verify the conditions (if the mentionned characters are next to each other using `index + 1` and `index - 1`). It also checks multiple characters at the same time (if the current character is part of the group that interest us, it will be a property of the object we're using and return a value, otherwise, it will return `undefined`).
+
+Later I used that technique to add more functionnalities and switched to arrays to check if a condition should be applied or not. Now all the characters are stocked into the `hiraganas` object and the `katakanas` object that are merged into the `kanas` one.
+
+```Javascript
+const kanas = {
+  ...hiraganas,
+  ...katakanas,
+};
+```
+
+I tried dividing the characters between more objects, but it quickly became messy. I find storing the characters that fit a certain condition into an array, and then using this array to see if the condition should apply a lot more readable.
+
+```Javascript
+const kanasWithoutIBefore = ["ゃ", "ャ", "ゅ", "ュ", "ょ", "ョ"];
+
+const translateKanas = (string) => {
+  return string
+    .split("")
+    .map((e, i) => {
+      if (kanasWithoutIBefore.includes(string[i + 1])) {
+        return = kanas[e] ? kanas[e].replace("i", "") : errorValue;
+      }
+    })
+}
+```
+
+I also now store the value, instead of returning it directly, so that various modifications can be applied to it.
+
+```Javascript
+let result = kanas[e];
+
+if (kanasThatDoubleConsonant.includes(string[i - 1])) {
+  result = result ? result[0] + result : errorValue;
+}
+
+if (kanasWithoutIBefore.includes(string[i + 1])) {
+  result = result ? result.replace("i", "") : errorValue;
+}
+```
