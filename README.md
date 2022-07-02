@@ -1,1 +1,1 @@
-# pixiji-web-scraper
+# Pixiji Web Scraper
